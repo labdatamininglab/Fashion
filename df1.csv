@@ -1,0 +1,2010 @@
+Customer ID,Purchase Amount (USD),Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases,Age,Location,Gender,Purchased
+1,53,L,Gray,Winter,3.1,Yes,Express,Yes,Yes,14,Venmo,Fortnightly,65,9,2,Blouse
+1,64,L,Maroon,Winter,3.1,Yes,Express,Yes,Yes,2,Cash,Fortnightly,65,9,2,Sweater
+1,73,S,Maroon,Spring,3.1,Yes,Free Shipping,Yes,Yes,23,Credit Card,Weekly,65,9,2,Jeans
+1,90,M,Maroon,Spring,3.5,Yes,Next Day Air,Yes,Yes,49,PayPal,Weekly,65,9,2,Belt
+1,49,M,Turquoise,Spring,2.7,Yes,Free Shipping,Yes,Yes,31,PayPal,Annually,65,9,2,Blouse
+1,20,M,White,Summer,2.9,Yes,Standard,Yes,Yes,14,Venmo,Weekly,65,9,2,Sneakers
+1,85,M,Gray,Fall,3.2,Yes,Free Shipping,Yes,Yes,49,Cash,Quarterly,65,9,2,Shirt
+2,34,L,Charcoal,Winter,3.2,Yes,Free Shipping,Yes,Yes,19,Credit Card,Weekly,22,1,2,Shirt
+2,97,L,Silver,Summer,2.6,Yes,Express,Yes,Yes,8,Venmo,Annually,22,1,2,Belt
+2,31,M,Pink,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,4,Cash,Quarterly,22,1,2,Pants
+2,34,L,Purple,Fall,4.1,Yes,Store Pickup,Yes,Yes,26,Bank Transfer,Bi-Weekly,22,1,2,Shirt
+2,68,S,Olive,Winter,4.9,Yes,Store Pickup,Yes,Yes,10,Bank Transfer,Fortnightly,22,1,2,Shirt
+3,72,M,Gold,Winter,4.5,Yes,Express,Yes,Yes,37,Venmo,Fortnightly,22,2,1,Belt
+3,51,M,Violet,Spring,4.7,Yes,Express,Yes,Yes,31,PayPal,Weekly,22,2,1,Dress
+3,53,L,Teal,Winter,4.7,Yes,Free Shipping,Yes,Yes,34,Debit Card,Weekly,22,2,1,Belt
+3,81,M,Teal,Winter,2.8,Yes,Store Pickup,Yes,Yes,8,PayPal,Monthly,22,2,1,Shirt
+4,36,S,Gray,Spring,4.1,Yes,Next Day Air,Yes,Yes,44,Debit Card,Bi-Weekly,29,2,2,Sunglasses
+4,38,XL,Lavender,Winter,4.7,Yes,2-Day Shipping,Yes,Yes,36,Venmo,Quarterly,29,2,2,Dress
+4,48,S,Black,Summer,4.6,Yes,Free Shipping,Yes,Yes,17,Cash,Weekly,29,2,2,Sweater
+5,90,M,Green,Summer,3.3,Yes,Standard,Yes,Yes,46,Debit Card,Bi-Weekly,25,8,1,Pants
+5,51,M,Black,Winter,2.8,Yes,Express,Yes,Yes,50,Cash,Every 3 Months,25,8,1,Pants
+5,62,M,Charcoal,Winter,4.1,Yes,Store Pickup,Yes,Yes,22,Debit Card,Quarterly,25,8,1,Pants
+5,37,M,Peach,Summer,3.2,Yes,Store Pickup,Yes,Yes,32,Debit Card,Annually,25,8,1,Pants
+7,88,XL,White,Winter,4.4,Yes,Express,Yes,Yes,40,Credit Card,Weekly,50,6,2,Pants
+7,22,M,Green,Fall,2.9,Yes,Store Pickup,Yes,Yes,16,Debit Card,Weekly,50,6,2,Pants
+7,25,M,Silver,Summer,3.6,Yes,Express,Yes,Yes,14,PayPal,Annually,50,6,2,Pants
+7,20,M,Red,Spring,3.6,Yes,Next Day Air,Yes,Yes,13,Credit Card,Annually,50,6,2,Jewelry
+7,56,L,Cyan,Summer,5,Yes,Next Day Air,Yes,Yes,7,Bank Transfer,Every 3 Months,50,6,2,Shirt
+7,94,M,Gray,Fall,4.4,Yes,Free Shipping,Yes,Yes,41,PayPal,Every 3 Months,50,6,2,Pants
+7,48,S,Black,Fall,4.1,Yes,Store Pickup,Yes,Yes,14,Credit Card,Weekly,50,6,2,Dress
+7,31,L,Black,Winter,4.7,Yes,Standard,Yes,Yes,16,Credit Card,Monthly,50,6,2,Jewelry
+7,79,L,Brown,Winter,4.7,Yes,Store Pickup,Yes,Yes,45,Venmo,Monthly,50,6,2,Dress
+8,67,M,Silver,Summer,4.9,Yes,Free Shipping,Yes,Yes,37,Venmo,Annually,31,3,1,Pants
+8,38,L,Green,Summer,3.3,Yes,Store Pickup,Yes,Yes,45,Cash,Quarterly,31,3,1,Pants
+8,91,L,Violet,Spring,4.6,Yes,2-Day Shipping,Yes,Yes,38,PayPal,Quarterly,31,3,1,Sweater
+8,33,M,Cyan,Summer,4,Yes,2-Day Shipping,Yes,Yes,48,Credit Card,Bi-Weekly,31,3,1,Blouse
+8,69,M,Maroon,Winter,4.6,Yes,Free Shipping,Yes,Yes,44,PayPal,Fortnightly,31,3,1,Sweater
+8,45,S,Cyan,Summer,2.8,Yes,Store Pickup,Yes,Yes,10,PayPal,Weekly,31,3,1,Jeans
+8,37,M,Red,Winter,3.7,Yes,2-Day Shipping,Yes,Yes,44,Venmo,Every 3 Months,31,3,1,Dress
+8,60,S,Turquoise,Summer,4.2,Yes,Express,Yes,Yes,18,Credit Card,Monthly,31,3,1,Pants
+8,76,L,Beige,Winter,4.6,Yes,Next Day Air,Yes,Yes,31,Debit Card,Quarterly,31,3,1,Pants
+8,39,M,Orange,Spring,4.5,Yes,Standard,Yes,Yes,40,Venmo,Annually,31,3,1,Pants
+8,100,M,Beige,Spring,4.1,Yes,Free Shipping,Yes,Yes,15,PayPal,Annually,31,3,1,Belt
+9,69,L,Lavender,Fall,3.7,Yes,Store Pickup,Yes,Yes,19,PayPal,Fortnightly,29,6,1,Pants
+9,53,S,Silver,Summer,4.6,Yes,Free Shipping,Yes,Yes,45,PayPal,Weekly,29,6,1,Dress
+9,21,XL,Indigo,Fall,2.9,Yes,2-Day Shipping,Yes,Yes,25,PayPal,Annually,29,6,1,Shirt
+10,43,L,White,Summer,2.9,Yes,Store Pickup,Yes,Yes,45,Cash,Quarterly,69,6,1,Shirt
+10,54,M,Charcoal,Winter,4.5,Yes,Free Shipping,Yes,Yes,36,Cash,Weekly,69,6,1,Jewelry
+10,55,M,Orange,Summer,2.7,Yes,Store Pickup,Yes,Yes,38,Cash,Monthly,69,6,1,Shirt
+10,30,S,Indigo,Spring,4.6,Yes,Next Day Air,Yes,Yes,34,Debit Card,Bi-Weekly,69,6,1,Pants
+10,28,M,Red,Spring,3.7,Yes,Store Pickup,Yes,Yes,39,Debit Card,Bi-Weekly,69,6,1,Blouse
+11,59,XL,Gray,Winter,4.7,Yes,2-Day Shipping,Yes,Yes,7,Credit Card,Quarterly,55,6,1,Shirt
+11,20,M,Green,Summer,2.6,Yes,Free Shipping,Yes,Yes,26,Credit Card,Weekly,55,6,1,Sweater
+12,24,S,Peach,Winter,3.9,Yes,Next Day Air,Yes,Yes,35,Credit Card,Weekly,39,5,1,Shirt
+12,94,M,Brown,Summer,4.2,Yes,Next Day Air,Yes,Yes,35,Debit Card,Bi-Weekly,39,5,1,Belt
+12,28,M,Lavender,Winter,3,Yes,2-Day Shipping,Yes,Yes,49,Credit Card,Annually,39,5,1,Pants
+12,73,XL,Brown,Summer,4.7,Yes,Store Pickup,Yes,Yes,46,Credit Card,Weekly,39,5,1,Backpack
+12,64,M,White,Summer,4.4,Yes,Store Pickup,Yes,Yes,17,Debit Card,Fortnightly,39,5,1,Belt
+12,54,M,Charcoal,Summer,4.2,Yes,Free Shipping,Yes,Yes,29,Venmo,Monthly,39,5,1,Pants
+12,79,L,Yellow,Spring,4.6,Yes,Standard,Yes,Yes,4,Debit Card,Weekly,39,5,1,Belt
+13,37,L,Brown,Summer,4,Yes,Express,Yes,Yes,17,Cash,Weekly,27,7,2,Sweater
+13,68,M,Orange,Winter,4.7,Yes,Store Pickup,Yes,Yes,21,Credit Card,Every 3 Months,27,7,2,Pants
+13,21,S,Magenta,Spring,3.8,Yes,Free Shipping,Yes,Yes,31,Credit Card,Fortnightly,27,7,2,Sneakers
+13,79,L,Lavender,Winter,2.7,Yes,2-Day Shipping,Yes,Yes,43,Credit Card,Weekly,27,7,2,Sunglasses
+13,83,S,Green,Fall,4.8,Yes,Standard,Yes,Yes,18,Debit Card,Fortnightly,27,7,2,Belt
+13,36,M,Purple,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,44,Venmo,Every 3 Months,27,7,2,Backpack
+13,94,S,Magenta,Winter,4.7,Yes,2-Day Shipping,Yes,Yes,3,Venmo,Every 3 Months,27,7,2,Blouse
+13,33,L,Gray,Winter,4.4,Yes,Store Pickup,Yes,Yes,49,Debit Card,Monthly,27,7,2,Belt
+13,46,L,Silver,Summer,3.9,Yes,Next Day Air,Yes,Yes,21,Cash,Every 3 Months,27,7,2,Pants
+14,70,S,Cyan,Summer,4.4,Yes,Express,Yes,Yes,5,Cash,Weekly,24,2,2,Belt
+14,29,M,Magenta,Fall,4.2,Yes,Express,Yes,Yes,32,Debit Card,Every 3 Months,24,2,2,Belt
+15,48,L,Gold,Summer,2.9,Yes,Express,Yes,Yes,34,Bank Transfer,Annually,45,4,1,Dress
+15,26,M,Olive,Winter,2.9,Yes,Store Pickup,Yes,Yes,21,Bank Transfer,Every 3 Months,45,4,1,Dress
+15,85,M,Teal,Spring,2.7,Yes,Free Shipping,Yes,Yes,43,Bank Transfer,Bi-Weekly,45,4,1,Pants
+15,58,L,Violet,Spring,4.5,Yes,Express,Yes,Yes,3,Cash,Monthly,45,4,1,Blouse
+15,85,M,Blue,Summer,2.7,Yes,Free Shipping,Yes,Yes,21,Credit Card,Annually,45,4,1,Pants
+15,43,S,Teal,Summer,4.2,Yes,Free Shipping,Yes,Yes,32,Venmo,Monthly,45,4,1,Dress
+16,53,L,Gold,Summer,3.3,Yes,Next Day Air,Yes,Yes,36,Debit Card,Fortnightly,21,5,2,Dress
+16,91,M,Maroon,Spring,4.7,Yes,Free Shipping,Yes,Yes,50,Venmo,Fortnightly,21,5,2,Shirt
+16,96,M,Olive,Winter,2.6,Yes,2-Day Shipping,Yes,Yes,43,Bank Transfer,Every 3 Months,21,5,2,Pants
+16,72,XL,Blue,Summer,3.3,Yes,Store Pickup,Yes,Yes,24,Credit Card,Every 3 Months,21,5,2,Belt
+16,96,L,Maroon,Summer,2.6,Yes,Express,Yes,Yes,36,Credit Card,Every 3 Months,21,5,2,Shirt
+16,28,S,Olive,Spring,4,Yes,2-Day Shipping,Yes,Yes,21,Credit Card,Every 3 Months,21,5,2,Pants
+16,40,M,Turquoise,Summer,4.1,Yes,Standard,Yes,Yes,34,Bank Transfer,Weekly,21,5,2,Dress
+16,32,S,Peach,Spring,4.4,Yes,Standard,Yes,Yes,42,Bank Transfer,Every 3 Months,21,5,2,Belt
+17,95,M,Charcoal,Winter,4.5,Yes,Next Day Air,Yes,Yes,2,Debit Card,Bi-Weekly,62,2,1,Sunglasses
+17,41,L,Pink,Spring,3.7,Yes,2-Day Shipping,Yes,Yes,47,Cash,Bi-Weekly,62,2,1,Pants
+17,53,M,Green,Fall,3.7,Yes,2-Day Shipping,Yes,Yes,44,Debit Card,Fortnightly,62,2,1,Shirt
+17,47,M,Orange,Fall,3.5,Yes,Free Shipping,Yes,Yes,35,Credit Card,Monthly,62,2,1,Sweater
+17,83,XL,Pink,Fall,3.6,Yes,Next Day Air,Yes,Yes,15,Cash,Quarterly,62,2,1,Pants
+17,48,L,Violet,Summer,2.9,Yes,Express,Yes,Yes,29,Credit Card,Monthly,62,2,1,Dress
+17,99,S,Green,Winter,4.6,Yes,Standard,Yes,Yes,18,Credit Card,Every 3 Months,62,2,1,Pants
+17,87,M,Olive,Winter,4.4,Yes,2-Day Shipping,Yes,Yes,13,Venmo,Every 3 Months,62,2,1,Pants
+18,62,M,Purple,Fall,4.5,Yes,Standard,Yes,Yes,46,Credit Card,Weekly,48,9,2,Sweater
+18,76,S,Silver,Spring,4.6,Yes,Free Shipping,Yes,Yes,28,Credit Card,Weekly,48,9,2,Shirt
+19,100,L,Pink,Fall,3.8,Yes,Free Shipping,Yes,Yes,48,PayPal,Monthly,26,7,2,Sneakers
+19,73,S,Gold,Spring,3.6,Yes,Express,Yes,Yes,43,Venmo,Every 3 Months,26,7,2,Blouse
+19,92,M,Teal,Winter,4.8,Yes,Store Pickup,Yes,Yes,37,Cash,Annually,26,7,2,Shirt
+19,67,XL,Teal,Spring,2.6,Yes,Next Day Air,Yes,Yes,20,Bank Transfer,Annually,26,7,2,Jeans
+19,40,XL,Indigo,Summer,3.7,Yes,Express,Yes,Yes,33,Debit Card,Quarterly,26,7,2,Pants
+19,98,M,Maroon,Fall,2.7,Yes,Express,Yes,Yes,31,Cash,Fortnightly,26,7,2,Sunglasses
+19,85,XL,White,Spring,4.6,Yes,Express,Yes,Yes,50,Credit Card,Bi-Weekly,26,7,2,Belt
+19,67,L,Violet,Winter,4.8,Yes,Next Day Air,Yes,Yes,35,Credit Card,Quarterly,26,7,2,Shirt
+19,89,L,Red,Winter,4,Yes,Next Day Air,Yes,Yes,22,Venmo,Bi-Weekly,26,7,2,Belt
+20,24,L,Pink,Spring,4.4,Yes,2-Day Shipping,Yes,Yes,1,PayPal,Monthly,68,9,2,Sunglasses
+20,96,M,Charcoal,Fall,3.6,Yes,Next Day Air,Yes,Yes,4,Bank Transfer,Annually,68,9,2,Backpack
+20,35,L,White,Summer,3.7,Yes,Standard,Yes,Yes,31,Credit Card,Monthly,68,9,2,Pants
+20,67,L,Olive,Winter,3.1,Yes,Next Day Air,Yes,Yes,46,PayPal,Fortnightly,68,9,2,Sneakers
+20,79,L,Purple,Spring,3.4,Yes,Next Day Air,Yes,Yes,32,Bank Transfer,Bi-Weekly,68,9,2,Shirt
+20,85,M,Violet,Spring,2.6,Yes,Next Day Air,Yes,Yes,43,Bank Transfer,Fortnightly,68,9,2,Sweater
+20,26,M,Black,Summer,4,Yes,Standard,Yes,Yes,26,Venmo,Fortnightly,68,9,2,Backpack
+20,75,L,Purple,Summer,5,Yes,Free Shipping,Yes,Yes,9,Credit Card,Annually,68,9,2,Belt
+20,65,M,Red,Spring,4.3,Yes,Free Shipping,Yes,Yes,28,PayPal,Bi-Weekly,68,9,2,Blouse
+20,54,L,Maroon,Winter,3.1,Yes,Next Day Air,Yes,Yes,20,PayPal,Quarterly,68,9,2,Dress
+21,95,S,Blue,Summer,3.7,Yes,Store Pickup,Yes,Yes,9,Cash,Weekly,40,6,1,Belt
+21,94,M,Gray,Spring,3.8,Yes,Standard,Yes,Yes,48,Debit Card,Every 3 Months,40,6,1,Shirt
+21,86,S,Blue,Spring,3.4,Yes,Free Shipping,Yes,Yes,12,Venmo,Annually,40,6,1,Shirt
+21,32,L,Yellow,Summer,4.6,Yes,Express,Yes,Yes,29,Cash,Fortnightly,40,6,1,Belt
+21,45,L,Orange,Fall,4.8,Yes,2-Day Shipping,Yes,Yes,27,Cash,Bi-Weekly,40,6,1,Sweater
+21,76,M,Orange,Fall,4.3,Yes,Express,Yes,Yes,44,Cash,Annually,40,6,1,Belt
+22,84,L,Red,Summer,4,Yes,Express,Yes,Yes,32,Bank Transfer,Annually,57,6,1,Dress
+22,72,M,Olive,Winter,4.2,Yes,Standard,Yes,Yes,11,Cash,Fortnightly,57,6,1,Shirt
+22,40,L,Brown,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,44,Cash,Fortnightly,57,6,1,Backpack
+22,89,L,Brown,Fall,3.1,Yes,Free Shipping,Yes,Yes,46,Cash,Weekly,57,6,1,Sweater
+22,86,M,Gray,Spring,3.1,Yes,Next Day Air,Yes,Yes,50,PayPal,Annually,57,6,1,Sweater
+22,54,M,Indigo,Winter,3.6,Yes,Next Day Air,Yes,Yes,45,Venmo,Every 3 Months,57,6,1,Shirt
+22,36,L,Pink,Spring,3.9,Yes,Store Pickup,Yes,Yes,48,Cash,Every 3 Months,57,6,1,Shirt
+22,89,M,Gray,Winter,4.8,Yes,Next Day Air,Yes,Yes,26,Credit Card,Weekly,57,6,1,Sweater
+22,32,M,Gold,Spring,4.7,Yes,Standard,Yes,Yes,21,Credit Card,Fortnightly,57,6,1,Pants
+23,67,XL,Olive,Summer,4.2,Yes,2-Day Shipping,Yes,Yes,49,PayPal,Bi-Weekly,42,4,2,Dress
+23,39,L,Violet,Fall,3.7,Yes,Next Day Air,Yes,Yes,13,PayPal,Fortnightly,42,4,2,Pants
+23,29,L,Indigo,Summer,3.9,Yes,Standard,Yes,Yes,46,Credit Card,Weekly,42,4,2,Shirt
+23,58,M,Orange,Fall,4.7,Yes,2-Day Shipping,Yes,Yes,42,PayPal,Weekly,42,4,2,Backpack
+25,65,M,Violet,Winter,2.5,Yes,Next Day Air,Yes,Yes,25,Venmo,Annually,62,7,2,Sweater
+25,94,L,Gray,Fall,4.9,Yes,Store Pickup,Yes,Yes,25,Cash,Monthly,62,7,2,Dress
+25,81,M,Purple,Fall,4.1,Yes,Express,Yes,Yes,12,PayPal,Quarterly,62,7,2,Belt
+25,86,M,White,Winter,3.3,Yes,Free Shipping,Yes,Yes,4,Debit Card,Quarterly,62,7,2,Blouse
+25,43,M,Turquoise,Spring,4.7,Yes,Free Shipping,Yes,Yes,38,PayPal,Weekly,62,7,2,Sneakers
+25,29,M,Maroon,Winter,4.4,Yes,Store Pickup,Yes,Yes,42,Bank Transfer,Weekly,62,7,2,Shirt
+26,95,M,White,Fall,3.8,Yes,Store Pickup,Yes,Yes,30,Venmo,Annually,37,1,2,Belt
+26,28,L,Yellow,Fall,3.9,Yes,2-Day Shipping,Yes,Yes,50,Credit Card,Weekly,37,1,2,Shirt
+26,46,M,Turquoise,Fall,4.9,Yes,Free Shipping,Yes,Yes,45,PayPal,Weekly,37,1,2,Blouse
+26,58,L,Violet,Fall,3.1,Yes,Free Shipping,Yes,Yes,33,Credit Card,Fortnightly,37,1,2,Pants
+26,48,M,Beige,Fall,2.7,Yes,Store Pickup,Yes,Yes,25,PayPal,Quarterly,37,1,2,Belt
+28,43,M,Silver,Fall,3.2,Yes,Express,Yes,Yes,25,Cash,Monthly,31,3,2,Shirt
+28,95,M,Teal,Fall,4.5,Yes,Standard,Yes,Yes,44,Debit Card,Quarterly,31,3,2,Jewelry
+28,30,S,Black,Fall,4,Yes,Standard,Yes,Yes,21,Venmo,Fortnightly,31,3,2,Shirt
+28,64,M,Purple,Summer,3.5,Yes,2-Day Shipping,Yes,Yes,31,Bank Transfer,Fortnightly,31,3,2,Shirt
+28,90,M,Gray,Fall,2.6,Yes,Store Pickup,Yes,Yes,47,Debit Card,Annually,31,3,2,Blouse
+28,76,M,White,Summer,3.2,Yes,Free Shipping,Yes,Yes,14,PayPal,Monthly,31,3,2,Pants
+29,96,L,Cyan,Fall,4.9,Yes,Standard,Yes,Yes,17,Debit Card,Every 3 Months,45,4,1,Belt
+29,47,L,Turquoise,Fall,4.5,Yes,Next Day Air,Yes,Yes,3,Venmo,Annually,45,4,1,Sunglasses
+29,85,S,Brown,Summer,4.3,Yes,Express,Yes,Yes,42,Venmo,Annually,45,4,1,Shirt
+29,55,M,Maroon,Winter,3.2,Yes,Standard,Yes,Yes,22,Debit Card,Annually,45,4,1,Pants
+29,98,M,Charcoal,Fall,3.6,Yes,Next Day Air,Yes,Yes,21,Venmo,Quarterly,45,4,1,Dress
+29,77,S,Olive,Spring,4.3,Yes,Free Shipping,Yes,Yes,21,Bank Transfer,Quarterly,45,4,1,Shirt
+29,26,M,Lavender,Fall,4,Yes,Standard,Yes,Yes,40,Debit Card,Annually,45,4,1,Shirt
+30,68,S,Yellow,Fall,3,Yes,Next Day Air,Yes,Yes,1,Bank Transfer,Fortnightly,55,6,2,Dress
+30,73,XL,Teal,Fall,4.1,Yes,Standard,Yes,Yes,50,Bank Transfer,Monthly,55,6,2,Shirt
+31,27,M,Charcoal,Fall,3.8,Yes,Store Pickup,Yes,Yes,39,Bank Transfer,Every 3 Months,24,3,2,Blouse
+32,23,M,Orange,Summer,4.6,Yes,Free Shipping,Yes,Yes,34,Venmo,Monthly,46,1,2,Blouse
+32,49,M,Olive,Fall,3,Yes,Express,Yes,Yes,29,Venmo,Fortnightly,46,1,2,Backpack
+32,74,M,Turquoise,Summer,3,Yes,Store Pickup,Yes,Yes,31,PayPal,Bi-Weekly,46,1,2,Sunglasses
+33,67,M,Purple,Summer,3.4,Yes,Standard,Yes,Yes,8,Debit Card,Weekly,26,3,2,Shirt
+34,65,S,Purple,Spring,2.6,Yes,Free Shipping,Yes,Yes,5,Credit Card,Fortnightly,40,6,2,Pants
+34,60,S,Yellow,Winter,2.8,Yes,Store Pickup,Yes,Yes,7,Cash,Monthly,40,6,2,Pants
+34,31,XL,Indigo,Fall,4,Yes,Store Pickup,Yes,Yes,30,Cash,Monthly,40,6,2,Sneakers
+35,27,M,Green,Fall,4,Yes,Express,Yes,Yes,14,Credit Card,Every 3 Months,55,5,2,Blouse
+35,80,M,Magenta,Summer,3,Yes,Express,Yes,Yes,5,Cash,Fortnightly,55,5,2,Shirt
+35,30,S,Gold,Summer,3.3,Yes,Standard,Yes,Yes,3,PayPal,Every 3 Months,55,5,2,Pants
+35,25,M,Maroon,Fall,2.6,Yes,Store Pickup,Yes,Yes,46,Venmo,Bi-Weekly,55,5,2,Shirt
+35,35,M,Blue,Summer,3.6,Yes,Store Pickup,Yes,Yes,4,Credit Card,Weekly,55,5,2,Shirt
+35,67,M,Violet,Summer,3.9,Yes,Next Day Air,Yes,Yes,42,Credit Card,Bi-Weekly,55,5,2,Jewelry
+35,46,M,Turquoise,Fall,3.4,Yes,Standard,Yes,Yes,30,Cash,Annually,55,5,2,Dress
+36,35,L,Brown,Winter,3.5,Yes,Express,Yes,Yes,37,Venmo,Annually,29,8,2,Shirt
+36,86,L,Violet,Fall,2.8,Yes,Next Day Air,Yes,Yes,2,Bank Transfer,Annually,29,8,2,Belt
+36,81,L,Black,Spring,2.7,Yes,Next Day Air,Yes,Yes,30,Credit Card,Quarterly,29,8,2,Backpack
+36,42,L,Magenta,Fall,3.7,Yes,Next Day Air,Yes,Yes,47,Bank Transfer,Monthly,29,8,2,Pants
+36,43,L,Lavender,Fall,4.3,Yes,2-Day Shipping,Yes,Yes,21,PayPal,Quarterly,29,8,2,Shirt
+36,31,M,Violet,Fall,4.9,Yes,Store Pickup,Yes,Yes,9,Bank Transfer,Fortnightly,29,8,2,Belt
+36,81,L,Green,Fall,3.3,Yes,Store Pickup,Yes,Yes,12,Debit Card,Fortnightly,29,8,2,Belt
+37,61,M,Beige,Summer,4.7,Yes,Next Day Air,Yes,Yes,4,Bank Transfer,Weekly,56,1,2,Pants
+37,96,XL,Purple,Summer,2.8,Yes,Store Pickup,Yes,Yes,10,Debit Card,Annually,56,1,2,Blouse
+37,29,XL,Beige,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,26,Credit Card,Weekly,56,1,2,Shirt
+37,33,L,Cyan,Spring,3,Yes,Express,Yes,Yes,40,Cash,Fortnightly,56,1,2,Sneakers
+37,32,XL,Silver,Summer,4.5,Yes,Store Pickup,Yes,Yes,34,Bank Transfer,Fortnightly,56,1,2,Sweater
+37,56,S,Lavender,Summer,2.9,Yes,Standard,Yes,Yes,31,Debit Card,Annually,56,1,2,Backpack
+37,94,S,Purple,Spring,3.3,Yes,Store Pickup,Yes,Yes,1,Bank Transfer,Bi-Weekly,56,1,2,Shirt
+38,53,M,Pink,Spring,3.1,Yes,Express,Yes,Yes,5,Bank Transfer,Bi-Weekly,42,1,1,Pants
+38,82,M,Maroon,Fall,4.4,Yes,Next Day Air,Yes,Yes,4,Credit Card,Weekly,42,1,1,Blouse
+38,70,XL,Beige,Fall,3,Yes,Free Shipping,Yes,Yes,48,Venmo,Quarterly,42,1,1,Belt
+38,76,M,Gray,Fall,3.9,Yes,Free Shipping,Yes,Yes,29,Cash,Every 3 Months,42,1,1,Dress
+39,29,L,Turquoise,Summer,2.9,Yes,Express,Yes,Yes,12,PayPal,Bi-Weekly,51,5,2,Shirt
+39,100,S,Silver,Fall,3,Yes,Standard,Yes,Yes,29,Venmo,Annually,51,5,2,Belt
+39,94,M,Olive,Spring,3.1,Yes,Express,Yes,Yes,15,Debit Card,Quarterly,51,5,2,Backpack
+39,25,M,Magenta,Fall,4.3,Yes,Free Shipping,Yes,Yes,34,Credit Card,Monthly,51,5,2,Pants
+39,88,M,Lavender,Summer,3.9,Yes,Next Day Air,Yes,Yes,41,Credit Card,Fortnightly,51,5,2,Belt
+39,78,M,Black,Fall,3.2,Yes,2-Day Shipping,Yes,Yes,41,Credit Card,Monthly,51,5,2,Pants
+39,45,M,Turquoise,Winter,4.8,Yes,Standard,Yes,Yes,39,Credit Card,Fortnightly,51,5,2,Jewelry
+39,73,XL,Green,Summer,3.8,Yes,Express,Yes,Yes,32,Cash,Weekly,51,5,2,Dress
+39,61,S,Teal,Summer,3.3,Yes,Next Day Air,Yes,Yes,29,Venmo,Monthly,51,5,2,Dress
+39,22,S,Beige,Fall,4.3,Yes,Free Shipping,Yes,Yes,15,Bank Transfer,Annually,51,5,2,Blouse
+39,38,L,Magenta,Spring,2.7,Yes,Express,Yes,Yes,33,Venmo,Annually,51,5,2,Dress
+39,38,S,Yellow,Fall,3.2,Yes,Next Day Air,Yes,Yes,18,Bank Transfer,Weekly,51,5,2,Pants
+39,100,M,Yellow,Fall,4,Yes,Store Pickup,Yes,Yes,35,Cash,Bi-Weekly,51,5,2,Sneakers
+39,64,M,Silver,Winter,3,Yes,Standard,Yes,Yes,25,PayPal,Weekly,51,5,2,Shirt
+39,55,L,Silver,Summer,4.2,Yes,Free Shipping,Yes,Yes,6,Venmo,Fortnightly,51,5,2,Sweater
+39,91,M,Silver,Summer,2.9,Yes,Express,Yes,Yes,17,Bank Transfer,Bi-Weekly,51,5,2,Blouse
+40,38,M,Gold,Spring,4.1,Yes,Store Pickup,Yes,Yes,17,Credit Card,Monthly,28,2,1,Shirt
+40,97,S,Olive,Winter,3.2,Yes,Store Pickup,Yes,Yes,44,Cash,Every 3 Months,28,2,1,Belt
+40,22,L,Teal,Fall,3,Yes,2-Day Shipping,Yes,Yes,6,PayPal,Fortnightly,28,2,1,Pants
+40,92,L,Maroon,Fall,4.2,Yes,2-Day Shipping,Yes,Yes,45,Debit Card,Fortnightly,28,2,1,Shirt
+40,84,L,Blue,Fall,4.2,Yes,Express,Yes,Yes,7,Debit Card,Annually,28,2,1,Pants
+41,93,L,Peach,Fall,4.4,Yes,Store Pickup,Yes,Yes,11,Debit Card,Every 3 Months,37,5,1,Pants
+41,50,L,Blue,Summer,4.2,Yes,Next Day Air,Yes,Yes,41,Cash,Every 3 Months,37,5,1,Pants
+41,64,S,Orange,Spring,2.8,Yes,2-Day Shipping,Yes,Yes,24,PayPal,Bi-Weekly,37,5,1,Pants
+41,61,L,Yellow,Spring,3.7,Yes,Free Shipping,Yes,Yes,21,Venmo,Weekly,37,5,1,Shirt
+41,48,M,Purple,Winter,3.5,Yes,Next Day Air,Yes,Yes,24,Bank Transfer,Annually,37,5,1,Sunglasses
+41,45,S,Magenta,Spring,2.9,Yes,Store Pickup,Yes,Yes,8,Credit Card,Quarterly,37,5,1,Sweater
+41,88,M,Cyan,Spring,3,Yes,Free Shipping,Yes,Yes,12,Cash,Fortnightly,37,5,1,Belt
+41,57,S,Indigo,Spring,3.7,Yes,Express,Yes,Yes,48,Debit Card,Fortnightly,37,5,1,Sneakers
+41,68,XL,Magenta,Summer,4.4,Yes,Store Pickup,Yes,Yes,6,Bank Transfer,Quarterly,37,5,1,Dress
+41,94,XL,Gray,Spring,4.5,Yes,2-Day Shipping,Yes,Yes,14,PayPal,Fortnightly,37,5,1,Blouse
+41,41,M,Turquoise,Spring,4.8,Yes,Free Shipping,Yes,Yes,34,PayPal,Annually,37,5,1,Pants
+42,83,S,Beige,Summer,2.9,Yes,Free Shipping,Yes,Yes,12,Cash,Every 3 Months,35,1,2,Shirt
+42,22,M,Olive,Spring,3.2,Yes,Next Day Air,Yes,Yes,11,Bank Transfer,Annually,35,1,2,Pants
+42,74,L,Violet,Spring,3.3,Yes,Free Shipping,Yes,Yes,5,PayPal,Monthly,35,1,2,Shirt
+43,90,M,Turquoise,Winter,4.2,Yes,Standard,Yes,Yes,25,Venmo,Fortnightly,55,6,2,Jeans
+43,79,M,White,Spring,2.9,Yes,Store Pickup,Yes,Yes,11,Credit Card,Annually,55,6,2,Shirt
+43,28,S,Silver,Spring,4.6,Yes,Next Day Air,Yes,Yes,27,PayPal,Every 3 Months,55,6,2,Belt
+43,88,L,Olive,Fall,4.1,Yes,Standard,Yes,Yes,43,Credit Card,Annually,55,6,2,Pants
+44,26,M,Blue,Spring,3.1,Yes,2-Day Shipping,Yes,Yes,18,Debit Card,Every 3 Months,35,3,1,Blouse
+44,27,L,Purple,Winter,4.2,Yes,Express,Yes,Yes,32,Bank Transfer,Bi-Weekly,35,3,1,Jewelry
+44,83,XL,Yellow,Fall,4.5,Yes,Next Day Air,Yes,Yes,27,Bank Transfer,Every 3 Months,35,3,1,Sweater
+44,39,S,Silver,Summer,3.7,Yes,Next Day Air,Yes,Yes,24,Credit Card,Weekly,35,3,1,Blouse
+44,89,M,Cyan,Winter,3.7,Yes,Free Shipping,Yes,Yes,31,Debit Card,Quarterly,35,3,1,Sunglasses
+46,68,L,Green,Winter,3.4,Yes,Next Day Air,Yes,Yes,39,PayPal,Fortnightly,37,3,1,Belt
+46,90,M,Beige,Summer,3,Yes,Store Pickup,Yes,Yes,36,Debit Card,Fortnightly,37,3,1,Dress
+46,34,M,Peach,Fall,4.2,Yes,Free Shipping,Yes,Yes,5,Cash,Annually,37,3,1,Shirt
+46,51,L,Yellow,Summer,2.9,Yes,Express,Yes,Yes,47,Credit Card,Bi-Weekly,37,3,1,Pants
+46,45,XL,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Fortnightly,37,3,1,Sweater
+46,88,M,Peach,Winter,4.1,Yes,Free Shipping,Yes,Yes,43,Venmo,Bi-Weekly,37,3,1,Pants
+46,85,L,Gray,Summer,4.3,Yes,Store Pickup,Yes,Yes,40,Debit Card,Every 3 Months,37,3,1,Belt
+47,100,M,Olive,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,4,Debit Card,Monthly,39,4,1,Jewelry
+47,42,S,Indigo,Spring,4.9,Yes,2-Day Shipping,Yes,Yes,39,PayPal,Weekly,39,4,1,Belt
+47,53,L,Charcoal,Summer,3.3,Yes,Next Day Air,Yes,Yes,45,Venmo,Fortnightly,39,4,1,Belt
+47,86,XL,Beige,Spring,3.2,Yes,Express,Yes,Yes,20,Venmo,Bi-Weekly,39,4,1,Sunglasses
+47,66,XL,Brown,Spring,4.4,Yes,Standard,Yes,Yes,14,Debit Card,Weekly,39,4,1,Sweater
+47,100,M,Blue,Winter,4.8,Yes,Express,Yes,Yes,33,PayPal,Weekly,39,4,1,Belt
+47,47,S,Teal,Fall,4.2,Yes,Standard,Yes,Yes,18,Credit Card,Annually,39,4,1,Pants
+48,25,L,Black,Fall,4,Yes,Express,Yes,Yes,9,Bank Transfer,Weekly,60,6,1,Shirt
+49,51,XL,Gold,Winter,2.5,Yes,Standard,Yes,Yes,34,PayPal,Annually,41,5,2,Pants
+49,41,M,Violet,Summer,3.9,Yes,Free Shipping,Yes,Yes,33,Venmo,Fortnightly,41,5,2,Shirt
+49,73,L,Cyan,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,15,Bank Transfer,Bi-Weekly,41,5,2,Belt
+49,42,M,White,Winter,3.5,Yes,Store Pickup,Yes,Yes,4,PayPal,Bi-Weekly,41,5,2,Sunglasses
+49,20,M,Charcoal,Spring,4.2,Yes,Free Shipping,Yes,Yes,25,Debit Card,Annually,41,5,2,Pants
+50,30,XL,Violet,Spring,4.7,Yes,Express,Yes,Yes,20,Credit Card,Every 3 Months,21,5,1,Jewelry
+50,53,M,Red,Summer,4.5,Yes,Express,Yes,Yes,5,Credit Card,Quarterly,21,5,1,Pants
+51,74,S,Lavender,Spring,2.8,Yes,Express,Yes,Yes,16,Cash,Quarterly,44,1,2,Blouse
+51,57,M,Gold,Fall,2.9,Yes,Standard,Yes,Yes,13,Debit Card,Annually,44,1,2,Jeans
+51,57,S,Red,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,11,Credit Card,Every 3 Months,44,1,2,Dress
+51,77,L,Magenta,Winter,4.9,Yes,Standard,Yes,Yes,21,Credit Card,Annually,44,1,2,Jeans
+53,40,M,Teal,Summer,3.7,Yes,Next Day Air,Yes,Yes,6,Debit Card,Annually,33,9,2,Pants
+53,46,M,Purple,Summer,4.3,Yes,Store Pickup,Yes,Yes,29,Venmo,Monthly,33,9,2,Shirt
+53,78,S,Charcoal,Fall,3.9,Yes,Store Pickup,Yes,Yes,15,Cash,Annually,33,9,2,Pants
+53,59,M,Gray,Spring,3.2,Yes,2-Day Shipping,Yes,Yes,17,Bank Transfer,Bi-Weekly,33,9,2,Backpack
+53,75,L,White,Summer,3.1,Yes,Express,Yes,Yes,32,Credit Card,Weekly,33,9,2,Jewelry
+53,54,M,Olive,Spring,3.9,Yes,2-Day Shipping,Yes,Yes,42,Venmo,Annually,33,9,2,Sweater
+53,42,M,Charcoal,Spring,2.6,Yes,Store Pickup,Yes,Yes,21,Cash,Monthly,33,9,2,Shirt
+54,44,M,Charcoal,Winter,3.3,Yes,Next Day Air,Yes,Yes,9,Cash,Bi-Weekly,36,8,1,Blouse
+54,52,XL,Orange,Fall,4.6,Yes,Free Shipping,Yes,Yes,16,Bank Transfer,Annually,36,8,1,Jeans
+54,69,XL,Yellow,Summer,4.6,Yes,Express,Yes,Yes,42,Credit Card,Fortnightly,36,8,1,Sunglasses
+54,26,M,Beige,Summer,4.4,Yes,2-Day Shipping,Yes,Yes,37,Debit Card,Bi-Weekly,36,8,1,Jewelry
+54,33,S,Silver,Spring,4.2,Yes,Express,Yes,Yes,32,Debit Card,Quarterly,36,8,1,Belt
+54,32,M,Indigo,Spring,3,Yes,Express,Yes,Yes,28,Cash,Bi-Weekly,36,8,1,Jewelry
+54,85,XL,Lavender,Winter,4,Yes,Express,Yes,Yes,13,Credit Card,Weekly,36,8,1,Backpack
+54,30,XL,Turquoise,Fall,3.5,Yes,Express,Yes,Yes,11,Bank Transfer,Fortnightly,36,8,1,Shirt
+54,29,M,Green,Winter,3,Yes,Store Pickup,Yes,Yes,36,Bank Transfer,Bi-Weekly,36,8,1,Shirt
+55,95,M,Orange,Spring,3.7,Yes,Express,Yes,Yes,23,Debit Card,Annually,66,4,2,Sweater
+55,69,L,Turquoise,Summer,4,Yes,Standard,Yes,Yes,37,Bank Transfer,Monthly,66,4,2,Sneakers
+55,69,S,Cyan,Fall,4.2,Yes,2-Day Shipping,Yes,Yes,21,Cash,Bi-Weekly,66,4,2,Belt
+55,61,XL,Charcoal,Spring,2.5,Yes,Standard,Yes,Yes,22,Debit Card,Bi-Weekly,66,4,2,Belt
+55,94,M,Teal,Summer,3,Yes,2-Day Shipping,Yes,Yes,9,Cash,Monthly,66,4,2,Shirt
+56,30,S,Maroon,Fall,3.2,Yes,Next Day Air,Yes,Yes,16,Venmo,Annually,32,7,1,Sweater
+56,45,M,Red,Summer,3.5,Yes,Standard,Yes,Yes,4,PayPal,Quarterly,32,7,1,Shirt
+56,39,XL,Yellow,Summer,4.8,Yes,Express,Yes,Yes,3,Debit Card,Bi-Weekly,32,7,1,Pants
+57,51,L,Gray,Summer,2.6,Yes,Store Pickup,Yes,Yes,6,Debit Card,Annually,32,2,1,Jewelry
+58,37,L,Blue,Spring,3.4,Yes,2-Day Shipping,Yes,Yes,18,Venmo,Fortnightly,59,5,1,Pants
+58,62,M,Lavender,Winter,3.7,Yes,2-Day Shipping,Yes,Yes,34,Venmo,Bi-Weekly,59,5,1,Sweater
+59,85,M,Yellow,Fall,4.5,Yes,2-Day Shipping,Yes,Yes,26,Credit Card,Monthly,35,2,2,Belt
+59,33,M,Indigo,Winter,3.7,Yes,Standard,Yes,Yes,50,PayPal,Weekly,35,2,2,Sweater
+59,26,XL,Violet,Fall,3.3,Yes,Next Day Air,Yes,Yes,40,Bank Transfer,Monthly,35,2,2,Dress
+59,99,M,Green,Spring,4.7,Yes,Free Shipping,Yes,Yes,24,Cash,Quarterly,35,2,2,Shirt
+59,39,M,White,Spring,2.7,Yes,Express,Yes,Yes,33,PayPal,Annually,35,2,2,Pants
+60,20,M,Gold,Spring,4.6,Yes,Store Pickup,Yes,Yes,19,Credit Card,Every 3 Months,35,7,2,Shirt
+60,42,M,Indigo,Winter,2.7,Yes,Store Pickup,Yes,Yes,24,Credit Card,Quarterly,35,7,2,Sunglasses
+60,74,S,Lavender,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,19,Credit Card,Weekly,35,7,2,Belt
+61,26,XL,Purple,Summer,4.4,Yes,Standard,Yes,Yes,4,Credit Card,Bi-Weekly,32,7,2,Shirt
+61,53,M,Lavender,Winter,4,Yes,Standard,Yes,Yes,11,Venmo,Every 3 Months,32,7,2,Sweater
+61,80,M,Maroon,Summer,3.2,Yes,Next Day Air,Yes,Yes,28,PayPal,Fortnightly,32,7,2,Sneakers
+61,98,M,Teal,Spring,4.4,Yes,Store Pickup,Yes,Yes,24,PayPal,Weekly,32,7,2,Dress
+61,95,M,Green,Spring,3.8,Yes,Standard,Yes,Yes,25,Credit Card,Every 3 Months,32,7,2,Shirt
+61,44,L,Olive,Summer,3.6,Yes,Express,Yes,Yes,27,Bank Transfer,Every 3 Months,32,7,2,Sweater
+62,60,M,Turquoise,Summer,3.3,Yes,Next Day Air,Yes,Yes,49,Venmo,Weekly,64,4,1,Belt
+62,84,M,Green,Winter,3.4,Yes,Next Day Air,Yes,Yes,45,Credit Card,Bi-Weekly,64,4,1,Dress
+62,59,M,Teal,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,26,PayPal,Annually,64,4,1,Sweater
+62,49,S,White,Summer,3.6,Yes,Express,Yes,Yes,4,Cash,Annually,64,4,1,Pants
+62,32,M,Orange,Winter,3.2,Yes,Free Shipping,Yes,Yes,3,Credit Card,Every 3 Months,64,4,1,Blouse
+62,29,M,Beige,Fall,3.7,Yes,Standard,Yes,Yes,45,Venmo,Bi-Weekly,64,4,1,Pants
+62,22,M,Yellow,Spring,4.5,Yes,Standard,Yes,Yes,21,Cash,Fortnightly,64,4,1,Dress
+62,85,M,Charcoal,Winter,4.6,Yes,Standard,Yes,Yes,50,Cash,Fortnightly,64,4,1,Pants
+62,52,L,Silver,Winter,4.1,Yes,Store Pickup,Yes,Yes,19,Bank Transfer,Monthly,64,4,1,Jeans
+63,89,L,Green,Spring,3.4,Yes,Next Day Air,Yes,Yes,6,PayPal,Annually,44,6,1,Pants
+63,77,M,Pink,Spring,3.7,Yes,Express,Yes,Yes,50,Credit Card,Every 3 Months,44,6,1,Dress
+63,24,M,Purple,Summer,3.3,Yes,Store Pickup,Yes,Yes,17,Debit Card,Every 3 Months,44,6,1,Pants
+63,24,XL,Orange,Spring,4.5,Yes,Express,Yes,Yes,24,Debit Card,Annually,44,6,1,Jewelry
+63,22,M,Charcoal,Fall,3.3,Yes,Free Shipping,Yes,Yes,46,Venmo,Monthly,44,6,1,Pants
+63,82,L,Teal,Fall,4.3,Yes,Standard,Yes,Yes,42,Cash,Every 3 Months,44,6,1,Sweater
+63,67,M,Beige,Winter,2.5,Yes,Standard,Yes,Yes,10,Cash,Annually,44,6,1,Backpack
+63,74,XL,White,Spring,2.6,Yes,Standard,Yes,Yes,1,Cash,Every 3 Months,44,6,1,Shirt
+63,72,L,White,Summer,4.9,Yes,Standard,Yes,Yes,28,Debit Card,Quarterly,44,6,1,Jewelry
+64,36,L,Orange,Summer,4.7,Yes,Free Shipping,Yes,Yes,48,Debit Card,Quarterly,55,1,1,Sneakers
+64,95,S,Cyan,Winter,3,Yes,Standard,Yes,Yes,47,Credit Card,Monthly,55,1,1,Belt
+64,78,M,Orange,Winter,3.5,Yes,Next Day Air,Yes,Yes,29,PayPal,Bi-Weekly,55,1,1,Pants
+65,82,M,Olive,Summer,4.8,Yes,Standard,Yes,Yes,37,Venmo,Quarterly,28,5,1,Shirt
+65,70,M,Charcoal,Winter,4.3,Yes,Free Shipping,Yes,Yes,38,Debit Card,Annually,28,5,1,Pants
+66,41,M,White,Fall,3.2,Yes,Store Pickup,Yes,Yes,48,Bank Transfer,Weekly,21,2,2,Pants
+66,42,M,Teal,Summer,3.1,Yes,Free Shipping,Yes,Yes,36,PayPal,Weekly,21,2,2,Belt
+66,50,M,Yellow,Fall,2.8,Yes,Free Shipping,Yes,Yes,9,Credit Card,Weekly,21,2,2,Belt
+66,31,S,White,Summer,2.9,Yes,2-Day Shipping,Yes,Yes,34,Bank Transfer,Monthly,21,2,2,Shirt
+66,51,M,Beige,Winter,3.7,Yes,Express,Yes,Yes,43,Venmo,Bi-Weekly,21,2,2,Sweater
+66,98,L,Beige,Fall,3.3,Yes,Store Pickup,Yes,Yes,46,PayPal,Quarterly,21,2,2,Shirt
+68,86,M,Maroon,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,5,Credit Card,Monthly,24,2,1,Shirt
+68,64,M,Teal,Winter,4.5,Yes,Standard,Yes,Yes,15,Bank Transfer,Bi-Weekly,24,2,1,Sweater
+68,46,M,Lavender,Fall,2.6,Yes,Next Day Air,Yes,Yes,30,Credit Card,Annually,24,2,1,Blouse
+69,85,L,Maroon,Spring,3.7,Yes,Standard,Yes,Yes,44,Venmo,Every 3 Months,42,7,1,Sweater
+69,81,S,Orange,Fall,4.4,Yes,Express,Yes,Yes,16,PayPal,Annually,42,7,1,Dress
+69,59,M,Cyan,Winter,4.3,Yes,2-Day Shipping,Yes,Yes,16,Bank Transfer,Annually,42,7,1,Sweater
+69,79,M,Silver,Winter,3.5,Yes,Express,Yes,Yes,16,Cash,Weekly,42,7,1,Pants
+69,33,M,Teal,Spring,3.8,Yes,2-Day Shipping,Yes,Yes,21,Credit Card,Every 3 Months,42,7,1,Shirt
+69,47,L,Blue,Summer,3.5,Yes,Express,Yes,Yes,39,Venmo,Every 3 Months,42,7,1,Shirt
+69,20,S,Blue,Summer,4.6,Yes,Store Pickup,Yes,Yes,40,Debit Card,Bi-Weekly,42,7,1,Dress
+69,36,M,Olive,Spring,2.6,Yes,Next Day Air,Yes,Yes,48,Credit Card,Every 3 Months,42,7,1,Belt
+70,39,M,Purple,Summer,4.4,Yes,Next Day Air,Yes,Yes,26,Venmo,Monthly,34,9,1,Belt
+70,71,M,Charcoal,Winter,4,Yes,Standard,Yes,Yes,46,Debit Card,Monthly,34,9,1,Shirt
+70,59,S,Olive,Winter,4.4,Yes,Next Day Air,Yes,Yes,27,Bank Transfer,Annually,34,9,1,Shirt
+72,50,L,Violet,Spring,4.7,Yes,Next Day Air,Yes,Yes,5,Cash,Weekly,68,7,1,Jeans
+72,41,L,Red,Fall,3.9,Yes,Store Pickup,Yes,Yes,43,PayPal,Fortnightly,68,7,1,Belt
+73,59,M,Beige,Fall,2.7,Yes,Free Shipping,Yes,Yes,17,PayPal,Fortnightly,50,9,1,Blouse
+73,87,M,Green,Winter,3.7,Yes,2-Day Shipping,Yes,Yes,3,Bank Transfer,Bi-Weekly,50,9,1,Dress
+73,68,M,Violet,Spring,2.6,Yes,2-Day Shipping,Yes,Yes,47,Bank Transfer,Fortnightly,50,9,1,Sweater
+73,90,M,Teal,Winter,3.9,Yes,Standard,Yes,Yes,24,Debit Card,Bi-Weekly,50,9,1,Shirt
+73,71,XL,Yellow,Fall,4.9,Yes,Next Day Air,Yes,Yes,12,Cash,Every 3 Months,50,9,1,Jeans
+74,64,L,Yellow,Fall,4.1,Yes,Store Pickup,Yes,Yes,35,Debit Card,Monthly,34,1,2,Sneakers
+75,76,S,Olive,Fall,3,Yes,Free Shipping,Yes,Yes,42,Venmo,Weekly,34,9,2,Jewelry
+75,42,XL,Magenta,Fall,4.1,Yes,2-Day Shipping,Yes,Yes,1,PayPal,Every 3 Months,34,9,2,Jewelry
+75,80,L,Black,Spring,3.8,Yes,Standard,Yes,Yes,27,Cash,Weekly,34,9,2,Pants
+75,56,M,Olive,Spring,4,Yes,Standard,Yes,Yes,16,Credit Card,Bi-Weekly,34,9,2,Belt
+75,25,XL,Magenta,Summer,3.6,Yes,Express,Yes,Yes,36,Credit Card,Every 3 Months,34,9,2,Dress
+75,74,M,Olive,Winter,3,Yes,Store Pickup,Yes,Yes,30,Credit Card,Every 3 Months,34,9,2,Sneakers
+75,30,M,Teal,Summer,3,Yes,Standard,Yes,Yes,18,Debit Card,Fortnightly,34,9,2,Pants
+75,96,M,White,Spring,2.6,Yes,Free Shipping,Yes,Yes,45,Cash,Annually,34,9,2,Sweater
+75,64,M,Charcoal,Fall,3.4,Yes,Free Shipping,Yes,Yes,1,Venmo,Fortnightly,34,9,2,Sneakers
+75,88,L,Yellow,Winter,3.1,Yes,Free Shipping,Yes,Yes,42,Bank Transfer,Fortnightly,34,9,2,Shirt
+75,88,L,Charcoal,Summer,3,Yes,Free Shipping,Yes,Yes,7,Venmo,Every 3 Months,34,9,2,Shirt
+75,88,XL,Gray,Summer,3.7,Yes,Standard,Yes,Yes,50,PayPal,Quarterly,34,9,2,Blouse
+75,36,M,Turquoise,Spring,3.5,Yes,Store Pickup,Yes,Yes,37,Venmo,Fortnightly,34,9,2,Shirt
+76,40,XL,Cyan,Spring,2.8,Yes,Store Pickup,Yes,Yes,18,Bank Transfer,Monthly,52,6,2,Dress
+76,39,M,Charcoal,Spring,4.5,Yes,Standard,Yes,Yes,29,Cash,Monthly,52,6,2,Pants
+76,40,M,Silver,Summer,3.3,Yes,Store Pickup,Yes,Yes,45,PayPal,Quarterly,52,6,2,Belt
+76,34,M,Olive,Winter,3.4,Yes,Express,Yes,Yes,13,PayPal,Weekly,52,6,2,Pants
+76,83,S,Pink,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,47,PayPal,Monthly,52,6,2,Sneakers
+76,85,L,Orange,Summer,3.7,Yes,Standard,Yes,Yes,7,Debit Card,Weekly,52,6,2,Sweater
+77,27,L,White,Summer,4.6,Yes,Express,Yes,Yes,11,Venmo,Bi-Weekly,26,8,2,Belt
+77,78,S,Purple,Spring,5,Yes,Store Pickup,Yes,Yes,39,Bank Transfer,Monthly,26,8,2,Jewelry
+78,32,M,Olive,Summer,4.4,Yes,Standard,Yes,Yes,6,Debit Card,Quarterly,21,4,1,Sunglasses
+78,51,S,Gray,Fall,4.9,Yes,Express,Yes,Yes,2,Venmo,Bi-Weekly,21,4,1,Shirt
+78,32,M,Silver,Spring,4.1,Yes,Standard,Yes,Yes,39,Credit Card,Every 3 Months,21,4,1,Pants
+78,62,L,Orange,Winter,4.9,Yes,Next Day Air,Yes,Yes,23,Credit Card,Monthly,21,4,1,Dress
+78,29,S,Magenta,Fall,4.7,Yes,2-Day Shipping,Yes,Yes,46,Debit Card,Bi-Weekly,21,4,1,Sweater
+78,69,XL,Beige,Fall,3,Yes,Store Pickup,Yes,Yes,19,Bank Transfer,Weekly,21,4,1,Backpack
+78,25,L,Lavender,Winter,3.4,Yes,Store Pickup,Yes,Yes,3,Credit Card,Every 3 Months,21,4,1,Jewelry
+79,76,M,Peach,Winter,3.2,Yes,Store Pickup,Yes,Yes,47,PayPal,Quarterly,47,1,2,Jeans
+79,77,S,Magenta,Fall,2.9,Yes,Standard,Yes,Yes,6,PayPal,Quarterly,47,1,2,Sunglasses
+79,33,M,Beige,Fall,4.5,Yes,2-Day Shipping,Yes,Yes,6,Venmo,Annually,47,1,2,Sweater
+79,93,S,Yellow,Fall,2.7,Yes,Next Day Air,Yes,Yes,12,Credit Card,Bi-Weekly,47,1,2,Shirt
+79,39,L,Brown,Spring,3.4,Yes,Express,Yes,Yes,40,PayPal,Quarterly,47,1,2,Jewelry
+79,93,L,Silver,Summer,4.6,Yes,Store Pickup,Yes,Yes,38,PayPal,Fortnightly,47,1,2,Belt
+79,82,M,Orange,Summer,2.7,Yes,Store Pickup,Yes,Yes,10,PayPal,Quarterly,47,1,2,Pants
+80,42,L,Purple,Spring,4.2,Yes,Standard,Yes,Yes,28,Bank Transfer,Monthly,34,3,2,Belt
+80,71,M,Indigo,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,19,PayPal,Annually,34,3,2,Blouse
+81,86,L,Gray,Spring,4.8,Yes,Standard,Yes,Yes,25,Cash,Fortnightly,68,8,1,Sweater
+81,82,XL,Black,Spring,3.3,Yes,Next Day Air,Yes,Yes,38,Credit Card,Annually,68,8,1,Sweater
+81,65,L,Maroon,Fall,4.2,Yes,Standard,Yes,Yes,6,PayPal,Fortnightly,68,8,1,Shirt
+81,29,M,Beige,Spring,4.8,Yes,Store Pickup,Yes,Yes,7,Debit Card,Bi-Weekly,68,8,1,Pants
+82,65,L,Brown,Winter,4.9,Yes,Store Pickup,Yes,Yes,2,PayPal,Annually,29,1,1,Sneakers
+82,88,S,Black,Fall,3.9,Yes,Standard,Yes,Yes,24,Bank Transfer,Annually,29,1,1,Dress
+83,46,M,Indigo,Fall,3,Yes,Free Shipping,Yes,Yes,26,Cash,Annually,28,7,2,Belt
+83,67,S,Silver,Winter,4.6,Yes,Free Shipping,Yes,Yes,25,Debit Card,Every 3 Months,28,7,2,Belt
+84,35,L,Blue,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,10,Debit Card,Monthly,37,6,2,Pants
+84,66,M,Green,Winter,4.8,Yes,Free Shipping,Yes,Yes,14,PayPal,Fortnightly,37,6,2,Belt
+84,91,L,Orange,Fall,4.8,Yes,Standard,Yes,Yes,21,Cash,Quarterly,37,6,2,Sweater
+84,78,L,Cyan,Fall,3,Yes,Express,Yes,Yes,26,PayPal,Monthly,37,6,2,Backpack
+84,45,M,Orange,Winter,4.5,Yes,Next Day Air,Yes,Yes,12,Bank Transfer,Annually,37,6,2,Sneakers
+84,93,M,Indigo,Spring,4.8,Yes,Store Pickup,Yes,Yes,11,Credit Card,Monthly,37,6,2,Sweater
+84,74,S,Silver,Summer,3.8,Yes,Standard,Yes,Yes,15,Cash,Annually,37,6,2,Jeans
+84,55,M,Peach,Spring,4.6,Yes,Express,Yes,Yes,13,Cash,Monthly,37,6,2,Blouse
+84,76,XL,Teal,Spring,3.1,Yes,Next Day Air,Yes,Yes,5,Credit Card,Bi-Weekly,37,6,2,Pants
+84,66,L,White,Spring,3.4,Yes,Express,Yes,Yes,36,Cash,Fortnightly,37,6,2,Sneakers
+84,51,M,Brown,Winter,3.3,Yes,2-Day Shipping,Yes,Yes,32,Bank Transfer,Monthly,37,6,2,Shirt
+85,26,L,Lavender,Spring,4.8,Yes,2-Day Shipping,Yes,Yes,1,Credit Card,Quarterly,49,4,1,Sweater
+85,29,M,Indigo,Summer,2.8,Yes,Express,Yes,Yes,15,PayPal,Annually,49,4,1,Jeans
+85,74,M,Yellow,Summer,3.1,Yes,Store Pickup,Yes,Yes,3,Bank Transfer,Weekly,49,4,1,Pants
+85,99,S,White,Summer,4.6,Yes,Free Shipping,Yes,Yes,48,Cash,Monthly,49,4,1,Jewelry
+86,88,L,Violet,Winter,2.6,Yes,Store Pickup,Yes,Yes,30,Debit Card,Weekly,32,1,2,Backpack
+86,31,M,Lavender,Winter,2.6,Yes,Express,Yes,Yes,40,Bank Transfer,Monthly,32,1,2,Belt
+86,55,L,Olive,Spring,3.8,Yes,Free Shipping,Yes,Yes,24,Bank Transfer,Fortnightly,32,1,2,Belt
+86,81,L,Beige,Fall,4.5,Yes,Free Shipping,Yes,Yes,48,Debit Card,Quarterly,32,1,2,Belt
+86,73,L,Purple,Spring,3,Yes,Standard,Yes,Yes,27,Venmo,Bi-Weekly,32,1,2,Sweater
+86,91,S,Teal,Winter,3.5,Yes,Free Shipping,Yes,Yes,14,Credit Card,Every 3 Months,32,1,2,Shirt
+86,54,S,Peach,Spring,3.8,Yes,Free Shipping,Yes,Yes,18,Debit Card,Bi-Weekly,32,1,2,Shirt
+86,40,M,Violet,Winter,3.5,Yes,Standard,Yes,Yes,48,Cash,Bi-Weekly,32,1,2,Shirt
+86,59,M,Purple,Fall,3.1,Yes,Store Pickup,Yes,Yes,32,Debit Card,Annually,32,1,2,Pants
+86,26,L,Teal,Spring,3,Yes,Store Pickup,Yes,Yes,21,Credit Card,Bi-Weekly,32,1,2,Pants
+87,23,M,Gold,Winter,4.3,Yes,Standard,Yes,Yes,42,PayPal,Fortnightly,29,2,1,Sweater
+87,87,S,Teal,Winter,3.3,Yes,Store Pickup,Yes,Yes,4,Credit Card,Quarterly,29,2,1,Jeans
+87,71,M,Violet,Winter,4.7,Yes,Express,Yes,Yes,19,Credit Card,Quarterly,29,2,1,Pants
+87,91,L,Black,Winter,4.5,Yes,Store Pickup,Yes,Yes,6,Credit Card,Quarterly,29,2,1,Backpack
+87,64,XL,Gold,Winter,2.9,Yes,Free Shipping,Yes,Yes,2,Debit Card,Fortnightly,29,2,1,Belt
+87,94,M,Gold,Winter,4.1,Yes,2-Day Shipping,Yes,Yes,21,Cash,Fortnightly,29,2,1,Belt
+88,40,M,Brown,Summer,3.5,Yes,Store Pickup,Yes,Yes,40,Debit Card,Annually,51,8,2,Shirt
+88,76,L,Cyan,Winter,3.4,Yes,Store Pickup,Yes,Yes,33,Cash,Fortnightly,51,8,2,Dress
+88,86,S,Indigo,Fall,3.3,Yes,Free Shipping,Yes,Yes,26,Venmo,Weekly,51,8,2,Shirt
+89,92,M,Orange,Fall,3.2,Yes,Store Pickup,Yes,Yes,23,Credit Card,Fortnightly,54,6,1,Shirt
+90,52,L,Pink,Spring,4,Yes,Store Pickup,Yes,Yes,39,PayPal,Every 3 Months,37,9,1,Shirt
+90,28,XL,Olive,Winter,3.6,Yes,Next Day Air,Yes,Yes,42,Bank Transfer,Monthly,37,9,1,Belt
+90,46,L,Cyan,Summer,4.6,Yes,Free Shipping,Yes,Yes,41,Bank Transfer,Weekly,37,9,1,Pants
+90,50,M,Peach,Summer,2.6,Yes,Next Day Air,Yes,Yes,41,PayPal,Annually,37,9,1,Jewelry
+90,23,M,Turquoise,Winter,4.3,Yes,Express,Yes,Yes,12,Credit Card,Fortnightly,37,9,1,Belt
+90,50,M,Turquoise,Summer,3.4,Yes,Free Shipping,Yes,Yes,31,Cash,Monthly,37,9,1,Pants
+92,89,XL,Maroon,Winter,3.5,Yes,Store Pickup,Yes,Yes,34,Debit Card,Fortnightly,43,3,1,Shirt
+92,81,M,Maroon,Winter,4.2,Yes,Standard,Yes,Yes,32,Credit Card,Annually,43,3,1,Pants
+92,69,M,Olive,Fall,3.5,Yes,Store Pickup,Yes,Yes,31,Credit Card,Quarterly,43,3,1,Sunglasses
+92,67,M,Magenta,Summer,3.6,Yes,Free Shipping,Yes,Yes,24,PayPal,Annually,43,3,1,Sunglasses
+93,20,M,Red,Summer,4.3,Yes,Store Pickup,Yes,Yes,31,Debit Card,Annually,70,6,2,Dress
+94,29,M,Olive,Fall,4.9,Yes,Standard,Yes,Yes,18,Venmo,Annually,36,5,1,Belt
+94,74,M,Silver,Summer,4.1,Yes,Store Pickup,Yes,Yes,15,Venmo,Monthly,36,5,1,Shirt
+95,82,S,Turquoise,Spring,3.6,Yes,Standard,Yes,Yes,7,Bank Transfer,Every 3 Months,37,6,2,Shirt
+95,23,M,Yellow,Summer,3.4,Yes,Next Day Air,Yes,Yes,35,Bank Transfer,Fortnightly,37,6,2,Blouse
+95,45,L,Peach,Summer,2.9,Yes,2-Day Shipping,Yes,Yes,35,Bank Transfer,Monthly,37,6,2,Jewelry
+96,21,L,Beige,Summer,2.7,Yes,Store Pickup,Yes,Yes,19,Credit Card,Monthly,37,8,2,Belt
+96,31,M,Pink,Summer,4.3,Yes,Express,Yes,Yes,26,Credit Card,Fortnightly,37,8,2,Jewelry
+97,45,M,Violet,Summer,3.3,Yes,Express,Yes,Yes,39,PayPal,Fortnightly,60,6,1,Pants
+97,56,XL,Peach,Winter,2.8,Yes,Next Day Air,Yes,Yes,22,Credit Card,Weekly,60,6,1,Jewelry
+98,97,S,Gold,Summer,3.2,Yes,Next Day Air,Yes,Yes,14,Cash,Bi-Weekly,56,2,2,Pants
+98,100,XL,Gold,Fall,3.6,Yes,Store Pickup,Yes,Yes,50,Debit Card,Fortnightly,56,2,2,Blouse
+98,96,S,Indigo,Fall,4,Yes,2-Day Shipping,Yes,Yes,33,Credit Card,Quarterly,56,2,2,Blouse
+99,99,M,Blue,Spring,4.9,Yes,Next Day Air,Yes,Yes,48,Debit Card,Every 3 Months,62,8,2,Blouse
+99,91,L,Black,Winter,4,Yes,2-Day Shipping,Yes,Yes,48,PayPal,Monthly,62,8,2,Shirt
+99,30,L,Black,Winter,3.8,Yes,Standard,Yes,Yes,27,PayPal,Fortnightly,62,8,2,Dress
+99,65,L,Teal,Summer,3.7,Yes,Store Pickup,Yes,Yes,27,Bank Transfer,Weekly,62,8,2,Shirt
+99,93,M,Yellow,Winter,3.9,Yes,Express,Yes,Yes,20,Venmo,Weekly,62,8,2,Belt
+99,81,M,White,Fall,3.3,Yes,Express,Yes,Yes,48,Venmo,Every 3 Months,62,8,2,Pants
+99,81,S,Orange,Summer,2.7,Yes,Standard,Yes,Yes,29,Venmo,Weekly,62,8,2,Jewelry
+99,52,M,Silver,Winter,4.7,Yes,Next Day Air,Yes,Yes,45,PayPal,Monthly,62,8,2,Sunglasses
+99,88,M,Pink,Summer,2.8,Yes,Next Day Air,Yes,Yes,25,Cash,Quarterly,62,8,2,Shirt
+99,24,L,Turquoise,Winter,4.6,Yes,Free Shipping,Yes,Yes,25,PayPal,Weekly,62,8,2,Jeans
+99,51,S,Orange,Spring,4.5,Yes,2-Day Shipping,Yes,Yes,37,Debit Card,Every 3 Months,62,8,2,Backpack
+99,38,S,Peach,Fall,5,Yes,Free Shipping,Yes,Yes,16,Cash,Quarterly,62,8,2,Backpack
+99,46,L,Pink,Fall,4.1,Yes,2-Day Shipping,Yes,Yes,30,Debit Card,Bi-Weekly,62,8,2,Shirt
+99,63,L,Teal,Summer,4.6,Yes,Express,Yes,Yes,6,Cash,Every 3 Months,62,8,2,Dress
+99,72,XL,White,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,36,Bank Transfer,Quarterly,62,8,2,Pants
+99,39,L,Gray,Winter,3.9,Yes,Free Shipping,Yes,Yes,3,Bank Transfer,Quarterly,62,8,2,Jeans
+99,42,L,Olive,Spring,3.9,Yes,Store Pickup,Yes,Yes,29,PayPal,Every 3 Months,62,8,2,Belt
+99,76,XL,Maroon,Summer,2.6,Yes,2-Day Shipping,Yes,Yes,15,Cash,Quarterly,62,8,2,Sweater
+99,66,L,Magenta,Summer,2.7,Yes,Free Shipping,Yes,Yes,18,Debit Card,Annually,62,8,2,Sneakers
+99,90,M,Magenta,Spring,3.5,Yes,Free Shipping,Yes,Yes,2,Debit Card,Fortnightly,62,8,2,Pants
+99,56,M,Green,Summer,3.7,Yes,Free Shipping,Yes,Yes,49,Debit Card,Weekly,62,8,2,Sweater
+100,43,XL,Turquoise,Winter,3.2,Yes,Free Shipping,Yes,Yes,48,Venmo,Annually,25,7,2,Jewelry
+100,84,L,Yellow,Winter,3.3,Yes,Store Pickup,Yes,Yes,43,Venmo,Monthly,25,7,2,Pants
+100,88,M,Gray,Summer,4.8,Yes,Standard,Yes,Yes,30,Debit Card,Bi-Weekly,25,7,2,Pants
+100,88,L,Peach,Fall,3.2,Yes,2-Day Shipping,Yes,Yes,10,PayPal,Fortnightly,25,7,2,Dress
+101,42,M,Yellow,Winter,2.5,Yes,2-Day Shipping,Yes,Yes,11,Venmo,Annually,36,8,1,Belt
+101,73,M,White,Fall,3.9,Yes,Store Pickup,Yes,Yes,12,Debit Card,Weekly,36,8,1,Pants
+101,73,L,Lavender,Summer,4.7,Yes,Free Shipping,Yes,Yes,28,Bank Transfer,Quarterly,36,8,1,Dress
+101,44,S,Blue,Spring,2.6,Yes,Next Day Air,Yes,Yes,36,Debit Card,Fortnightly,36,8,1,Shirt
+101,63,M,Charcoal,Fall,2.8,Yes,Store Pickup,Yes,Yes,37,Venmo,Every 3 Months,36,8,1,Belt
+101,68,L,Red,Winter,4.4,Yes,Store Pickup,Yes,Yes,22,Credit Card,Quarterly,36,8,1,Pants
+102,29,L,Olive,Spring,4.6,Yes,Standard,Yes,Yes,32,Venmo,Weekly,37,9,2,Sweater
+102,85,M,Green,Summer,3.2,Yes,Standard,Yes,Yes,40,PayPal,Annually,37,9,2,Shirt
+102,42,M,Silver,Winter,4.2,Yes,2-Day Shipping,Yes,Yes,47,Cash,Monthly,37,9,2,Sneakers
+102,69,M,Silver,Summer,3.7,Yes,2-Day Shipping,Yes,Yes,24,Credit Card,Bi-Weekly,37,9,2,Belt
+102,62,M,Black,Fall,3.9,Yes,Standard,Yes,Yes,11,Debit Card,Weekly,37,9,2,Shirt
+102,48,XL,Red,Summer,4.7,Yes,Store Pickup,Yes,Yes,19,Cash,Bi-Weekly,37,9,2,Backpack
+102,68,M,Indigo,Winter,4.5,Yes,Express,Yes,Yes,42,Debit Card,Weekly,37,9,2,Belt
+102,36,XL,Cyan,Fall,3.3,Yes,Free Shipping,Yes,Yes,6,Debit Card,Fortnightly,37,9,2,Pants
+103,63,S,Maroon,Fall,3.3,Yes,Express,Yes,Yes,31,Venmo,Fortnightly,34,7,1,Dress
+103,39,S,Silver,Winter,4.6,Yes,Free Shipping,Yes,Yes,31,Cash,Weekly,34,7,1,Sneakers
+103,78,M,Lavender,Spring,3.6,Yes,Free Shipping,Yes,Yes,27,Bank Transfer,Monthly,34,7,1,Belt
+103,99,L,Silver,Winter,4.8,Yes,Express,Yes,Yes,24,PayPal,Monthly,34,7,1,Shirt
+103,31,L,Purple,Fall,4.8,Yes,Next Day Air,Yes,Yes,35,Venmo,Every 3 Months,34,7,1,Sweater
+104,45,M,Cyan,Spring,2.9,Yes,Next Day Air,Yes,Yes,21,Venmo,Annually,70,7,2,Belt
+104,30,S,Cyan,Fall,2.8,Yes,Express,Yes,Yes,8,PayPal,Fortnightly,70,7,2,Pants
+104,24,M,Lavender,Summer,3.2,Yes,Next Day Air,Yes,Yes,26,Bank Transfer,Quarterly,70,7,2,Shirt
+104,22,M,Maroon,Winter,3.9,Yes,Free Shipping,Yes,Yes,26,PayPal,Annually,70,7,2,Shirt
+104,63,L,Gray,Spring,4.3,Yes,Express,Yes,Yes,9,Cash,Bi-Weekly,70,7,2,Sweater
+105,40,M,Olive,Fall,2.7,Yes,2-Day Shipping,Yes,Yes,48,Debit Card,Annually,57,1,1,Pants
+106,20,M,Magenta,Spring,5,Yes,Store Pickup,Yes,Yes,33,Debit Card,Fortnightly,63,8,1,Shirt
+106,20,S,Yellow,Winter,3.7,Yes,Store Pickup,Yes,Yes,31,PayPal,Quarterly,63,8,1,Jewelry
+106,80,L,Cyan,Summer,3.9,Yes,Free Shipping,Yes,Yes,17,Debit Card,Weekly,63,8,1,Sweater
+106,87,M,Teal,Fall,3.9,Yes,2-Day Shipping,Yes,Yes,22,Venmo,Annually,63,8,1,Shirt
+106,46,L,Yellow,Fall,3.1,Yes,Free Shipping,Yes,Yes,8,PayPal,Annually,63,8,1,Shirt
+106,49,L,Peach,Winter,3.3,Yes,Next Day Air,Yes,Yes,2,Bank Transfer,Monthly,63,8,1,Blouse
+107,65,M,Peach,Fall,3.6,Yes,Store Pickup,Yes,Yes,45,Venmo,Annually,66,6,1,Pants
+107,62,S,Olive,Winter,4.3,Yes,Standard,Yes,Yes,47,PayPal,Quarterly,66,6,1,Shirt
+107,67,L,Charcoal,Spring,4.5,Yes,Next Day Air,Yes,Yes,7,Cash,Monthly,66,6,1,Dress
+108,41,L,Indigo,Fall,2.8,Yes,2-Day Shipping,Yes,Yes,19,Debit Card,Bi-Weekly,51,7,1,Pants
+108,49,L,Silver,Fall,2.7,Yes,Free Shipping,Yes,Yes,44,Cash,Every 3 Months,51,7,1,Belt
+108,100,M,Beige,Fall,2.9,Yes,Next Day Air,Yes,Yes,16,Venmo,Every 3 Months,51,7,1,Blouse
+108,54,L,Blue,Summer,4.4,Yes,2-Day Shipping,Yes,Yes,17,Bank Transfer,Quarterly,51,7,1,Belt
+108,84,M,White,Spring,3.9,Yes,Free Shipping,Yes,Yes,20,Debit Card,Quarterly,51,7,1,Sunglasses
+108,41,L,Gold,Winter,3.5,Yes,Standard,Yes,Yes,50,Bank Transfer,Annually,51,7,1,Shirt
+108,88,M,Blue,Spring,2.5,Yes,Store Pickup,Yes,Yes,37,Cash,Quarterly,51,7,1,Blouse
+109,40,M,Orange,Spring,4.9,Yes,Express,Yes,Yes,5,PayPal,Quarterly,57,4,1,Belt
+109,39,M,Gold,Summer,4.8,Yes,Free Shipping,Yes,Yes,44,PayPal,Annually,57,4,1,Shirt
+109,37,M,Cyan,Spring,3.2,Yes,Next Day Air,Yes,Yes,41,Debit Card,Monthly,57,4,1,Belt
+109,52,S,Red,Winter,4.9,Yes,Standard,Yes,Yes,19,Cash,Monthly,57,4,1,Pants
+109,23,L,Yellow,Winter,4.3,Yes,Next Day Air,Yes,Yes,47,Bank Transfer,Every 3 Months,57,4,1,Sweater
+109,88,S,Beige,Winter,3.2,Yes,Express,Yes,Yes,40,Cash,Annually,57,4,1,Sneakers
+109,84,M,Orange,Fall,3.7,Yes,Standard,Yes,Yes,6,Credit Card,Monthly,57,4,1,Shirt
+109,37,XL,Magenta,Winter,3.2,Yes,Store Pickup,Yes,Yes,25,Credit Card,Bi-Weekly,57,4,1,Belt
+109,51,L,Purple,Fall,3.4,Yes,Next Day Air,Yes,Yes,42,Cash,Weekly,57,4,1,Belt
+111,76,L,Black,Winter,4.1,Yes,Express,Yes,Yes,35,Bank Transfer,Every 3 Months,46,3,1,Pants
+111,60,L,Pink,Spring,4.5,Yes,Next Day Air,Yes,Yes,17,Debit Card,Weekly,46,3,1,Belt
+111,72,L,Pink,Fall,4.5,Yes,Next Day Air,Yes,Yes,4,PayPal,Quarterly,46,3,1,Blouse
+111,45,L,Maroon,Spring,3.2,Yes,Free Shipping,Yes,Yes,24,Bank Transfer,Weekly,46,3,1,Sweater
+112,84,S,Maroon,Fall,4.4,Yes,Store Pickup,Yes,Yes,16,Debit Card,Every 3 Months,23,1,1,Pants
+113,49,S,Turquoise,Summer,3,Yes,Store Pickup,Yes,Yes,14,Debit Card,Annually,62,7,2,Blouse
+113,22,XL,Green,Spring,3.2,Yes,Free Shipping,Yes,Yes,43,Cash,Weekly,62,7,2,Shirt
+113,48,M,Violet,Winter,4,Yes,Store Pickup,Yes,Yes,49,Debit Card,Weekly,62,7,2,Belt
+113,37,M,Lavender,Spring,3.1,Yes,Next Day Air,Yes,Yes,33,Cash,Every 3 Months,62,7,2,Dress
+113,27,L,Gray,Fall,2.8,Yes,Next Day Air,Yes,Yes,45,Cash,Bi-Weekly,62,7,2,Pants
+113,79,XL,Teal,Spring,4.6,Yes,Next Day Air,Yes,Yes,35,Cash,Bi-Weekly,62,7,2,Belt
+114,98,S,Red,Spring,4.3,Yes,Express,Yes,Yes,11,Credit Card,Monthly,38,8,1,Shirt
+114,64,S,Yellow,Summer,3.3,Yes,Standard,Yes,Yes,30,Bank Transfer,Every 3 Months,38,8,1,Belt
+114,32,L,Magenta,Summer,3.5,Yes,2-Day Shipping,Yes,Yes,48,Debit Card,Annually,38,8,1,Belt
+114,74,M,Brown,Winter,3.4,Yes,Free Shipping,Yes,Yes,45,Venmo,Bi-Weekly,38,8,1,Pants
+115,50,M,Blue,Winter,2.8,Yes,Free Shipping,Yes,Yes,26,Venmo,Weekly,67,3,2,Pants
+115,64,M,Black,Winter,4.6,Yes,Store Pickup,Yes,Yes,41,Debit Card,Every 3 Months,67,3,2,Backpack
+115,29,S,Olive,Fall,3.6,Yes,Express,Yes,Yes,37,Venmo,Bi-Weekly,67,3,2,Backpack
+115,62,M,Olive,Summer,3.3,Yes,Store Pickup,Yes,Yes,12,PayPal,Weekly,67,3,2,Belt
+116,78,XL,Green,Fall,3.1,Yes,2-Day Shipping,Yes,Yes,27,Cash,Bi-Weekly,62,4,2,Belt
+116,94,M,Peach,Fall,3.5,Yes,Express,Yes,Yes,18,Bank Transfer,Weekly,62,4,2,Sweater
+116,59,M,White,Winter,3.2,Yes,Express,Yes,Yes,15,Credit Card,Quarterly,62,4,2,Sunglasses
+117,47,M,Red,Summer,3,Yes,Express,Yes,Yes,34,Bank Transfer,Weekly,62,6,2,Sneakers
+117,57,M,White,Fall,4.8,Yes,Express,Yes,Yes,37,Venmo,Annually,62,6,2,Blouse
+117,90,L,Indigo,Winter,5,Yes,Store Pickup,Yes,Yes,21,Cash,Fortnightly,62,6,2,Belt
+117,60,M,White,Spring,2.9,Yes,Free Shipping,Yes,Yes,31,Debit Card,Weekly,62,6,2,Shirt
+117,77,L,Teal,Fall,3.2,Yes,Express,Yes,Yes,43,Debit Card,Every 3 Months,62,6,2,Sneakers
+117,41,M,Indigo,Fall,2.9,Yes,Store Pickup,Yes,Yes,22,Bank Transfer,Monthly,62,6,2,Pants
+117,48,L,Red,Fall,3.3,Yes,Free Shipping,Yes,Yes,12,Debit Card,Annually,62,6,2,Jewelry
+117,65,M,Blue,Fall,2.6,Yes,Next Day Air,Yes,Yes,25,PayPal,Fortnightly,62,6,2,Pants
+117,62,M,Blue,Summer,3.5,Yes,Standard,Yes,Yes,40,Debit Card,Annually,62,6,2,Jeans
+117,99,M,Black,Fall,4.4,Yes,Standard,Yes,Yes,16,Debit Card,Quarterly,62,6,2,Shirt
+118,58,M,Olive,Winter,3.4,Yes,Next Day Air,Yes,Yes,30,Bank Transfer,Weekly,65,1,1,Pants
+118,43,L,Lavender,Fall,4.2,Yes,Store Pickup,Yes,Yes,10,Venmo,Weekly,65,1,1,Backpack
+118,93,M,Indigo,Spring,3.6,Yes,Store Pickup,Yes,Yes,1,Debit Card,Fortnightly,65,1,1,Sneakers
+118,50,S,Red,Winter,3,Yes,Next Day Air,Yes,Yes,24,Venmo,Fortnightly,65,1,1,Blouse
+118,88,L,Red,Summer,4,Yes,Free Shipping,Yes,Yes,36,PayPal,Monthly,65,1,1,Pants
+118,33,M,Pink,Fall,4.4,Yes,Express,Yes,Yes,46,Credit Card,Every 3 Months,65,1,1,Shirt
+118,99,XL,Purple,Fall,4.1,Yes,Standard,Yes,Yes,20,Cash,Annually,65,1,1,Sweater
+119,76,XL,Cyan,Spring,3.6,Yes,Free Shipping,Yes,Yes,37,Venmo,Weekly,53,5,1,Pants
+119,97,XL,Cyan,Summer,4.6,Yes,Next Day Air,Yes,Yes,26,Bank Transfer,Annually,53,5,1,Pants
+119,68,M,Charcoal,Summer,3.2,Yes,2-Day Shipping,Yes,Yes,23,Credit Card,Bi-Weekly,53,5,1,Pants
+119,79,L,Red,Fall,4.8,Yes,Free Shipping,Yes,Yes,20,Bank Transfer,Bi-Weekly,53,5,1,Sneakers
+119,86,M,Peach,Fall,4.8,Yes,Express,Yes,Yes,38,PayPal,Monthly,53,5,1,Jeans
+119,68,M,Black,Winter,5,Yes,2-Day Shipping,Yes,Yes,5,Credit Card,Every 3 Months,53,5,1,Dress
+119,52,M,Black,Fall,3.7,Yes,Store Pickup,Yes,Yes,41,Venmo,Annually,53,5,1,Shirt
+119,90,M,Purple,Fall,4.6,Yes,Next Day Air,Yes,Yes,22,Credit Card,Fortnightly,53,5,1,Belt
+119,41,M,Violet,Winter,3.7,Yes,Free Shipping,Yes,Yes,48,Credit Card,Annually,53,5,1,Belt
+119,80,M,Orange,Spring,4.1,Yes,Free Shipping,Yes,Yes,10,PayPal,Weekly,53,5,1,Sweater
+120,100,XL,Charcoal,Winter,2.7,Yes,Store Pickup,Yes,Yes,12,Bank Transfer,Every 3 Months,41,7,2,Sweater
+120,77,L,Turquoise,Spring,4.9,Yes,Store Pickup,Yes,Yes,2,Bank Transfer,Quarterly,41,7,2,Pants
+120,78,L,Yellow,Spring,4,Yes,Store Pickup,Yes,Yes,38,PayPal,Monthly,41,7,2,Shirt
+121,94,M,White,Spring,4.7,Yes,Free Shipping,Yes,Yes,20,Debit Card,Monthly,54,3,2,Shirt
+121,23,M,Gray,Fall,2.8,Yes,Next Day Air,Yes,Yes,5,Cash,Every 3 Months,54,3,2,Shirt
+121,20,S,Blue,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,9,Venmo,Annually,54,3,2,Pants
+121,86,S,Maroon,Fall,4.2,Yes,Express,Yes,Yes,48,Debit Card,Every 3 Months,54,3,2,Shirt
+122,60,M,Violet,Fall,3,Yes,Standard,Yes,Yes,9,Debit Card,Quarterly,47,4,2,Belt
+122,70,M,Orange,Fall,3.4,Yes,2-Day Shipping,Yes,Yes,40,PayPal,Annually,47,4,2,Shirt
+122,39,S,Turquoise,Fall,4.6,Yes,Standard,Yes,Yes,30,Venmo,Fortnightly,47,4,2,Belt
+122,37,L,Olive,Fall,4.2,Yes,Store Pickup,Yes,Yes,6,Debit Card,Bi-Weekly,47,4,2,Backpack
+123,29,M,Brown,Fall,3.2,Yes,Free Shipping,Yes,Yes,42,Venmo,Every 3 Months,59,1,2,Belt
+124,35,S,Green,Winter,4.4,Yes,Store Pickup,Yes,Yes,9,PayPal,Every 3 Months,52,3,2,Belt
+124,83,S,Brown,Winter,2.5,Yes,Next Day Air,Yes,Yes,6,Debit Card,Monthly,52,3,2,Pants
+124,77,M,Silver,Summer,3.6,Yes,Next Day Air,Yes,Yes,47,PayPal,Quarterly,52,3,2,Shirt
+124,37,XL,White,Summer,4.5,Yes,Store Pickup,Yes,Yes,36,Venmo,Annually,52,3,2,Shirt
+124,69,L,Gold,Summer,3.4,Yes,Standard,Yes,Yes,19,Bank Transfer,Fortnightly,52,3,2,Jewelry
+124,66,L,Green,Winter,3.2,Yes,2-Day Shipping,Yes,Yes,30,Cash,Every 3 Months,52,3,2,Dress
+124,26,L,Teal,Spring,4.2,Yes,Standard,Yes,Yes,27,Debit Card,Every 3 Months,52,3,2,Belt
+124,63,M,Charcoal,Spring,5,Yes,2-Day Shipping,Yes,Yes,25,Venmo,Monthly,52,3,2,Dress
+124,38,M,Maroon,Summer,4.7,Yes,Store Pickup,Yes,Yes,5,Cash,Fortnightly,52,3,2,Backpack
+125,58,L,Lavender,Summer,4.2,Yes,Next Day Air,Yes,Yes,10,Cash,Every 3 Months,57,4,1,Shirt
+125,46,L,Green,Winter,3.4,Yes,2-Day Shipping,Yes,Yes,26,PayPal,Every 3 Months,57,4,1,Pants
+125,92,S,Pink,Fall,4.4,Yes,Store Pickup,Yes,Yes,11,Credit Card,Every 3 Months,57,4,1,Sunglasses
+126,32,XL,Charcoal,Winter,4.2,Yes,Standard,Yes,Yes,17,Bank Transfer,Weekly,67,6,1,Dress
+126,90,M,Blue,Spring,4.5,Yes,Standard,Yes,Yes,44,PayPal,Monthly,67,6,1,Pants
+126,23,L,Purple,Fall,2.8,Yes,Next Day Air,Yes,Yes,44,Cash,Monthly,67,6,1,Pants
+126,25,S,Gold,Fall,3.3,Yes,Next Day Air,Yes,Yes,21,Venmo,Every 3 Months,67,6,1,Backpack
+126,54,L,Purple,Fall,4.6,Yes,Next Day Air,Yes,Yes,49,Credit Card,Fortnightly,67,6,1,Sweater
+126,72,M,Charcoal,Summer,2.5,Yes,Free Shipping,Yes,Yes,27,Bank Transfer,Every 3 Months,67,6,1,Shirt
+126,33,M,Black,Winter,4.7,Yes,Store Pickup,Yes,Yes,19,Cash,Monthly,67,6,1,Pants
+126,43,L,Lavender,Fall,4.6,Yes,Express,Yes,Yes,33,Credit Card,Quarterly,67,6,1,Dress
+127,51,L,Lavender,Fall,2.6,Yes,Standard,Yes,Yes,46,Cash,Bi-Weekly,46,9,2,Belt
+127,85,M,Lavender,Winter,4,Yes,Standard,Yes,Yes,21,Credit Card,Bi-Weekly,46,9,2,Jewelry
+127,100,L,Olive,Summer,2.6,Yes,Next Day Air,Yes,Yes,23,Venmo,Annually,46,9,2,Belt
+127,72,L,Teal,Spring,4.6,Yes,Free Shipping,Yes,Yes,38,Credit Card,Every 3 Months,46,9,2,Blouse
+127,57,M,Maroon,Fall,2.6,Yes,Standard,Yes,Yes,2,Bank Transfer,Quarterly,46,9,2,Backpack
+127,94,L,Cyan,Spring,4,Yes,Express,Yes,Yes,21,Debit Card,Bi-Weekly,46,9,2,Pants
+127,34,M,Charcoal,Summer,4.6,Yes,Store Pickup,Yes,Yes,1,Debit Card,Every 3 Months,46,9,2,Backpack
+127,89,M,Black,Fall,3.7,Yes,2-Day Shipping,Yes,Yes,10,Venmo,Every 3 Months,46,9,2,Backpack
+127,27,S,Red,Fall,4.4,Yes,Store Pickup,Yes,Yes,45,Credit Card,Weekly,46,9,2,Sunglasses
+127,63,S,Peach,Spring,4,Yes,Next Day Air,Yes,Yes,44,Bank Transfer,Fortnightly,46,9,2,Shirt
+127,70,M,White,Fall,4.7,Yes,Standard,Yes,Yes,48,PayPal,Bi-Weekly,46,9,2,Shirt
+128,87,XL,Pink,Fall,3.4,Yes,Express,Yes,Yes,21,PayPal,Annually,22,6,2,Pants
+128,79,M,Red,Fall,4,Yes,Next Day Air,Yes,Yes,1,Venmo,Weekly,22,6,2,Jewelry
+128,79,M,Indigo,Spring,3.9,Yes,Standard,Yes,Yes,10,Venmo,Annually,22,6,2,Sunglasses
+128,44,L,Black,Winter,4.1,Yes,Express,Yes,Yes,24,PayPal,Monthly,22,6,2,Belt
+128,85,M,White,Fall,3.7,Yes,2-Day Shipping,Yes,Yes,29,Credit Card,Monthly,22,6,2,Sweater
+128,90,L,Beige,Spring,4.7,Yes,Standard,Yes,Yes,11,Debit Card,Annually,22,6,2,Shirt
+128,94,S,Silver,Fall,4.3,Yes,2-Day Shipping,Yes,Yes,33,Debit Card,Annually,22,6,2,Jewelry
+128,68,S,Violet,Summer,4.1,Yes,Store Pickup,Yes,Yes,27,Cash,Fortnightly,22,6,2,Belt
+128,51,M,Red,Winter,3.9,Yes,Next Day Air,Yes,Yes,19,Venmo,Fortnightly,22,6,2,Backpack
+128,33,M,Orange,Spring,2.9,Yes,Express,Yes,Yes,50,Debit Card,Quarterly,22,6,2,Belt
+128,60,M,Teal,Summer,3.9,Yes,Standard,Yes,Yes,46,PayPal,Weekly,22,6,2,Sneakers
+128,59,M,Brown,Fall,4.3,Yes,2-Day Shipping,Yes,Yes,28,Cash,Quarterly,22,6,2,Pants
+129,30,M,Indigo,Summer,2.8,Yes,Store Pickup,Yes,Yes,14,Bank Transfer,Every 3 Months,30,3,1,Pants
+129,20,M,Cyan,Winter,3.4,Yes,2-Day Shipping,Yes,Yes,46,Cash,Fortnightly,30,3,1,Sweater
+129,20,S,Blue,Summer,2.7,Yes,Express,Yes,Yes,41,PayPal,Monthly,30,3,1,Belt
+129,24,L,Olive,Spring,4,Yes,2-Day Shipping,Yes,Yes,50,Credit Card,Annually,30,3,1,Dress
+129,88,M,Gray,Summer,4.4,Yes,Store Pickup,Yes,Yes,28,Debit Card,Fortnightly,30,3,1,Shirt
+129,78,M,Red,Winter,3.9,Yes,2-Day Shipping,Yes,Yes,23,Credit Card,Every 3 Months,30,3,1,Blouse
+130,25,L,Red,Spring,2.8,Yes,2-Day Shipping,Yes,Yes,14,Debit Card,Bi-Weekly,46,8,2,Shirt
+130,57,XL,Green,Winter,3.2,Yes,Next Day Air,Yes,Yes,10,Bank Transfer,Every 3 Months,46,8,2,Sweater
+130,93,S,Blue,Summer,4.3,Yes,Next Day Air,Yes,Yes,37,Cash,Weekly,46,8,2,Backpack
+130,42,S,Purple,Summer,4.2,Yes,Express,Yes,Yes,15,Venmo,Bi-Weekly,46,8,2,Pants
+130,54,XL,Pink,Spring,4.9,Yes,Standard,Yes,Yes,19,Venmo,Bi-Weekly,46,8,2,Belt
+130,70,XL,Charcoal,Summer,3.7,Yes,Express,Yes,Yes,23,Credit Card,Fortnightly,46,8,2,Blouse
+130,31,M,Brown,Winter,4.1,Yes,Store Pickup,Yes,Yes,35,Credit Card,Weekly,46,8,2,Pants
+130,93,L,Orange,Spring,4.2,Yes,Store Pickup,Yes,Yes,33,PayPal,Every 3 Months,46,8,2,Pants
+130,40,M,Magenta,Spring,3.9,Yes,Next Day Air,Yes,Yes,12,Bank Transfer,Annually,46,8,2,Blouse
+130,32,L,Yellow,Summer,2.9,Yes,Next Day Air,Yes,Yes,41,Venmo,Fortnightly,46,8,2,Dress
+130,27,M,Beige,Winter,3.1,Yes,Free Shipping,Yes,Yes,27,Venmo,Weekly,46,8,2,Sunglasses
+130,68,M,Olive,Winter,3.6,Yes,2-Day Shipping,Yes,Yes,45,Cash,Fortnightly,46,8,2,Pants
+131,59,L,Gray,Summer,4.4,Yes,2-Day Shipping,Yes,Yes,23,Venmo,Annually,59,9,2,Pants
+131,36,S,Purple,Fall,3.1,Yes,Free Shipping,Yes,Yes,19,Venmo,Monthly,59,9,2,Pants
+131,23,M,Beige,Summer,3.9,Yes,Standard,Yes,Yes,6,PayPal,Quarterly,59,9,2,Jeans
+131,80,M,White,Winter,4.3,Yes,Free Shipping,Yes,Yes,6,PayPal,Quarterly,59,9,2,Pants
+131,37,S,White,Fall,4.9,Yes,Store Pickup,Yes,Yes,20,Venmo,Weekly,59,9,2,Backpack
+131,52,S,Gold,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,8,Cash,Weekly,59,9,2,Shirt
+132,79,M,Olive,Fall,5,Yes,2-Day Shipping,Yes,Yes,39,Credit Card,Quarterly,70,8,2,Belt
+132,68,XL,Green,Fall,4.1,Yes,Store Pickup,Yes,Yes,39,Credit Card,Quarterly,70,8,2,Shirt
+132,98,L,Magenta,Fall,2.8,Yes,Express,Yes,Yes,39,Venmo,Bi-Weekly,70,8,2,Blouse
+132,83,M,Charcoal,Fall,4.7,Yes,Express,Yes,Yes,23,Credit Card,Monthly,70,8,2,Dress
+132,83,M,Indigo,Winter,4.4,Yes,Express,Yes,Yes,41,PayPal,Bi-Weekly,70,8,2,Pants
+132,55,M,Peach,Spring,4.9,Yes,2-Day Shipping,Yes,Yes,50,Credit Card,Annually,70,8,2,Pants
+133,26,L,Turquoise,Winter,3.1,Yes,Free Shipping,Yes,Yes,30,Debit Card,Quarterly,50,4,2,Pants
+133,76,S,Blue,Winter,2.6,Yes,Standard,Yes,Yes,32,Bank Transfer,Quarterly,50,4,2,Sunglasses
+133,85,S,Turquoise,Fall,2.9,Yes,Express,Yes,Yes,35,Bank Transfer,Monthly,50,4,2,Sweater
+133,89,M,Gray,Spring,3.3,Yes,Free Shipping,Yes,Yes,45,Venmo,Bi-Weekly,50,4,2,Pants
+133,41,XL,Purple,Spring,4.8,Yes,Next Day Air,Yes,Yes,37,Cash,Bi-Weekly,50,4,2,Sweater
+134,30,L,Black,Winter,4.7,Yes,Express,Yes,Yes,45,Cash,Weekly,63,3,2,Pants
+135,53,M,Peach,Winter,3.3,Yes,2-Day Shipping,Yes,Yes,29,Cash,Quarterly,39,5,1,Shirt
+135,66,M,Indigo,Spring,4.2,Yes,Free Shipping,Yes,Yes,27,Venmo,Bi-Weekly,39,5,1,Shirt
+136,33,XL,Beige,Winter,4.7,Yes,Store Pickup,Yes,Yes,36,Bank Transfer,Annually,69,6,1,Jewelry
+136,86,M,Yellow,Spring,2.6,Yes,2-Day Shipping,Yes,Yes,9,Cash,Annually,69,6,1,Sunglasses
+136,60,M,Peach,Winter,2.9,Yes,2-Day Shipping,Yes,Yes,38,Venmo,Bi-Weekly,69,6,1,Pants
+137,62,S,Turquoise,Summer,2.7,Yes,Express,Yes,Yes,41,PayPal,Annually,39,8,1,Shirt
+137,74,M,Teal,Fall,3.3,Yes,Store Pickup,Yes,Yes,25,Debit Card,Every 3 Months,39,8,1,Blouse
+137,95,M,Turquoise,Fall,3.4,Yes,Express,Yes,Yes,37,Venmo,Fortnightly,39,8,1,Belt
+137,25,M,Magenta,Spring,4.2,Yes,Express,Yes,Yes,3,PayPal,Annually,39,8,1,Sneakers
+137,59,XL,Purple,Winter,3.8,Yes,2-Day Shipping,Yes,Yes,24,Credit Card,Every 3 Months,39,8,1,Shirt
+137,29,M,Brown,Summer,4,Yes,Standard,Yes,Yes,49,Credit Card,Bi-Weekly,39,8,1,Pants
+138,36,S,Violet,Winter,2.7,Yes,Free Shipping,Yes,Yes,3,Bank Transfer,Monthly,31,3,1,Belt
+138,82,M,Yellow,Summer,4.7,Yes,Express,Yes,Yes,42,Debit Card,Monthly,31,3,1,Dress
+138,71,XL,Magenta,Winter,3.5,Yes,Standard,Yes,Yes,32,Cash,Fortnightly,31,3,1,Blouse
+138,35,L,Beige,Fall,3,Yes,2-Day Shipping,Yes,Yes,33,Venmo,Fortnightly,31,3,1,Sweater
+139,38,XL,Turquoise,Winter,3.3,Yes,Free Shipping,Yes,Yes,46,Bank Transfer,Quarterly,39,6,2,Blouse
+139,59,S,Peach,Summer,4.7,Yes,Store Pickup,Yes,Yes,44,Venmo,Monthly,39,6,2,Pants
+139,91,M,Orange,Summer,4.7,Yes,Express,Yes,Yes,35,Credit Card,Every 3 Months,39,6,2,Pants
+139,68,XL,Red,Spring,4.8,Yes,Standard,Yes,Yes,45,Bank Transfer,Weekly,39,6,2,Shirt
+139,21,L,Silver,Summer,2.9,Yes,Standard,Yes,Yes,37,PayPal,Bi-Weekly,39,6,2,Backpack
+140,95,M,Cyan,Spring,4,Yes,2-Day Shipping,Yes,Yes,40,Debit Card,Every 3 Months,57,6,2,Sunglasses
+140,52,L,Turquoise,Spring,3.1,Yes,Free Shipping,Yes,Yes,30,Cash,Every 3 Months,57,6,2,Shirt
+140,21,S,Charcoal,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,38,Venmo,Every 3 Months,57,6,2,Dress
+141,67,XL,Peach,Summer,3.7,Yes,Next Day Air,Yes,Yes,15,Debit Card,Every 3 Months,26,7,1,Shirt
+141,42,L,Green,Fall,2.8,Yes,Standard,Yes,Yes,49,Cash,Monthly,26,7,1,Belt
+142,63,XL,Brown,Summer,4.6,Yes,Free Shipping,Yes,Yes,40,Debit Card,Quarterly,34,3,2,Pants
+142,41,M,Yellow,Winter,3.8,Yes,Standard,Yes,Yes,40,Debit Card,Weekly,34,3,2,Belt
+142,46,M,Charcoal,Fall,2.6,Yes,2-Day Shipping,Yes,Yes,5,PayPal,Weekly,34,3,2,Pants
+142,79,L,Olive,Winter,4.1,Yes,Standard,Yes,Yes,5,PayPal,Monthly,34,3,2,Pants
+142,90,L,Red,Fall,3.3,Yes,Next Day Air,Yes,Yes,5,Debit Card,Every 3 Months,34,3,2,Belt
+142,71,M,White,Winter,3.4,Yes,Store Pickup,Yes,Yes,1,Cash,Weekly,34,3,2,Shirt
+143,87,L,Pink,Summer,3,Yes,Standard,Yes,Yes,21,Venmo,Weekly,44,6,1,Dress
+143,66,S,Black,Spring,3.2,Yes,Express,Yes,Yes,18,PayPal,Annually,44,6,1,Pants
+143,90,XL,Indigo,Summer,4.5,Yes,Free Shipping,Yes,Yes,49,Cash,Quarterly,44,6,1,Pants
+143,47,L,Turquoise,Summer,4.8,Yes,Express,Yes,Yes,27,Debit Card,Weekly,44,6,1,Jeans
+144,38,L,Purple,Spring,3.7,Yes,Next Day Air,Yes,Yes,21,Venmo,Annually,70,3,1,Shirt
+144,50,L,Beige,Summer,3.4,Yes,Store Pickup,Yes,Yes,19,Cash,Fortnightly,70,3,1,Backpack
+144,79,L,Charcoal,Summer,4.6,Yes,Standard,Yes,Yes,23,Debit Card,Monthly,70,3,1,Pants
+144,91,L,Turquoise,Spring,4.1,Yes,Standard,Yes,Yes,26,PayPal,Fortnightly,70,3,1,Pants
+145,60,M,Maroon,Spring,3.5,Yes,2-Day Shipping,Yes,Yes,13,Bank Transfer,Bi-Weekly,67,6,2,Belt
+145,81,XL,Black,Summer,3.8,Yes,Next Day Air,Yes,Yes,36,Bank Transfer,Quarterly,67,6,2,Blouse
+145,90,M,Lavender,Summer,2.6,Yes,Express,Yes,Yes,39,Bank Transfer,Bi-Weekly,67,6,2,Pants
+145,70,M,Magenta,Fall,4.4,Yes,Store Pickup,Yes,Yes,40,Debit Card,Fortnightly,67,6,2,Pants
+145,63,L,Green,Spring,2.6,Yes,Express,Yes,Yes,37,Debit Card,Quarterly,67,6,2,Jeans
+145,29,M,Olive,Spring,3.6,Yes,Express,Yes,Yes,9,Venmo,Bi-Weekly,67,6,2,Jewelry
+145,90,L,Green,Spring,4.2,Yes,Express,Yes,Yes,7,Venmo,Every 3 Months,67,6,2,Shirt
+146,22,M,Peach,Summer,4.6,Yes,Standard,Yes,Yes,25,Bank Transfer,Annually,27,8,2,Shirt
+146,22,L,Turquoise,Summer,3.3,Yes,Next Day Air,Yes,Yes,42,Venmo,Bi-Weekly,27,8,2,Shirt
+146,62,L,Orange,Fall,3.4,Yes,Free Shipping,Yes,Yes,19,Debit Card,Weekly,27,8,2,Jewelry
+146,57,L,Silver,Summer,4.4,Yes,Next Day Air,Yes,Yes,41,Debit Card,Every 3 Months,27,8,2,Blouse
+147,32,S,Blue,Summer,4.3,Yes,Store Pickup,Yes,Yes,50,Cash,Bi-Weekly,33,5,2,Sweater
+147,53,L,Cyan,Fall,3.5,Yes,Express,Yes,Yes,43,PayPal,Monthly,33,5,2,Jewelry
+147,79,XL,Green,Fall,4.7,Yes,Store Pickup,Yes,Yes,36,Venmo,Every 3 Months,33,5,2,Sweater
+147,61,L,Silver,Winter,3.1,Yes,Standard,Yes,Yes,33,Debit Card,Fortnightly,33,5,2,Dress
+147,78,L,Yellow,Summer,3.6,Yes,Next Day Air,Yes,Yes,20,Bank Transfer,Every 3 Months,33,5,2,Shirt
+147,97,S,Gray,Winter,4.8,Yes,Next Day Air,Yes,Yes,37,Venmo,Every 3 Months,33,5,2,Sweater
+147,78,M,Pink,Winter,3.7,Yes,Next Day Air,Yes,Yes,12,PayPal,Every 3 Months,33,5,2,Jeans
+147,56,L,Beige,Summer,3.2,Yes,Express,Yes,Yes,46,PayPal,Every 3 Months,33,5,2,Sunglasses
+147,25,M,Indigo,Summer,3.9,Yes,Standard,Yes,Yes,28,Venmo,Fortnightly,33,5,2,Belt
+147,28,M,Red,Spring,3.5,Yes,Free Shipping,Yes,Yes,30,PayPal,Fortnightly,33,5,2,Belt
+147,57,L,Blue,Spring,2.8,Yes,Express,Yes,Yes,28,Cash,Bi-Weekly,33,5,2,Shirt
+147,36,L,Cyan,Fall,2.7,Yes,2-Day Shipping,Yes,Yes,20,Debit Card,Bi-Weekly,33,5,2,Dress
+147,69,S,Violet,Winter,3.1,Yes,Express,Yes,Yes,39,Bank Transfer,Every 3 Months,33,5,2,Shirt
+147,48,M,Orange,Fall,3.6,Yes,2-Day Shipping,Yes,Yes,48,Cash,Bi-Weekly,33,5,2,Sunglasses
+148,58,L,Maroon,Spring,2.9,Yes,2-Day Shipping,Yes,Yes,32,Credit Card,Every 3 Months,68,2,2,Dress
+148,24,M,Teal,Spring,3.6,Yes,Store Pickup,Yes,Yes,28,PayPal,Annually,68,2,2,Sunglasses
+148,31,L,Orange,Winter,3.5,Yes,2-Day Shipping,Yes,Yes,27,Venmo,Quarterly,68,2,2,Sunglasses
+148,29,S,Purple,Summer,3.5,Yes,Free Shipping,Yes,Yes,26,Venmo,Bi-Weekly,68,2,2,Shirt
+148,69,M,Orange,Summer,2.8,Yes,Next Day Air,Yes,Yes,22,Credit Card,Fortnightly,68,2,2,Jeans
+149,79,XL,Yellow,Summer,4.7,Yes,Free Shipping,Yes,Yes,23,Bank Transfer,Every 3 Months,22,8,2,Sweater
+149,39,M,Charcoal,Summer,3.1,Yes,Express,Yes,Yes,21,Debit Card,Quarterly,22,8,2,Pants
+149,84,L,Gray,Fall,4.9,Yes,Free Shipping,Yes,Yes,36,Cash,Weekly,22,8,2,Sunglasses
+149,66,S,Charcoal,Spring,4.1,Yes,Next Day Air,Yes,Yes,42,Debit Card,Bi-Weekly,22,8,2,Belt
+150,92,L,Orange,Fall,4.7,Yes,Standard,Yes,Yes,4,Venmo,Monthly,61,3,2,Sweater
+150,45,M,Red,Winter,2.5,Yes,Free Shipping,Yes,Yes,47,Credit Card,Annually,61,3,2,Belt
+151,74,L,Gold,Spring,4.4,Yes,Next Day Air,Yes,Yes,13,Bank Transfer,Weekly,25,5,2,Shirt
+151,39,L,Brown,Fall,3.9,Yes,Free Shipping,Yes,Yes,8,Bank Transfer,Quarterly,25,5,2,Dress
+151,71,M,Olive,Winter,3.7,Yes,Standard,Yes,Yes,11,Debit Card,Quarterly,25,5,2,Pants
+151,95,L,Violet,Fall,3.4,Yes,Free Shipping,Yes,Yes,5,Venmo,Annually,25,5,2,Sweater
+151,72,L,Indigo,Fall,4.8,Yes,Free Shipping,Yes,Yes,1,Credit Card,Monthly,25,5,2,Blouse
+153,85,L,Yellow,Fall,4.2,Yes,2-Day Shipping,Yes,Yes,17,PayPal,Every 3 Months,45,4,1,Pants
+153,54,M,Teal,Fall,3.4,Yes,Store Pickup,Yes,Yes,27,Venmo,Quarterly,45,4,1,Belt
+153,41,L,Pink,Spring,2.9,Yes,Store Pickup,Yes,Yes,3,Debit Card,Quarterly,45,4,1,Blouse
+153,24,M,Violet,Spring,3.3,Yes,Free Shipping,Yes,Yes,22,PayPal,Weekly,45,4,1,Belt
+154,99,S,Orange,Summer,4.8,Yes,Standard,Yes,Yes,24,Cash,Fortnightly,57,6,1,Belt
+154,32,M,Red,Fall,3.8,Yes,Store Pickup,Yes,Yes,18,Debit Card,Quarterly,57,6,1,Pants
+154,71,L,Peach,Summer,4.6,Yes,2-Day Shipping,Yes,Yes,39,Bank Transfer,Every 3 Months,57,6,1,Shirt
+154,49,XL,Green,Winter,2.6,Yes,Next Day Air,Yes,Yes,25,Credit Card,Fortnightly,57,6,1,Dress
+154,50,XL,Violet,Fall,3.4,Yes,Free Shipping,Yes,Yes,6,Cash,Annually,57,6,1,Blouse
+154,91,L,Yellow,Fall,4.2,Yes,Express,Yes,Yes,26,Bank Transfer,Weekly,57,6,1,Jewelry
+154,46,M,Pink,Fall,3.9,Yes,Standard,Yes,Yes,43,Debit Card,Fortnightly,57,6,1,Belt
+155,50,M,Brown,Spring,2.9,Yes,2-Day Shipping,Yes,Yes,6,Credit Card,Monthly,40,7,2,Sweater
+155,39,XL,Silver,Fall,4.2,Yes,Free Shipping,Yes,Yes,6,Debit Card,Quarterly,40,7,2,Shirt
+155,99,M,Pink,Summer,3,Yes,Store Pickup,Yes,Yes,13,Cash,Quarterly,40,7,2,Sneakers
+155,48,M,Cyan,Winter,3.6,Yes,Next Day Air,Yes,Yes,13,PayPal,Monthly,40,7,2,Blouse
+155,77,M,Brown,Fall,2.5,Yes,Next Day Air,Yes,Yes,11,Cash,Annually,40,7,2,Belt
+156,95,XL,Red,Spring,2.6,Yes,Express,Yes,Yes,45,Venmo,Weekly,44,3,2,Backpack
+156,100,M,Silver,Spring,4.3,Yes,Store Pickup,Yes,Yes,8,PayPal,Monthly,44,3,2,Shirt
+156,54,M,Gray,Spring,3.3,Yes,Express,Yes,Yes,8,Credit Card,Annually,44,3,2,Sneakers
+156,68,L,Cyan,Fall,2.6,Yes,Next Day Air,Yes,Yes,34,Bank Transfer,Fortnightly,44,3,2,Sweater
+156,22,L,Teal,Fall,3.6,Yes,Free Shipping,Yes,Yes,40,Debit Card,Bi-Weekly,44,3,2,Jeans
+156,84,L,Indigo,Winter,2.6,Yes,Express,Yes,Yes,14,Debit Card,Bi-Weekly,44,3,2,Dress
+156,46,M,Yellow,Summer,3.5,Yes,Standard,Yes,Yes,11,Credit Card,Quarterly,44,3,2,Dress
+156,53,S,Gold,Winter,3,Yes,Store Pickup,Yes,Yes,8,PayPal,Monthly,44,3,2,Pants
+156,60,M,Maroon,Spring,5,Yes,Standard,Yes,Yes,8,Venmo,Every 3 Months,44,3,2,Shirt
+156,32,XL,Silver,Spring,2.5,Yes,Express,Yes,Yes,37,Venmo,Weekly,44,3,2,Shirt
+156,50,M,Yellow,Summer,2.9,Yes,Store Pickup,Yes,Yes,23,Debit Card,Annually,44,3,2,Shirt
+157,94,M,Blue,Spring,4.6,Yes,Express,Yes,Yes,38,Cash,Annually,22,5,2,Dress
+157,26,M,Turquoise,Spring,3.6,Yes,Free Shipping,Yes,Yes,38,Cash,Quarterly,22,5,2,Shirt
+157,44,L,Indigo,Winter,3,Yes,Store Pickup,Yes,Yes,12,Credit Card,Fortnightly,22,5,2,Pants
+157,57,M,Green,Summer,4.5,Yes,Standard,Yes,Yes,15,Cash,Weekly,22,5,2,Pants
+158,65,L,Purple,Winter,4.5,Yes,Next Day Air,Yes,Yes,38,PayPal,Fortnightly,42,3,2,Sweater
+158,72,M,Peach,Winter,3.2,Yes,Store Pickup,Yes,Yes,41,Bank Transfer,Every 3 Months,42,3,2,Jeans
+158,62,S,Purple,Spring,4,Yes,Next Day Air,Yes,Yes,37,PayPal,Fortnightly,42,3,2,Shirt
+158,21,S,Teal,Winter,4.8,Yes,Express,Yes,Yes,16,Bank Transfer,Every 3 Months,42,3,2,Dress
+159,85,S,Green,Spring,3.7,Yes,Free Shipping,Yes,Yes,25,Venmo,Weekly,53,1,1,Pants
+159,51,XL,Yellow,Summer,3.8,Yes,Store Pickup,Yes,Yes,18,Bank Transfer,Quarterly,53,1,1,Pants
+159,84,S,Purple,Fall,2.7,Yes,Standard,Yes,Yes,4,Credit Card,Bi-Weekly,53,1,1,Pants
+159,37,M,Indigo,Summer,4.9,Yes,Store Pickup,Yes,Yes,12,Bank Transfer,Quarterly,53,1,1,Sweater
+159,44,S,Magenta,Summer,3.1,Yes,2-Day Shipping,Yes,Yes,35,PayPal,Fortnightly,53,1,1,Pants
+159,45,M,Violet,Spring,4.2,Yes,Next Day Air,Yes,Yes,45,Venmo,Weekly,53,1,1,Sneakers
+159,35,L,Maroon,Summer,3.8,Yes,Free Shipping,Yes,Yes,16,Credit Card,Monthly,53,1,1,Pants
+159,50,XL,Yellow,Winter,4.2,Yes,Store Pickup,Yes,Yes,10,Debit Card,Fortnightly,53,1,1,Backpack
+160,26,M,Beige,Summer,4.6,Yes,Store Pickup,Yes,Yes,34,Venmo,Annually,47,3,2,Belt
+160,78,XL,Black,Fall,4,Yes,2-Day Shipping,Yes,Yes,43,Credit Card,Annually,47,3,2,Shirt
+160,82,M,Violet,Fall,4,Yes,2-Day Shipping,Yes,Yes,38,Debit Card,Weekly,47,3,2,Belt
+161,39,M,Violet,Spring,3.8,Yes,2-Day Shipping,Yes,Yes,48,PayPal,Every 3 Months,63,6,2,Shirt
+161,55,L,Brown,Summer,3.3,Yes,Free Shipping,Yes,Yes,31,PayPal,Annually,63,6,2,Belt
+161,20,S,Gold,Summer,2.6,Yes,Free Shipping,Yes,Yes,20,Cash,Every 3 Months,63,6,2,Shirt
+161,29,L,Blue,Fall,4.9,Yes,Express,Yes,Yes,12,Credit Card,Fortnightly,63,6,2,Belt
+161,41,M,Teal,Winter,3.5,Yes,Next Day Air,Yes,Yes,2,Bank Transfer,Weekly,63,6,2,Pants
+161,38,L,Silver,Winter,2.8,Yes,Express,Yes,Yes,30,Venmo,Every 3 Months,63,6,2,Shirt
+162,47,M,Maroon,Summer,2.6,Yes,Store Pickup,Yes,Yes,28,Venmo,Quarterly,52,1,1,Belt
+162,30,L,White,Summer,3.7,Yes,Next Day Air,Yes,Yes,40,Debit Card,Monthly,52,1,1,Dress
+162,56,L,Charcoal,Summer,2.7,Yes,Standard,Yes,Yes,46,PayPal,Quarterly,52,1,1,Jeans
+162,89,S,Brown,Winter,3.3,Yes,Express,Yes,Yes,15,Credit Card,Weekly,52,1,1,Sweater
+162,96,L,Lavender,Fall,4.6,Yes,Next Day Air,Yes,Yes,38,Cash,Every 3 Months,52,1,1,Shirt
+163,81,M,Violet,Fall,4.9,Yes,Next Day Air,Yes,Yes,30,PayPal,Bi-Weekly,23,7,1,Belt
+163,83,S,Lavender,Fall,4.9,Yes,Store Pickup,Yes,Yes,32,Debit Card,Bi-Weekly,23,7,1,Pants
+163,35,M,Green,Winter,2.7,Yes,Free Shipping,Yes,Yes,36,Venmo,Quarterly,23,7,1,Sneakers
+163,56,M,Olive,Summer,3.2,Yes,Standard,Yes,Yes,32,Credit Card,Weekly,23,7,1,Belt
+163,45,S,Olive,Summer,2.9,Yes,Store Pickup,Yes,Yes,14,Debit Card,Annually,23,7,1,Pants
+163,62,M,Pink,Winter,3.8,Yes,Express,Yes,Yes,8,PayPal,Monthly,23,7,1,Shirt
+163,84,L,Teal,Spring,3,Yes,Next Day Air,Yes,Yes,27,Venmo,Bi-Weekly,23,7,1,Dress
+163,24,L,Cyan,Summer,3.9,Yes,Store Pickup,Yes,Yes,24,Debit Card,Monthly,23,7,1,Sweater
+163,21,S,Gray,Spring,4.7,Yes,Store Pickup,Yes,Yes,30,PayPal,Fortnightly,23,7,1,Pants
+164,91,M,Peach,Winter,4.9,Yes,Store Pickup,Yes,Yes,34,Debit Card,Monthly,69,3,2,Shirt
+164,36,S,Teal,Winter,4.8,Yes,Next Day Air,Yes,Yes,28,Debit Card,Quarterly,69,3,2,Sunglasses
+164,39,M,Turquoise,Spring,2.5,Yes,2-Day Shipping,Yes,Yes,27,Debit Card,Monthly,69,3,2,Sneakers
+164,39,M,Green,Spring,3.9,Yes,Standard,Yes,Yes,31,Credit Card,Bi-Weekly,69,3,2,Pants
+165,59,L,Magenta,Winter,3.4,Yes,Standard,Yes,Yes,23,Bank Transfer,Annually,58,8,1,Shirt
+165,27,M,Green,Winter,2.5,Yes,Free Shipping,Yes,Yes,11,Credit Card,Quarterly,58,8,1,Sunglasses
+165,94,M,White,Spring,3,Yes,Store Pickup,Yes,Yes,48,Cash,Quarterly,58,8,1,Blouse
+165,94,XL,Brown,Fall,3.6,Yes,Next Day Air,Yes,Yes,17,Cash,Monthly,58,8,1,Belt
+165,94,M,Purple,Winter,3.6,Yes,Standard,Yes,Yes,36,PayPal,Weekly,58,8,1,Dress
+165,51,S,Green,Fall,4.1,Yes,Free Shipping,Yes,Yes,33,Bank Transfer,Fortnightly,58,8,1,Shirt
+165,62,M,Peach,Fall,3.7,Yes,2-Day Shipping,Yes,Yes,27,PayPal,Bi-Weekly,58,8,1,Shirt
+165,57,S,Silver,Spring,3.1,Yes,2-Day Shipping,Yes,Yes,14,Credit Card,Fortnightly,58,8,1,Shirt
+165,76,M,Maroon,Fall,4.2,Yes,Express,Yes,Yes,5,Credit Card,Annually,58,8,1,Shirt
+165,63,M,Red,Summer,4.3,Yes,Express,Yes,Yes,47,Cash,Every 3 Months,58,8,1,Blouse
+165,80,L,Blue,Fall,2.5,Yes,Express,Yes,Yes,28,Cash,Bi-Weekly,58,8,1,Pants
+165,68,M,Purple,Fall,3.5,Yes,Standard,Yes,Yes,11,Credit Card,Annually,58,8,1,Pants
+166,89,M,Indigo,Summer,3.1,Yes,Free Shipping,Yes,Yes,18,Credit Card,Weekly,68,4,2,Backpack
+166,26,L,Indigo,Summer,2.5,Yes,Next Day Air,Yes,Yes,21,Debit Card,Weekly,68,4,2,Belt
+166,90,L,Violet,Winter,3.9,Yes,Store Pickup,Yes,Yes,22,Cash,Bi-Weekly,68,4,2,Blouse
+167,28,L,Brown,Spring,4.9,Yes,Express,Yes,Yes,33,Cash,Every 3 Months,64,2,2,Pants
+167,29,M,Gray,Spring,4.3,Yes,Express,Yes,Yes,49,Credit Card,Annually,64,2,2,Belt
+167,31,L,Teal,Spring,2.6,Yes,Free Shipping,Yes,Yes,10,Debit Card,Every 3 Months,64,2,2,Shirt
+168,24,L,Teal,Summer,4.2,Yes,2-Day Shipping,Yes,Yes,18,PayPal,Weekly,70,6,1,Shirt
+168,88,M,Beige,Summer,2.6,Yes,Store Pickup,Yes,Yes,28,PayPal,Fortnightly,70,6,1,Sweater
+168,87,M,Violet,Spring,3.6,Yes,Express,Yes,Yes,25,PayPal,Weekly,70,6,1,Shirt
+168,80,S,Beige,Summer,3.2,Yes,Express,Yes,Yes,6,PayPal,Weekly,70,6,1,Pants
+168,48,L,Purple,Winter,4.4,Yes,Express,Yes,Yes,44,Venmo,Bi-Weekly,70,6,1,Belt
+168,21,XL,Charcoal,Winter,3.7,Yes,Standard,Yes,Yes,30,Venmo,Monthly,70,6,1,Belt
+168,72,M,Pink,Spring,3.7,Yes,Express,Yes,Yes,42,Debit Card,Quarterly,70,6,1,Belt
+168,44,L,Blue,Fall,4.1,Yes,Standard,Yes,Yes,30,PayPal,Monthly,70,6,1,Pants
+168,73,M,Lavender,Fall,3.6,Yes,Store Pickup,Yes,Yes,33,Credit Card,Bi-Weekly,70,6,1,Belt
+169,61,S,Charcoal,Spring,4.3,Yes,Express,Yes,Yes,24,PayPal,Quarterly,48,9,2,Jeans
+170,20,L,Turquoise,Winter,2.6,Yes,Store Pickup,Yes,Yes,13,Venmo,Monthly,34,8,2,Shirt
+170,86,M,Red,Summer,2.9,Yes,Express,Yes,Yes,19,Debit Card,Monthly,34,8,2,Belt
+170,60,L,Yellow,Spring,4.2,Yes,Next Day Air,Yes,Yes,23,Debit Card,Every 3 Months,34,8,2,Dress
+170,43,L,Orange,Winter,4,Yes,Free Shipping,Yes,Yes,35,Cash,Monthly,34,8,2,Dress
+170,44,L,Blue,Spring,4.3,Yes,Free Shipping,Yes,Yes,22,Venmo,Monthly,34,8,2,Pants
+170,76,L,Gold,Spring,3,Yes,2-Day Shipping,Yes,Yes,14,Credit Card,Quarterly,34,8,2,Shirt
+170,33,M,Gold,Summer,3.5,Yes,Express,Yes,Yes,47,Debit Card,Fortnightly,34,8,2,Shirt
+170,60,L,Cyan,Fall,3,Yes,Standard,Yes,Yes,50,Debit Card,Every 3 Months,34,8,2,Shirt
+170,26,L,Olive,Fall,3.1,Yes,Free Shipping,Yes,Yes,33,PayPal,Weekly,34,8,2,Pants
+171,73,M,Teal,Winter,4,Yes,Next Day Air,Yes,Yes,7,Debit Card,Monthly,23,3,1,Pants
+172,87,M,Maroon,Spring,4.1,Yes,Standard,Yes,Yes,3,Cash,Monthly,23,8,2,Shirt
+172,100,XL,Green,Spring,3.3,Yes,2-Day Shipping,Yes,Yes,35,Credit Card,Every 3 Months,23,8,2,Shirt
+172,84,M,Charcoal,Winter,4.9,Yes,Standard,Yes,Yes,13,PayPal,Fortnightly,23,8,2,Belt
+173,41,M,Cyan,Summer,3.9,Yes,Standard,Yes,Yes,42,PayPal,Fortnightly,67,2,1,Sneakers
+173,59,S,Charcoal,Winter,3.9,Yes,Next Day Air,Yes,Yes,5,PayPal,Annually,67,2,1,Jeans
+173,26,L,Charcoal,Winter,4.8,Yes,Store Pickup,Yes,Yes,23,Venmo,Annually,67,2,1,Blouse
+174,69,M,Lavender,Summer,2.7,Yes,Free Shipping,Yes,Yes,11,PayPal,Bi-Weekly,31,6,1,Sunglasses
+174,20,M,Turquoise,Spring,3.1,Yes,Free Shipping,Yes,Yes,23,Bank Transfer,Fortnightly,31,6,1,Pants
+174,83,M,Green,Summer,3.2,Yes,Next Day Air,Yes,Yes,2,Credit Card,Every 3 Months,31,6,1,Dress
+174,54,M,Silver,Spring,2.7,Yes,2-Day Shipping,Yes,Yes,33,PayPal,Weekly,31,6,1,Dress
+174,66,M,Blue,Fall,2.5,Yes,Standard,Yes,Yes,6,Bank Transfer,Bi-Weekly,31,6,1,Pants
+174,42,M,Charcoal,Spring,2.6,Yes,Next Day Air,Yes,Yes,45,Debit Card,Quarterly,31,6,1,Pants
+176,33,M,Pink,Spring,2.9,Yes,Standard,Yes,Yes,25,Cash,Quarterly,63,1,1,Jeans
+177,77,M,Pink,Summer,4.2,Yes,Free Shipping,Yes,Yes,24,Venmo,Quarterly,58,2,1,Belt
+177,65,M,Magenta,Fall,4.4,Yes,Free Shipping,Yes,Yes,10,Venmo,Every 3 Months,58,2,1,Pants
+177,39,L,Gray,Summer,4.1,Yes,Free Shipping,Yes,Yes,7,Bank Transfer,Every 3 Months,58,2,1,Belt
+177,51,L,Gray,Summer,3.8,Yes,2-Day Shipping,Yes,Yes,1,Debit Card,Weekly,58,2,1,Belt
+178,65,M,Orange,Winter,4.9,Yes,Next Day Air,Yes,Yes,45,Venmo,Every 3 Months,21,8,2,Pants
+178,89,S,Black,Summer,4.9,Yes,Express,Yes,Yes,37,Debit Card,Weekly,21,8,2,Sunglasses
+180,76,S,Lavender,Spring,4.1,Yes,Free Shipping,Yes,Yes,14,PayPal,Quarterly,51,9,2,Shirt
+181,75,L,Red,Spring,3.1,Yes,Express,Yes,Yes,25,Debit Card,Monthly,62,7,1,Backpack
+182,61,M,Silver,Summer,2.7,Yes,Next Day Air,Yes,Yes,18,Venmo,Annually,31,6,2,Belt
+182,35,M,Cyan,Fall,3.8,Yes,Next Day Air,Yes,Yes,37,Cash,Every 3 Months,31,6,2,Belt
+182,37,S,Gold,Fall,4.3,Yes,Free Shipping,Yes,Yes,30,Bank Transfer,Monthly,31,6,2,Sneakers
+182,91,L,Yellow,Winter,4.1,Yes,Express,Yes,Yes,34,Bank Transfer,Weekly,31,6,2,Shirt
+182,99,L,Purple,Fall,4.4,Yes,Free Shipping,Yes,Yes,49,Debit Card,Every 3 Months,31,6,2,Dress
+182,54,S,Brown,Summer,3.6,Yes,Express,Yes,Yes,48,Bank Transfer,Monthly,31,6,2,Shirt
+182,47,L,Turquoise,Winter,3.3,Yes,2-Day Shipping,Yes,Yes,33,PayPal,Fortnightly,31,6,2,Pants
+182,77,S,Gold,Spring,3.6,Yes,Express,Yes,Yes,44,Cash,Annually,31,6,2,Pants
+182,84,S,Olive,Fall,2.8,Yes,Free Shipping,Yes,Yes,50,Venmo,Weekly,31,6,2,Belt
+182,51,S,Purple,Spring,4.3,Yes,2-Day Shipping,Yes,Yes,47,Credit Card,Monthly,31,6,2,Blouse
+182,26,S,Lavender,Summer,3.9,Yes,Store Pickup,Yes,Yes,24,PayPal,Every 3 Months,31,6,2,Shirt
+183,64,L,Gray,Summer,2.7,Yes,Free Shipping,Yes,Yes,43,Debit Card,Monthly,42,8,2,Shirt
+183,51,M,Red,Spring,4.7,Yes,Express,Yes,Yes,14,Venmo,Monthly,42,8,2,Backpack
+183,60,L,Purple,Spring,3.8,Yes,Free Shipping,Yes,Yes,3,Debit Card,Quarterly,42,8,2,Pants
+183,69,XL,Olive,Spring,4.7,Yes,Next Day Air,Yes,Yes,33,Debit Card,Quarterly,42,8,2,Dress
+183,29,M,Lavender,Spring,4.7,Yes,Express,Yes,Yes,38,Cash,Fortnightly,42,8,2,Jewelry
+183,91,M,Gray,Spring,3.4,Yes,Express,Yes,Yes,46,Venmo,Weekly,42,8,2,Shirt
+184,70,L,Red,Spring,3.5,Yes,2-Day Shipping,Yes,Yes,19,Bank Transfer,Every 3 Months,38,9,1,Belt
+184,58,M,Peach,Summer,4,Yes,Standard,Yes,Yes,20,PayPal,Annually,38,9,1,Sweater
+185,98,L,Gray,Fall,3.3,Yes,Free Shipping,Yes,Yes,42,Bank Transfer,Quarterly,49,8,2,Dress
+186,68,L,Violet,Summer,4.7,Yes,2-Day Shipping,Yes,Yes,34,Cash,Monthly,39,3,2,Pants
+186,44,M,Beige,Summer,2.8,Yes,Next Day Air,Yes,Yes,5,Cash,Monthly,39,3,2,Dress
+188,45,M,Blue,Winter,3.3,Yes,Express,Yes,Yes,3,PayPal,Quarterly,35,6,1,Pants
+188,99,L,Magenta,Spring,2.9,Yes,Free Shipping,Yes,Yes,46,PayPal,Every 3 Months,35,6,1,Sweater
+188,68,S,Cyan,Spring,2.8,Yes,Standard,Yes,Yes,16,Venmo,Annually,35,6,1,Dress
+189,56,M,Red,Spring,4.2,Yes,Standard,Yes,Yes,21,Debit Card,Bi-Weekly,45,6,2,Pants
+190,43,L,Cyan,Winter,4.4,Yes,Express,Yes,Yes,34,Credit Card,Bi-Weekly,29,2,2,Sweater
+190,99,M,Turquoise,Winter,3.6,Yes,Free Shipping,Yes,Yes,9,PayPal,Every 3 Months,29,2,2,Sunglasses
+190,56,L,Silver,Fall,2.7,Yes,Express,Yes,Yes,36,PayPal,Weekly,29,2,2,Belt
+190,25,S,Pink,Spring,3.4,Yes,Express,Yes,Yes,22,Credit Card,Monthly,29,2,2,Pants
+190,74,M,Black,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,2,Bank Transfer,Quarterly,29,2,2,Pants
+190,56,M,Green,Winter,3.4,Yes,Next Day Air,Yes,Yes,32,Bank Transfer,Monthly,29,2,2,Pants
+190,47,M,Yellow,Fall,2.6,Yes,Next Day Air,Yes,Yes,29,Cash,Every 3 Months,29,2,2,Sneakers
+190,67,L,Purple,Summer,4.1,Yes,Standard,Yes,Yes,27,Venmo,Every 3 Months,29,2,2,Dress
+190,22,L,Purple,Winter,2.9,Yes,Store Pickup,Yes,Yes,33,Credit Card,Fortnightly,29,2,2,Dress
+191,34,S,Blue,Spring,2.7,Yes,Standard,Yes,Yes,16,Venmo,Monthly,21,1,1,Jeans
+191,64,M,Maroon,Spring,3.7,Yes,Standard,Yes,Yes,11,Bank Transfer,Quarterly,21,1,1,Sweater
+191,42,M,Orange,Spring,4.3,Yes,2-Day Shipping,Yes,Yes,11,Cash,Fortnightly,21,1,1,Shirt
+191,82,L,Green,Winter,2.6,Yes,2-Day Shipping,Yes,Yes,17,Debit Card,Bi-Weekly,21,1,1,Shirt
+191,81,XL,Gold,Summer,4.3,Yes,Free Shipping,Yes,Yes,37,Cash,Weekly,21,1,1,Belt
+191,24,L,Silver,Summer,4.1,Yes,Express,Yes,Yes,18,PayPal,Weekly,21,1,1,Belt
+191,60,M,Cyan,Fall,4.2,Yes,Standard,Yes,Yes,13,Credit Card,Monthly,21,1,1,Sneakers
+191,24,M,Silver,Spring,4.2,Yes,2-Day Shipping,Yes,Yes,7,PayPal,Weekly,21,1,1,Shirt
+191,78,XL,Beige,Winter,3.1,Yes,Standard,Yes,Yes,37,Cash,Quarterly,21,1,1,Shirt
+192,88,L,Teal,Winter,4.9,Yes,Express,Yes,Yes,8,Cash,Monthly,46,9,2,Jeans
+192,63,XL,Green,Spring,4.4,Yes,Express,Yes,Yes,11,Cash,Bi-Weekly,46,9,2,Jeans
+192,78,L,Black,Summer,4.4,Yes,Standard,Yes,Yes,8,Venmo,Bi-Weekly,46,9,2,Sneakers
+192,37,XL,Yellow,Winter,3.4,Yes,Store Pickup,Yes,Yes,31,Cash,Every 3 Months,46,9,2,Dress
+192,94,M,White,Fall,4.5,Yes,2-Day Shipping,Yes,Yes,26,Debit Card,Fortnightly,46,9,2,Belt
+192,78,L,Green,Fall,4.5,Yes,Store Pickup,Yes,Yes,20,Credit Card,Bi-Weekly,46,9,2,Sweater
+192,36,M,Silver,Winter,4.1,Yes,Standard,Yes,Yes,24,Bank Transfer,Fortnightly,46,9,2,Belt
+192,24,L,Blue,Winter,3.2,Yes,Standard,Yes,Yes,45,Debit Card,Bi-Weekly,46,9,2,Shirt
+193,84,M,Magenta,Spring,2.7,Yes,Store Pickup,Yes,Yes,33,Debit Card,Monthly,68,8,2,Sneakers
+193,47,S,Yellow,Spring,3.7,Yes,Express,Yes,Yes,21,Bank Transfer,Monthly,68,8,2,Jeans
+194,51,L,White,Fall,2.6,Yes,Store Pickup,Yes,Yes,2,Bank Transfer,Fortnightly,34,1,2,Pants
+194,84,M,Pink,Summer,2.7,Yes,Free Shipping,Yes,Yes,28,Cash,Weekly,34,1,2,Shirt
+194,24,M,Magenta,Summer,2.7,Yes,Express,Yes,Yes,18,Venmo,Quarterly,34,1,2,Shirt
+194,97,S,Teal,Fall,4.8,Yes,Free Shipping,Yes,Yes,21,Debit Card,Fortnightly,34,1,2,Blouse
+194,89,L,Indigo,Winter,4.8,Yes,Next Day Air,Yes,Yes,24,Credit Card,Monthly,34,1,2,Sweater
+195,44,S,Maroon,Spring,2.6,Yes,Store Pickup,Yes,Yes,15,PayPal,Every 3 Months,52,8,2,Belt
+195,35,L,Black,Winter,4.5,Yes,2-Day Shipping,Yes,Yes,38,PayPal,Every 3 Months,52,8,2,Pants
+195,91,M,Cyan,Winter,3.2,Yes,Express,Yes,Yes,38,PayPal,Bi-Weekly,52,8,2,Dress
+195,63,L,Cyan,Winter,3.8,Yes,Next Day Air,Yes,Yes,13,Venmo,Fortnightly,52,8,2,Dress
+196,97,S,Gray,Spring,4.8,Yes,Express,Yes,Yes,39,Cash,Bi-Weekly,26,4,1,Belt
+196,38,M,Violet,Summer,4.1,Yes,Store Pickup,Yes,Yes,8,Venmo,Every 3 Months,26,4,1,Belt
+196,24,XL,Blue,Spring,2.8,Yes,Next Day Air,Yes,Yes,4,PayPal,Quarterly,26,4,1,Belt
+196,32,M,Charcoal,Winter,3.9,Yes,Store Pickup,Yes,Yes,6,Cash,Every 3 Months,26,4,1,Blouse
+196,90,L,Olive,Summer,4.9,Yes,Express,Yes,Yes,11,Venmo,Every 3 Months,26,4,1,Dress
+196,36,M,Olive,Summer,3.4,Yes,Standard,Yes,Yes,49,Venmo,Monthly,26,4,1,Jeans
+196,37,XL,Turquoise,Winter,4.1,Yes,Free Shipping,Yes,Yes,30,PayPal,Quarterly,26,4,1,Backpack
+196,51,M,Cyan,Summer,2.9,Yes,Express,Yes,Yes,34,Bank Transfer,Monthly,26,4,1,Dress
+196,71,S,Red,Fall,3.1,Yes,2-Day Shipping,Yes,Yes,28,PayPal,Monthly,26,4,1,Dress
+196,50,S,Cyan,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,36,Venmo,Quarterly,26,4,1,Sunglasses
+196,74,S,Turquoise,Fall,3.5,Yes,Standard,Yes,Yes,18,Credit Card,Every 3 Months,26,4,1,Dress
+196,75,L,Lavender,Summer,3.4,Yes,Free Shipping,Yes,Yes,4,PayPal,Monthly,26,4,1,Dress
+198,99,XL,Cyan,Spring,2.9,Yes,2-Day Shipping,Yes,Yes,42,Debit Card,Quarterly,57,5,1,Shirt
+198,23,XL,Violet,Spring,4.7,Yes,Store Pickup,Yes,Yes,11,Cash,Quarterly,57,5,1,Pants
+198,53,XL,Beige,Winter,4.4,Yes,Free Shipping,Yes,Yes,31,Credit Card,Bi-Weekly,57,5,1,Sneakers
+199,99,M,Cyan,Spring,2.6,Yes,Standard,Yes,Yes,12,Cash,Fortnightly,28,7,1,Shirt
+199,48,XL,Indigo,Spring,4.4,Yes,Standard,Yes,Yes,20,Venmo,Quarterly,28,7,1,Jewelry
+200,72,L,Olive,Fall,3.7,Yes,Next Day Air,Yes,Yes,37,Debit Card,Quarterly,56,4,2,Belt
+201,64,L,Green,Spring,4.4,Yes,Standard,Yes,Yes,26,Debit Card,Fortnightly,43,1,2,Sunglasses
+201,63,L,Green,Spring,2.5,Yes,2-Day Shipping,Yes,Yes,14,Credit Card,Weekly,43,1,2,Belt
+201,51,M,Beige,Spring,2.6,Yes,Next Day Air,Yes,Yes,12,Venmo,Bi-Weekly,43,1,2,Belt
+201,55,L,Black,Spring,5,Yes,Store Pickup,Yes,Yes,10,Credit Card,Annually,43,1,2,Belt
+202,55,M,Brown,Spring,4.9,Yes,Express,Yes,Yes,19,Cash,Annually,33,3,2,Dress
+202,26,S,Silver,Summer,3.7,Yes,Store Pickup,Yes,Yes,4,Cash,Weekly,33,3,2,Pants
+202,67,L,Gray,Summer,3.1,Yes,Next Day Air,Yes,Yes,48,Bank Transfer,Quarterly,33,3,2,Shirt
+203,31,S,Pink,Fall,3.2,Yes,Express,Yes,Yes,37,PayPal,Monthly,47,8,2,Belt
+203,66,S,Maroon,Winter,4.4,Yes,Free Shipping,Yes,Yes,4,Cash,Monthly,47,8,2,Jeans
+203,67,M,Cyan,Summer,4.3,Yes,Next Day Air,Yes,Yes,15,Credit Card,Weekly,47,8,2,Sunglasses
+204,61,L,Gold,Winter,3,Yes,Standard,Yes,Yes,33,Credit Card,Weekly,63,1,1,Sneakers
+205,75,M,Teal,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,30,Bank Transfer,Quarterly,69,1,1,Pants
+205,90,M,Beige,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,23,Bank Transfer,Monthly,69,1,1,Shirt
+205,40,M,Olive,Summer,3.8,Yes,2-Day Shipping,Yes,Yes,2,Bank Transfer,Weekly,69,1,1,Sweater
+205,90,M,Gray,Fall,3.6,Yes,Express,Yes,Yes,50,Credit Card,Every 3 Months,69,1,1,Sweater
+205,20,M,Black,Spring,4.6,Yes,Express,Yes,Yes,34,Cash,Bi-Weekly,69,1,1,Belt
+205,40,M,Turquoise,Summer,2.5,Yes,Standard,Yes,Yes,33,Credit Card,Weekly,69,1,1,Blouse
+205,33,S,Brown,Fall,3.5,Yes,Store Pickup,Yes,Yes,34,Debit Card,Monthly,69,1,1,Dress
+205,98,S,Magenta,Spring,4,Yes,Free Shipping,Yes,Yes,39,PayPal,Every 3 Months,69,1,1,Belt
+206,42,M,Silver,Spring,3.5,Yes,Next Day Air,Yes,Yes,47,Credit Card,Quarterly,47,7,2,Belt
+206,62,S,Red,Summer,3.2,Yes,Standard,Yes,Yes,37,PayPal,Monthly,47,7,2,Belt
+206,45,L,Indigo,Winter,3.5,Yes,Free Shipping,Yes,Yes,40,Venmo,Bi-Weekly,47,7,2,Dress
+206,78,M,Green,Summer,3.4,Yes,Free Shipping,Yes,Yes,8,Credit Card,Bi-Weekly,47,7,2,Shirt
+207,80,M,Gray,Fall,5,Yes,Express,Yes,Yes,12,Bank Transfer,Annually,39,7,1,Pants
+207,96,S,Peach,Spring,4.5,Yes,Store Pickup,Yes,Yes,36,Bank Transfer,Monthly,39,7,1,Pants
+207,47,M,Charcoal,Summer,2.8,Yes,Express,Yes,Yes,48,PayPal,Weekly,39,7,1,Pants
+208,84,M,Orange,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,47,PayPal,Fortnightly,68,8,2,Pants
+209,31,M,Beige,Spring,3.1,Yes,Store Pickup,Yes,Yes,2,Bank Transfer,Monthly,44,9,1,Shirt
+209,63,S,Yellow,Spring,4.8,Yes,Store Pickup,Yes,Yes,24,Cash,Weekly,44,9,1,Sunglasses
+209,97,XL,White,Spring,2.7,Yes,Standard,Yes,Yes,40,Bank Transfer,Bi-Weekly,44,9,1,Shirt
+210,99,M,Gray,Winter,4.6,Yes,Express,Yes,Yes,50,Debit Card,Weekly,60,8,1,Pants
+210,90,M,Peach,Winter,4.4,Yes,Store Pickup,Yes,Yes,25,Cash,Weekly,60,8,1,Belt
+210,68,L,Violet,Fall,3.2,Yes,Express,Yes,Yes,20,Debit Card,Monthly,60,8,1,Shirt
+210,80,M,Magenta,Spring,3,Yes,2-Day Shipping,Yes,Yes,10,Venmo,Weekly,60,8,1,Jewelry
+211,91,L,Maroon,Summer,4.9,Yes,Standard,Yes,Yes,32,Bank Transfer,Quarterly,67,2,2,Belt
+211,30,M,Cyan,Spring,3.6,Yes,Express,Yes,Yes,31,Cash,Fortnightly,67,2,2,Pants
+211,90,M,White,Spring,3.8,Yes,Next Day Air,Yes,Yes,48,Bank Transfer,Bi-Weekly,67,2,2,Shirt
+211,28,L,Brown,Spring,2.9,Yes,Standard,Yes,Yes,23,Debit Card,Monthly,67,2,2,Shirt
+213,46,M,Red,Winter,3.9,Yes,Express,Yes,Yes,1,Bank Transfer,Bi-Weekly,39,7,1,Shirt
+213,60,M,Orange,Fall,3.6,Yes,Standard,Yes,Yes,4,Debit Card,Fortnightly,39,7,1,Dress
+213,59,M,White,Spring,3.5,Yes,Store Pickup,Yes,Yes,3,Bank Transfer,Bi-Weekly,39,7,1,Shirt
+214,68,M,Green,Fall,4,Yes,Store Pickup,Yes,Yes,3,Cash,Bi-Weekly,51,4,1,Dress
+214,79,M,Black,Summer,4.8,Yes,2-Day Shipping,Yes,Yes,44,Cash,Annually,51,4,1,Backpack
+214,94,M,Gold,Winter,3.9,Yes,Store Pickup,Yes,Yes,5,Debit Card,Bi-Weekly,51,4,1,Backpack
+214,83,S,Lavender,Summer,4.5,Yes,Next Day Air,Yes,Yes,50,Venmo,Quarterly,51,4,1,Pants
+215,62,XL,Turquoise,Spring,4.8,Yes,Standard,Yes,Yes,2,Credit Card,Annually,67,7,2,Blouse
+215,85,M,Pink,Spring,2.6,Yes,Store Pickup,Yes,Yes,29,PayPal,Annually,67,7,2,Pants
+215,30,M,Silver,Summer,3.1,Yes,Express,Yes,Yes,11,Venmo,Annually,67,7,2,Pants
+215,24,XL,Gray,Spring,4.7,Yes,2-Day Shipping,Yes,Yes,37,Credit Card,Fortnightly,67,7,2,Jeans
+216,25,L,Indigo,Spring,2.9,Yes,Next Day Air,Yes,Yes,32,Debit Card,Fortnightly,25,9,1,Backpack
+216,37,L,Teal,Summer,3.8,Yes,Express,Yes,Yes,27,Credit Card,Annually,25,9,1,Belt
+216,69,XL,Green,Summer,3.8,Yes,2-Day Shipping,Yes,Yes,31,Venmo,Bi-Weekly,25,9,1,Belt
+216,97,M,Violet,Summer,3,Yes,Standard,Yes,Yes,36,Debit Card,Fortnightly,25,9,1,Shirt
+216,24,M,Cyan,Summer,4.1,Yes,Standard,Yes,Yes,34,Cash,Weekly,25,9,1,Blouse
+216,30,XL,Blue,Summer,3.4,Yes,Express,Yes,Yes,15,Bank Transfer,Every 3 Months,25,9,1,Belt
+216,53,L,Orange,Fall,2.5,Yes,Express,Yes,Yes,14,Credit Card,Annually,25,9,1,Pants
+216,70,XL,Charcoal,Spring,4.9,Yes,Next Day Air,Yes,Yes,46,Cash,Weekly,25,9,1,Dress
+217,76,S,Beige,Winter,2.8,Yes,Standard,Yes,Yes,33,Venmo,Bi-Weekly,31,3,2,Shirt
+217,95,M,Black,Fall,4.5,Yes,Express,Yes,Yes,41,Debit Card,Annually,31,3,2,Pants
+217,51,S,Lavender,Winter,4.9,Yes,2-Day Shipping,Yes,Yes,39,PayPal,Weekly,31,3,2,Belt
+217,41,M,Lavender,Winter,4.9,Yes,Store Pickup,Yes,Yes,7,Cash,Annually,31,3,2,Pants
+217,71,S,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Every 3 Months,31,3,2,Sunglasses
+217,66,M,Purple,Summer,3.5,Yes,Free Shipping,Yes,Yes,18,Venmo,Quarterly,31,3,2,Sweater
+217,84,M,Olive,Winter,4.9,Yes,Free Shipping,Yes,Yes,15,Credit Card,Annually,31,3,2,Shirt
+218,95,L,Turquoise,Winter,3,Yes,Express,Yes,Yes,39,PayPal,Bi-Weekly,55,7,2,Pants
+218,90,L,Teal,Summer,2.8,Yes,Next Day Air,Yes,Yes,11,Cash,Monthly,55,7,2,Jewelry
+218,36,S,Lavender,Summer,3.7,Yes,Standard,Yes,Yes,4,Cash,Fortnightly,55,7,2,Pants
+218,22,M,Purple,Spring,3.6,Yes,2-Day Shipping,Yes,Yes,33,Venmo,Bi-Weekly,55,7,2,Blouse
+218,89,L,Blue,Winter,3.3,Yes,Next Day Air,Yes,Yes,37,Debit Card,Quarterly,55,7,2,Belt
+219,50,M,Teal,Spring,3.4,Yes,Free Shipping,Yes,Yes,32,Cash,Quarterly,37,9,1,Belt
+220,36,M,Lavender,Fall,4,Yes,Free Shipping,Yes,Yes,44,Credit Card,Quarterly,43,3,2,Belt
+220,52,S,Silver,Spring,4.6,Yes,Free Shipping,Yes,Yes,41,Bank Transfer,Quarterly,43,3,2,Pants
+220,29,M,Olive,Fall,4.2,Yes,Next Day Air,Yes,Yes,44,Bank Transfer,Weekly,43,3,2,Shirt
+220,89,M,Brown,Fall,2.8,Yes,Express,Yes,Yes,32,Venmo,Annually,43,3,2,Blouse
+220,47,M,Yellow,Fall,3.7,Yes,2-Day Shipping,Yes,Yes,13,Bank Transfer,Monthly,43,3,2,Pants
+220,25,XL,Brown,Spring,3.4,Yes,Standard,Yes,Yes,48,Debit Card,Quarterly,43,3,2,Jewelry
+220,74,XL,Cyan,Fall,3,Yes,Express,Yes,Yes,3,Bank Transfer,Weekly,43,3,2,Pants
+220,46,M,Magenta,Fall,4.8,Yes,Standard,Yes,Yes,39,Venmo,Monthly,43,3,2,Belt
+221,22,S,Magenta,Fall,4,Yes,Next Day Air,Yes,Yes,7,Cash,Fortnightly,37,7,1,Jeans
+221,25,M,Orange,Summer,4.9,Yes,Next Day Air,Yes,Yes,11,Cash,Fortnightly,37,7,1,Shirt
+221,80,M,Maroon,Spring,4.9,Yes,Next Day Air,Yes,Yes,47,Credit Card,Weekly,37,7,1,Belt
+221,76,M,Green,Spring,3.3,Yes,2-Day Shipping,Yes,Yes,28,Debit Card,Fortnightly,37,7,1,Jeans
+222,30,L,Teal,Summer,4.4,Yes,Next Day Air,Yes,Yes,17,Bank Transfer,Every 3 Months,28,7,2,Jeans
+222,79,L,Black,Fall,3.5,Yes,2-Day Shipping,Yes,Yes,11,PayPal,Bi-Weekly,28,7,2,Sweater
+223,22,M,Magenta,Winter,4.2,Yes,Standard,Yes,Yes,12,Venmo,Annually,35,2,1,Sneakers
+223,36,S,Olive,Fall,4.2,Yes,Standard,Yes,Yes,7,Credit Card,Fortnightly,35,2,1,Shirt
+223,77,L,Yellow,Fall,2.7,Yes,Standard,Yes,Yes,19,Venmo,Fortnightly,35,2,1,Shirt
+223,33,S,Purple,Fall,2.8,Yes,Store Pickup,Yes,Yes,24,Cash,Quarterly,35,2,1,Sunglasses
+223,64,M,Beige,Winter,3.8,Yes,Next Day Air,Yes,Yes,19,Venmo,Monthly,35,2,1,Sneakers
+224,53,M,Indigo,Fall,2.6,Yes,Free Shipping,Yes,Yes,39,PayPal,Annually,28,1,1,Shirt
+224,36,XL,Pink,Fall,3,Yes,2-Day Shipping,Yes,Yes,1,Credit Card,Fortnightly,28,1,1,Shirt
+224,70,M,Blue,Spring,3.3,No,2-Day Shipping,Yes,Yes,10,Debit Card,Bi-Weekly,28,1,1,Blouse
+224,96,L,Cyan,Winter,4.9,No,Express,Yes,Yes,48,PayPal,Quarterly,28,1,1,Shirt
+225,27,M,Orange,Spring,3.3,No,Next Day Air,Yes,Yes,24,Debit Card,Annually,55,5,2,Pants
+225,64,L,Black,Winter,2.9,No,2-Day Shipping,Yes,Yes,42,Venmo,Fortnightly,55,5,2,Sweater
+225,23,S,Maroon,Spring,4.4,No,2-Day Shipping,Yes,Yes,20,Credit Card,Weekly,55,5,2,Pants
+225,33,L,Violet,Summer,3.1,No,Next Day Air,Yes,Yes,49,Bank Transfer,Every 3 Months,55,5,2,Pants
+225,34,M,Beige,Winter,2.5,No,Standard,Yes,Yes,25,Debit Card,Monthly,55,5,2,Pants
+225,35,S,Gray,Summer,2.6,No,Next Day Air,Yes,Yes,21,Debit Card,Every 3 Months,55,5,2,Sweater
+226,62,M,Gray,Summer,4.4,No,Free Shipping,Yes,Yes,12,Venmo,Every 3 Months,65,4,2,Belt
+226,75,M,Brown,Fall,2.6,No,Next Day Air,Yes,Yes,21,Debit Card,Every 3 Months,65,4,2,Belt
+226,29,S,Indigo,Summer,3.3,No,Free Shipping,Yes,Yes,35,Cash,Monthly,65,4,2,Pants
+226,28,M,Violet,Spring,3.5,No,Express,Yes,Yes,42,Credit Card,Every 3 Months,65,4,2,Dress
+226,20,XL,Blue,Spring,4.1,No,Store Pickup,Yes,Yes,3,PayPal,Every 3 Months,65,4,2,Sweater
+226,96,M,Red,Winter,4,No,Store Pickup,Yes,Yes,11,PayPal,Bi-Weekly,65,4,2,Belt
+226,43,S,Peach,Summer,2.7,No,2-Day Shipping,Yes,Yes,22,PayPal,Quarterly,65,4,2,Dress
+226,94,M,Olive,Fall,2.5,No,Standard,Yes,Yes,47,Credit Card,Weekly,65,4,2,Shirt
+226,81,XL,White,Fall,4.3,No,Next Day Air,Yes,Yes,33,Venmo,Every 3 Months,65,4,2,Shirt
+226,75,M,Magenta,Summer,3.3,No,Free Shipping,Yes,Yes,50,Debit Card,Weekly,65,4,2,Jewelry
+227,81,M,Beige,Summer,2.6,No,Express,Yes,Yes,46,Credit Card,Monthly,32,9,1,Dress
+227,92,L,Gold,Fall,3.5,No,Express,Yes,Yes,34,Debit Card,Fortnightly,32,9,1,Shirt
+227,96,XL,Purple,Spring,4,No,Store Pickup,Yes,Yes,33,Credit Card,Monthly,32,9,1,Pants
+227,71,S,White,Fall,2.6,No,Standard,Yes,Yes,45,Bank Transfer,Fortnightly,32,9,1,Jewelry
+227,50,L,Indigo,Summer,4.9,No,Next Day Air,Yes,Yes,32,Debit Card,Bi-Weekly,32,9,1,Sunglasses
+227,72,L,Charcoal,Spring,2.9,No,Standard,Yes,Yes,47,Venmo,Bi-Weekly,32,9,1,Belt
+227,28,M,Pink,Winter,3.7,No,Standard,Yes,Yes,5,PayPal,Quarterly,32,9,1,Pants
+227,59,M,Silver,Fall,4.4,No,Express,Yes,Yes,49,Credit Card,Fortnightly,32,9,1,Sweater
+227,33,S,Blue,Summer,4.4,No,Free Shipping,Yes,Yes,48,Bank Transfer,Monthly,32,9,1,Belt
+228,59,L,Blue,Fall,3.8,No,Express,Yes,Yes,22,Cash,Every 3 Months,38,4,2,Pants
+228,30,XL,Brown,Spring,4.5,No,Standard,Yes,Yes,45,Credit Card,Annually,38,4,2,Belt
+228,85,XL,Cyan,Winter,2.6,No,Next Day Air,Yes,Yes,30,Venmo,Quarterly,38,4,2,Dress
+228,97,L,Teal,Summer,3.3,No,Store Pickup,Yes,Yes,43,Cash,Weekly,38,4,2,Backpack
+229,36,S,Purple,Fall,4.1,No,Next Day Air,Yes,Yes,48,Cash,Quarterly,67,8,2,Sweater
+229,85,M,Turquoise,Winter,3,No,Store Pickup,Yes,Yes,23,Venmo,Fortnightly,67,8,2,Jewelry
+229,62,M,Olive,Winter,3,No,Free Shipping,Yes,Yes,27,PayPal,Bi-Weekly,67,8,2,Sunglasses
+230,71,S,White,Winter,3.4,No,Next Day Air,Yes,Yes,7,Bank Transfer,Monthly,62,7,2,Jeans
+230,21,M,Turquoise,Winter,2.7,No,Free Shipping,Yes,Yes,2,PayPal,Weekly,62,7,2,Pants
+231,61,M,Silver,Spring,3.8,No,Next Day Air,Yes,Yes,33,PayPal,Bi-Weekly,54,9,1,Backpack
+231,58,M,Violet,Spring,4.2,No,Store Pickup,Yes,Yes,27,Cash,Fortnightly,54,9,1,Pants
+231,80,L,Lavender,Spring,4.7,No,Store Pickup,Yes,Yes,6,Credit Card,Fortnightly,54,9,1,Sweater
+231,50,L,Magenta,Spring,4.1,No,2-Day Shipping,Yes,Yes,20,Venmo,Quarterly,54,9,1,Jewelry
+231,48,S,Indigo,Winter,4.2,No,2-Day Shipping,Yes,Yes,46,Venmo,Every 3 Months,54,9,1,Sneakers
+231,40,M,Black,Winter,4.8,No,Next Day Air,Yes,Yes,25,Cash,Quarterly,54,9,1,Jewelry
+231,34,S,Peach,Summer,3,No,Free Shipping,Yes,Yes,30,Bank Transfer,Quarterly,54,9,1,Belt
+231,46,S,Beige,Fall,2.6,No,Standard,Yes,Yes,48,Credit Card,Annually,54,9,1,Belt
+231,27,M,Black,Summer,3.2,No,Store Pickup,Yes,Yes,47,Bank Transfer,Weekly,54,9,1,Sunglasses
+232,98,S,Turquoise,Spring,3.6,No,Next Day Air,Yes,Yes,27,Credit Card,Weekly,65,7,2,Pants
+233,73,M,Peach,Fall,2.6,No,Next Day Air,Yes,Yes,45,Bank Transfer,Fortnightly,70,6,2,Sweater
+233,28,L,Gold,Spring,4.4,No,Express,Yes,Yes,2,Credit Card,Weekly,70,6,2,Pants
+233,76,XL,Silver,Fall,3,No,Free Shipping,Yes,Yes,39,Cash,Fortnightly,70,6,2,Blouse
+233,83,M,Peach,Fall,2.9,No,Express,Yes,Yes,24,Cash,Fortnightly,70,6,2,Sweater
+233,23,S,Charcoal,Spring,4.3,No,Free Shipping,Yes,Yes,8,Debit Card,Bi-Weekly,70,6,2,Pants
+233,28,M,Beige,Fall,3.1,No,Express,Yes,Yes,8,Bank Transfer,Quarterly,70,6,2,Dress
+233,83,S,Olive,Spring,3,No,Next Day Air,Yes,Yes,6,Venmo,Every 3 Months,70,6,2,Sweater
+233,96,L,Violet,Winter,3.6,No,Store Pickup,Yes,Yes,12,Venmo,Fortnightly,70,6,2,Shirt
+233,62,M,Peach,Fall,2.8,No,Store Pickup,Yes,Yes,26,Bank Transfer,Weekly,70,6,2,Sneakers
+233,25,M,Teal,Fall,2.8,No,Standard,Yes,Yes,50,Cash,Fortnightly,70,6,2,Shirt
+234,97,L,Violet,Winter,4.9,No,Next Day Air,Yes,Yes,2,Venmo,Weekly,42,1,1,Pants
+234,61,L,Cyan,Fall,3,No,Standard,Yes,Yes,31,Cash,Bi-Weekly,42,1,1,Pants
+234,66,S,Olive,Summer,4.1,No,Next Day Air,Yes,Yes,4,Credit Card,Bi-Weekly,42,1,1,Shirt
+234,67,XL,Pink,Spring,4.6,No,Free Shipping,Yes,Yes,32,PayPal,Quarterly,42,1,1,Pants
+234,80,M,Purple,Summer,4.8,No,Next Day Air,Yes,Yes,11,PayPal,Bi-Weekly,42,1,1,Sunglasses
+235,25,L,Violet,Fall,2.6,No,Next Day Air,Yes,Yes,47,Bank Transfer,Every 3 Months,59,4,2,Shirt
+235,58,S,Peach,Fall,4,No,2-Day Shipping,Yes,Yes,37,Cash,Weekly,59,4,2,Dress
+235,96,M,Charcoal,Winter,4.2,No,Express,Yes,Yes,39,PayPal,Fortnightly,59,4,2,Backpack
+235,77,L,Lavender,Spring,4.5,No,Store Pickup,Yes,Yes,24,Credit Card,Monthly,59,4,2,Sunglasses
+236,65,M,Purple,Summer,4.9,No,Standard,Yes,Yes,11,PayPal,Every 3 Months,65,8,2,Belt
+236,36,M,Indigo,Spring,3.1,No,Standard,Yes,Yes,36,Credit Card,Weekly,65,8,2,Jewelry
+236,84,M,Magenta,Winter,4,No,Next Day Air,Yes,Yes,40,Debit Card,Monthly,65,8,2,Sneakers
+236,58,XL,Peach,Fall,3.2,No,Express,Yes,Yes,25,Cash,Quarterly,65,8,2,Sweater
+236,62,S,Charcoal,Spring,4.3,No,2-Day Shipping,Yes,Yes,12,Credit Card,Annually,65,8,2,Pants
+236,67,S,Purple,Fall,2.5,No,Store Pickup,Yes,Yes,38,Cash,Monthly,65,8,2,Dress
+236,20,M,Orange,Spring,4.9,No,Express,Yes,Yes,40,Cash,Quarterly,65,8,2,Sweater
+237,90,M,Lavender,Summer,2.7,No,2-Day Shipping,Yes,Yes,10,Bank Transfer,Weekly,66,7,1,Belt
+237,58,L,Beige,Winter,3.4,No,Standard,Yes,Yes,47,Venmo,Fortnightly,66,7,1,Pants
+237,53,XL,Maroon,Spring,4.8,No,Store Pickup,Yes,Yes,22,Debit Card,Monthly,66,7,1,Shirt
+238,30,L,Charcoal,Winter,4.7,No,Next Day Air,Yes,Yes,35,Debit Card,Monthly,55,4,2,Blouse
+238,65,XL,White,Winter,4.7,No,Express,Yes,Yes,46,Venmo,Fortnightly,55,4,2,Pants
+239,41,M,Lavender,Summer,3.9,No,Standard,Yes,Yes,30,PayPal,Bi-Weekly,50,6,1,Jewelry
+239,73,M,Black,Spring,3.7,No,Express,Yes,Yes,20,Bank Transfer,Monthly,50,6,1,Shirt
+239,98,S,Teal,Spring,4.3,No,Store Pickup,Yes,Yes,25,Cash,Fortnightly,50,6,1,Pants
+239,36,XL,Magenta,Winter,4.1,No,2-Day Shipping,Yes,Yes,29,Cash,Weekly,50,6,1,Shirt
+239,81,M,Brown,Summer,4.6,No,Express,Yes,Yes,2,Venmo,Every 3 Months,50,6,1,Sweater
+239,90,L,Peach,Winter,3.6,No,2-Day Shipping,Yes,Yes,32,Bank Transfer,Quarterly,50,6,1,Shirt
+239,83,S,Cyan,Summer,4.8,No,Free Shipping,Yes,Yes,37,Cash,Monthly,50,6,1,Pants
+241,91,XL,Pink,Winter,2.8,No,2-Day Shipping,Yes,Yes,16,Bank Transfer,Every 3 Months,57,1,2,Shirt
+242,36,M,Purple,Summer,4.7,No,Express,Yes,Yes,32,Venmo,Fortnightly,64,5,1,Pants
+242,53,L,Purple,Spring,3.9,No,Standard,Yes,Yes,42,Debit Card,Bi-Weekly,64,5,1,Belt
+242,39,M,White,Winter,2.6,No,Store Pickup,Yes,Yes,6,Credit Card,Every 3 Months,64,5,1,Jeans
+242,33,S,Silver,Winter,4.7,No,Next Day Air,Yes,Yes,23,PayPal,Fortnightly,64,5,1,Blouse
+242,76,L,Green,Spring,3.5,No,Store Pickup,Yes,Yes,27,Venmo,Bi-Weekly,64,5,1,Sweater
+242,23,L,Teal,Winter,4.4,No,Standard,Yes,Yes,43,PayPal,Quarterly,64,5,1,Belt
+242,54,S,Indigo,Fall,4.4,No,2-Day Shipping,Yes,Yes,25,Bank Transfer,Fortnightly,64,5,1,Jeans
+242,89,L,Pink,Summer,3,No,Express,Yes,Yes,30,Cash,Every 3 Months,64,5,1,Sneakers
+243,38,M,Indigo,Summer,4.2,No,Standard,Yes,Yes,7,Bank Transfer,Every 3 Months,64,4,2,Sneakers
+243,36,XL,Red,Winter,4.3,No,Next Day Air,Yes,Yes,17,Debit Card,Annually,64,4,2,Dress
+243,66,M,Violet,Spring,2.6,No,Store Pickup,Yes,Yes,10,PayPal,Fortnightly,64,4,2,Pants
+243,42,L,Cyan,Spring,3.3,No,Store Pickup,Yes,Yes,40,Venmo,Annually,64,4,2,Jewelry
+243,36,S,Red,Winter,2.7,No,Next Day Air,Yes,Yes,50,Venmo,Bi-Weekly,64,4,2,Jewelry
+243,86,M,Gray,Spring,4.2,No,Express,Yes,Yes,24,Credit Card,Weekly,64,4,2,Blouse
+243,49,M,Gold,Fall,4,No,Standard,Yes,Yes,8,PayPal,Every 3 Months,64,4,2,Pants
+243,41,M,Pink,Summer,4,No,Free Shipping,Yes,Yes,6,Bank Transfer,Quarterly,64,4,2,Shirt
+244,82,L,Cyan,Spring,2.9,No,2-Day Shipping,Yes,Yes,44,Credit Card,Bi-Weekly,44,4,1,Dress
+244,53,S,Red,Fall,2.6,No,Express,Yes,Yes,47,PayPal,Quarterly,44,4,1,Sweater
+244,21,M,Gold,Summer,4.8,No,Express,Yes,Yes,6,Venmo,Every 3 Months,44,4,1,Shirt
+244,66,M,Charcoal,Fall,4.4,No,Standard,Yes,Yes,11,Cash,Quarterly,44,4,1,Belt
+244,89,L,Orange,Summer,4,No,2-Day Shipping,Yes,Yes,41,Bank Transfer,Annually,44,4,1,Belt
+246,55,L,Blue,Fall,3.6,No,2-Day Shipping,Yes,Yes,46,Venmo,Every 3 Months,34,7,2,Pants
+246,42,S,Blue,Summer,3.2,No,Next Day Air,Yes,Yes,9,Venmo,Bi-Weekly,34,7,2,Pants
+246,52,S,Orange,Fall,3.1,No,2-Day Shipping,Yes,Yes,37,PayPal,Monthly,34,7,2,Shirt
+247,92,M,Blue,Winter,4.2,No,Express,Yes,Yes,13,PayPal,Weekly,34,5,2,Belt
+247,56,L,White,Summer,3,No,2-Day Shipping,Yes,Yes,24,Debit Card,Monthly,34,5,2,Pants
+248,96,M,Green,Winter,4.2,No,Standard,Yes,Yes,47,PayPal,Quarterly,45,3,1,Dress
+248,64,M,Silver,Winter,2.9,No,Next Day Air,Yes,Yes,21,Venmo,Every 3 Months,45,3,1,Sweater
+249,48,S,Lavender,Winter,3.7,No,Store Pickup,Yes,Yes,22,Venmo,Fortnightly,55,8,2,Dress
+249,83,XL,Beige,Summer,3.6,No,Free Shipping,Yes,Yes,16,PayPal,Quarterly,55,8,2,Shirt
+249,91,L,Violet,Summer,3.6,No,Standard,Yes,Yes,37,Debit Card,Fortnightly,55,8,2,Pants
+250,94,S,Gray,Fall,4.5,No,2-Day Shipping,Yes,Yes,3,Cash,Annually,50,8,2,Backpack
+250,62,S,Red,Spring,3.2,No,Express,Yes,Yes,33,Cash,Bi-Weekly,50,8,2,Shirt
+250,55,M,Lavender,Spring,3.9,No,Next Day Air,Yes,Yes,15,Debit Card,Annually,50,8,2,Shirt
+250,68,L,Peach,Spring,4.6,No,Store Pickup,Yes,Yes,42,Bank Transfer,Bi-Weekly,50,8,2,Belt
+250,76,M,Indigo,Winter,2.5,No,Express,Yes,Yes,42,Cash,Bi-Weekly,50,8,2,Jewelry
+251,31,M,Black,Winter,4.3,No,Express,Yes,Yes,19,Bank Transfer,Bi-Weekly,41,6,1,Backpack
+251,81,M,Beige,Spring,4.1,No,Store Pickup,Yes,Yes,26,PayPal,Quarterly,41,6,1,Belt
+251,83,M,Red,Winter,4.6,No,Free Shipping,Yes,Yes,39,PayPal,Quarterly,41,6,1,Dress
+251,21,M,Black,Spring,4.8,No,Standard,Yes,Yes,24,Debit Card,Monthly,41,6,1,Shirt
+251,22,M,Teal,Spring,4.9,No,Express,Yes,Yes,23,Debit Card,Annually,41,6,1,Dress
+251,33,M,Blue,Summer,2.8,No,Free Shipping,Yes,Yes,44,Bank Transfer,Annually,41,6,1,Sweater
+251,23,S,Beige,Spring,4.9,No,Standard,Yes,Yes,34,Cash,Monthly,41,6,1,Shirt
+252,96,L,Teal,Summer,3.5,No,Free Shipping,Yes,Yes,43,Bank Transfer,Quarterly,29,2,1,Shirt
+253,21,M,Maroon,Spring,3.8,No,Express,Yes,Yes,45,PayPal,Quarterly,35,8,2,Jewelry
+253,39,M,Yellow,Spring,4.5,No,2-Day Shipping,Yes,Yes,4,Credit Card,Weekly,35,8,2,Pants
+253,73,S,Indigo,Fall,3.4,No,Express,Yes,Yes,19,Credit Card,Annually,35,8,2,Belt
+253,64,M,Magenta,Spring,3.9,No,Standard,Yes,Yes,29,Credit Card,Monthly,35,8,2,Jeans
+254,68,M,Beige,Summer,4.1,No,2-Day Shipping,Yes,Yes,27,Credit Card,Annually,61,6,1,Jeans
+254,89,L,Maroon,Fall,3,No,Express,Yes,Yes,37,Credit Card,Every 3 Months,61,6,1,Dress
+254,29,M,Magenta,Summer,3.3,No,Next Day Air,Yes,Yes,11,Credit Card,Weekly,61,6,1,Blouse
+254,97,XL,Teal,Summer,4.9,No,Free Shipping,Yes,Yes,28,Debit Card,Annually,61,6,1,Shirt
+254,45,M,Orange,Winter,4.3,No,Next Day Air,Yes,Yes,31,Credit Card,Weekly,61,6,1,Shirt
+254,70,L,Charcoal,Winter,4.1,No,Free Shipping,Yes,Yes,50,Venmo,Quarterly,61,6,1,Sweater
+254,56,M,Turquoise,Summer,4,No,2-Day Shipping,Yes,Yes,42,Venmo,Quarterly,61,6,1,Belt
+256,55,L,Pink,Fall,5,No,2-Day Shipping,Yes,Yes,18,Credit Card,Fortnightly,42,4,1,Pants
+257,46,S,Teal,Winter,3.1,No,2-Day Shipping,Yes,Yes,6,Credit Card,Fortnightly,65,8,2,Pants
+257,95,M,White,Winter,4,No,2-Day Shipping,Yes,Yes,33,Venmo,Monthly,65,8,2,Pants
+257,88,M,Maroon,Winter,3.2,No,2-Day Shipping,Yes,Yes,13,Bank Transfer,Bi-Weekly,65,8,2,Belt
+259,92,L,Violet,Fall,3.9,No,Standard,Yes,Yes,26,PayPal,Annually,52,1,2,Sneakers
+259,49,M,Brown,Summer,3.9,No,2-Day Shipping,Yes,Yes,17,Cash,Annually,52,1,2,Shirt
+259,89,M,Indigo,Fall,4.5,No,Free Shipping,Yes,Yes,3,Debit Card,Weekly,52,1,2,Belt
+259,22,XL,Black,Winter,4.4,No,Store Pickup,Yes,Yes,7,PayPal,Weekly,52,1,2,Belt
+259,61,XL,Black,Summer,3.1,No,2-Day Shipping,Yes,Yes,46,Venmo,Fortnightly,52,1,2,Shirt
+259,29,S,Olive,Spring,2.9,No,Standard,Yes,Yes,14,Venmo,Every 3 Months,52,1,2,Pants
+259,82,M,Orange,Winter,3.7,No,Free Shipping,Yes,Yes,23,Bank Transfer,Annually,52,1,2,Sneakers
+260,94,M,Pink,Spring,3.2,No,2-Day Shipping,Yes,Yes,20,Credit Card,Every 3 Months,24,9,1,Belt
+260,99,M,Olive,Spring,3.5,No,Standard,Yes,Yes,38,Bank Transfer,Fortnightly,24,9,1,Pants
+260,59,S,Cyan,Fall,3,No,Free Shipping,Yes,Yes,16,Venmo,Every 3 Months,24,9,1,Pants
+260,90,M,White,Summer,4.1,No,Next Day Air,Yes,Yes,48,Credit Card,Every 3 Months,24,9,1,Belt
+260,100,S,Red,Winter,2.9,No,2-Day Shipping,Yes,Yes,8,Debit Card,Annually,24,9,1,Belt
+260,62,M,Blue,Winter,3.8,No,Next Day Air,Yes,Yes,16,Bank Transfer,Monthly,24,9,1,Pants
+261,78,M,Olive,Fall,4.1,No,Next Day Air,Yes,Yes,5,Cash,Quarterly,45,2,1,Sunglasses
+261,94,M,Green,Spring,4.6,No,Store Pickup,Yes,Yes,14,Venmo,Every 3 Months,45,2,1,Pants
+261,74,M,Yellow,Summer,2.5,No,Free Shipping,Yes,Yes,18,Credit Card,Weekly,45,2,1,Shirt
+261,52,XL,Black,Spring,3.7,No,Express,Yes,Yes,14,Debit Card,Every 3 Months,45,2,1,Pants
+261,81,M,Blue,Fall,3.8,No,Free Shipping,Yes,Yes,5,Cash,Every 3 Months,45,2,1,Pants
+261,20,L,Pink,Winter,2.6,No,2-Day Shipping,Yes,Yes,15,Credit Card,Every 3 Months,45,2,1,Blouse
+261,32,XL,Lavender,Summer,3.7,No,Free Shipping,Yes,Yes,3,Venmo,Every 3 Months,45,2,1,Pants
+261,63,XL,Cyan,Fall,2.6,No,Free Shipping,Yes,Yes,12,Cash,Every 3 Months,45,2,1,Belt
+261,79,M,Cyan,Spring,3.1,No,Store Pickup,Yes,Yes,43,Cash,Every 3 Months,45,2,1,Belt
+261,23,M,Gold,Winter,2.5,No,Next Day Air,Yes,Yes,35,Credit Card,Bi-Weekly,45,2,1,Sweater
+262,64,M,Green,Winter,4.9,No,Express,Yes,Yes,36,Bank Transfer,Quarterly,62,6,1,Blouse
+262,69,M,Red,Winter,4.5,No,Standard,Yes,Yes,3,Cash,Quarterly,62,6,1,Shirt
+262,69,L,Magenta,Fall,3.4,No,Store Pickup,Yes,Yes,27,Bank Transfer,Annually,62,6,1,Jeans
+262,24,L,Red,Winter,3.9,No,Free Shipping,Yes,Yes,21,Bank Transfer,Weekly,62,6,1,Pants
+262,50,M,Yellow,Summer,3.7,No,Store Pickup,Yes,Yes,18,Venmo,Weekly,62,6,1,Shirt
+263,97,S,Turquoise,Fall,2.6,No,Free Shipping,Yes,Yes,16,Debit Card,Weekly,49,5,2,Blouse
+263,91,S,Cyan,Fall,3.4,No,Store Pickup,Yes,Yes,18,Venmo,Bi-Weekly,49,5,2,Belt
+264,37,L,Yellow,Spring,4.9,No,Store Pickup,Yes,Yes,19,Bank Transfer,Bi-Weekly,55,7,2,Blouse
+264,55,S,Yellow,Winter,3.9,No,Express,Yes,Yes,1,Cash,Annually,55,7,2,Pants
+264,52,XL,Maroon,Winter,3.6,No,Express,Yes,Yes,39,Bank Transfer,Annually,55,7,2,Jewelry
+264,80,L,Brown,Spring,4.6,No,Standard,Yes,Yes,49,Venmo,Monthly,55,7,2,Dress
+264,79,M,Gold,Spring,4,No,2-Day Shipping,Yes,Yes,43,Credit Card,Fortnightly,55,7,2,Shirt
+264,23,M,Charcoal,Summer,3.6,No,Free Shipping,Yes,Yes,31,Debit Card,Every 3 Months,55,7,2,Pants
+264,73,L,Beige,Winter,3.5,No,Next Day Air,Yes,Yes,40,Venmo,Every 3 Months,55,7,2,Pants
+264,99,M,Indigo,Fall,4.1,No,Store Pickup,Yes,Yes,2,Bank Transfer,Bi-Weekly,55,7,2,Blouse
+265,22,M,Red,Spring,3,No,Store Pickup,Yes,Yes,46,PayPal,Every 3 Months,47,4,2,Sweater
+265,68,M,White,Summer,4.4,No,Store Pickup,Yes,Yes,35,Debit Card,Every 3 Months,47,4,2,Dress
+265,92,S,Charcoal,Spring,4.4,No,2-Day Shipping,Yes,Yes,42,Credit Card,Quarterly,47,4,2,Dress
+265,77,M,Violet,Winter,3.7,No,Express,Yes,Yes,3,Venmo,Fortnightly,47,4,2,Pants
+266,37,XL,Magenta,Spring,4.8,No,Standard,Yes,Yes,32,Debit Card,Every 3 Months,55,5,1,Belt
+266,79,L,White,Winter,2.9,No,Store Pickup,Yes,Yes,48,Debit Card,Annually,55,5,1,Pants
+266,51,XL,Pink,Winter,3.1,No,Express,Yes,Yes,34,Credit Card,Weekly,55,5,1,Pants
+266,27,M,Lavender,Summer,4,No,Next Day Air,Yes,Yes,15,Bank Transfer,Quarterly,55,5,1,Shirt
+266,23,S,Pink,Spring,3,No,Store Pickup,Yes,Yes,22,Debit Card,Annually,55,5,1,Blouse
+266,76,S,Silver,Summer,3.9,No,2-Day Shipping,Yes,Yes,2,Cash,Monthly,55,5,1,Shirt
+267,31,M,Violet,Fall,3.4,No,Standard,Yes,Yes,30,Bank Transfer,Weekly,28,5,1,Dress
+268,60,M,Charcoal,Winter,2.7,No,Standard,Yes,Yes,27,Cash,Monthly,41,8,1,Pants
+268,99,M,Charcoal,Spring,3.5,No,Express,Yes,Yes,18,Venmo,Bi-Weekly,41,8,1,Sweater
+268,37,XL,Red,Winter,3,No,Free Shipping,Yes,Yes,8,Credit Card,Annually,41,8,1,Dress
+268,50,M,Peach,Winter,4.5,No,Express,Yes,Yes,48,Venmo,Fortnightly,41,8,1,Belt
+268,26,XL,Purple,Winter,4.1,No,Free Shipping,Yes,Yes,24,Cash,Monthly,41,8,1,Jeans
+268,86,XL,Orange,Spring,5,No,Next Day Air,Yes,Yes,43,Credit Card,Monthly,41,8,1,Shirt
+269,41,L,Magenta,Fall,4,No,Standard,Yes,Yes,8,Cash,Quarterly,51,3,2,Belt
+269,23,XL,Red,Winter,4.9,No,Express,Yes,Yes,49,PayPal,Annually,51,3,2,Belt
+270,56,XL,Black,Spring,3.3,No,2-Day Shipping,Yes,Yes,2,Credit Card,Bi-Weekly,30,9,1,Sneakers
+270,68,M,Peach,Fall,4.1,No,Standard,Yes,Yes,38,Cash,Fortnightly,30,9,1,Dress
+270,48,S,Olive,Winter,3.6,No,Express,Yes,Yes,4,Cash,Fortnightly,30,9,1,Belt
+270,67,L,Gold,Spring,3,No,Free Shipping,Yes,Yes,31,Cash,Every 3 Months,30,9,1,Dress
+271,87,XL,Gold,Spring,4.1,No,2-Day Shipping,Yes,Yes,34,Debit Card,Every 3 Months,56,8,2,Belt
+271,64,M,Turquoise,Fall,3.9,No,Standard,Yes,Yes,45,Credit Card,Monthly,56,8,2,Shirt
+271,93,XL,Green,Spring,4.1,No,Store Pickup,Yes,Yes,30,Debit Card,Quarterly,56,8,2,Shirt
+271,29,L,Maroon,Summer,2.8,No,Next Day Air,Yes,Yes,2,Credit Card,Fortnightly,56,8,2,Shirt
+271,62,L,Brown,Winter,4.8,No,Store Pickup,Yes,Yes,44,Venmo,Monthly,56,8,2,Belt
+272,70,L,Brown,Winter,4.6,No,2-Day Shipping,Yes,Yes,1,Credit Card,Bi-Weekly,36,6,2,Pants
+272,92,S,Blue,Winter,2.5,No,Next Day Air,Yes,Yes,1,Venmo,Bi-Weekly,36,6,2,Sweater
+272,79,M,Lavender,Spring,2.7,No,Next Day Air,Yes,Yes,27,Bank Transfer,Weekly,36,6,2,Shirt
+272,31,M,Peach,Fall,4,No,Standard,Yes,Yes,14,Debit Card,Every 3 Months,36,6,2,Blouse
+272,83,S,Gray,Spring,2.7,No,Standard,Yes,Yes,41,Cash,Weekly,36,6,2,Sweater
+272,88,XL,Charcoal,Winter,2.9,No,Next Day Air,Yes,Yes,25,Debit Card,Bi-Weekly,36,6,2,Pants
+272,53,M,Lavender,Spring,3,No,Standard,Yes,Yes,47,PayPal,Quarterly,36,6,2,Jewelry
+273,98,M,Green,Fall,3.3,No,Standard,Yes,Yes,20,Cash,Annually,69,9,2,Pants
+273,57,S,Gray,Spring,4.3,No,Store Pickup,Yes,Yes,42,PayPal,Annually,69,9,2,Jewelry
+273,80,M,Orange,Winter,4.4,No,Express,Yes,Yes,16,Bank Transfer,Monthly,69,9,2,Belt
+273,29,L,Silver,Spring,4.1,No,Next Day Air,Yes,Yes,32,Credit Card,Every 3 Months,69,9,2,Jeans
+273,73,M,Olive,Spring,3.1,No,2-Day Shipping,Yes,Yes,37,PayPal,Quarterly,69,9,2,Dress
+273,32,S,Turquoise,Fall,4.5,No,Standard,Yes,Yes,1,PayPal,Monthly,69,9,2,Sweater
+273,68,L,Turquoise,Spring,4.8,No,Next Day Air,Yes,Yes,37,Bank Transfer,Weekly,69,9,2,Belt
+274,97,L,Green,Spring,5,No,Express,Yes,Yes,5,Venmo,Quarterly,34,8,1,Blouse
+274,98,M,Violet,Fall,2.8,No,Next Day Air,Yes,Yes,31,Venmo,Fortnightly,34,8,1,Shirt
+274,56,L,Charcoal,Fall,3.7,No,Express,Yes,Yes,18,Debit Card,Annually,34,8,1,Pants
+274,78,L,White,Winter,4.4,No,2-Day Shipping,Yes,Yes,39,Venmo,Every 3 Months,34,8,1,Pants
+275,81,M,Olive,Spring,4.5,No,Store Pickup,Yes,Yes,8,Venmo,Bi-Weekly,44,3,1,Belt
+275,68,L,Violet,Winter,3,No,Free Shipping,Yes,Yes,20,Venmo,Monthly,44,3,1,Shirt
+276,94,M,Violet,Winter,3.9,No,2-Day Shipping,Yes,Yes,23,Debit Card,Every 3 Months,63,7,1,Shirt
+276,93,M,Black,Spring,3.9,No,Express,Yes,Yes,38,PayPal,Fortnightly,63,7,1,Dress
+276,99,M,Charcoal,Fall,3.5,No,Next Day Air,Yes,Yes,45,Bank Transfer,Fortnightly,63,7,1,Blouse
+277,49,L,Yellow,Winter,4.9,No,Next Day Air,Yes,Yes,44,Debit Card,Fortnightly,25,7,2,Blouse
+277,28,XL,Blue,Winter,3.4,No,Standard,Yes,Yes,20,PayPal,Monthly,25,7,2,Jeans
+277,93,XL,Charcoal,Winter,4.1,No,Standard,Yes,Yes,34,PayPal,Bi-Weekly,25,7,2,Belt
+277,24,M,Red,Fall,2.9,No,Next Day Air,Yes,Yes,10,PayPal,Weekly,25,7,2,Pants
+277,35,M,Indigo,Spring,3.4,No,Free Shipping,Yes,Yes,3,PayPal,Annually,25,7,2,Shirt
+277,68,S,Beige,Spring,3.2,No,2-Day Shipping,Yes,Yes,23,Debit Card,Fortnightly,25,7,2,Belt
+278,61,M,Maroon,Summer,3.9,No,Free Shipping,Yes,Yes,42,Bank Transfer,Annually,27,2,1,Belt
+278,74,XL,Yellow,Fall,4.1,No,Standard,Yes,Yes,30,Debit Card,Annually,27,2,1,Sweater
+278,64,M,Silver,Summer,4.5,No,Standard,Yes,Yes,21,Cash,Every 3 Months,27,2,1,Shirt
+278,60,M,Olive,Fall,2.8,No,Standard,Yes,Yes,50,PayPal,Weekly,27,2,1,Sneakers
+278,29,S,Teal,Spring,2.8,No,Express,Yes,Yes,16,Cash,Bi-Weekly,27,2,1,Jeans
+278,85,M,Silver,Summer,4.6,No,Standard,Yes,Yes,32,Venmo,Annually,27,2,1,Belt
+278,81,S,Indigo,Summer,3,No,Free Shipping,Yes,Yes,14,Bank Transfer,Fortnightly,27,2,1,Pants
+278,23,L,Teal,Fall,3.6,No,2-Day Shipping,Yes,Yes,42,Venmo,Bi-Weekly,27,2,1,Belt
+279,100,M,Charcoal,Spring,4.5,No,Next Day Air,Yes,Yes,47,Credit Card,Every 3 Months,54,5,1,Sweater
+279,54,M,Orange,Fall,5,No,Express,Yes,Yes,21,Debit Card,Weekly,54,5,1,Shirt
+279,25,M,Gold,Fall,2.9,No,Next Day Air,Yes,Yes,37,Credit Card,Monthly,54,5,1,Sneakers
+279,32,L,Silver,Summer,3.1,No,Next Day Air,Yes,Yes,10,Credit Card,Annually,54,5,1,Blouse
+279,63,S,Orange,Spring,4,No,2-Day Shipping,Yes,Yes,18,PayPal,Every 3 Months,54,5,1,Backpack
+280,56,XL,Peach,Spring,4.5,No,Express,Yes,Yes,2,PayPal,Every 3 Months,21,4,1,Pants
+280,33,L,Brown,Winter,4.5,No,Next Day Air,Yes,Yes,40,PayPal,Annually,21,4,1,Sweater
+280,32,L,Black,Summer,3.1,No,Express,Yes,Yes,43,PayPal,Annually,21,4,1,Belt
+280,38,L,Red,Summer,4.4,No,Next Day Air,Yes,Yes,14,Credit Card,Every 3 Months,21,4,1,Dress
+281,21,L,Lavender,Summer,4.7,No,Store Pickup,Yes,Yes,41,Cash,Quarterly,25,9,1,Blouse
+281,59,L,Brown,Winter,3.1,No,Store Pickup,Yes,Yes,38,Credit Card,Every 3 Months,25,9,1,Pants
+281,87,M,Maroon,Fall,4.2,No,Express,Yes,Yes,12,Venmo,Annually,25,9,1,Shirt
+281,79,M,Violet,Winter,3,No,Store Pickup,Yes,Yes,19,Bank Transfer,Monthly,25,9,1,Sweater
+281,28,M,Lavender,Summer,2.6,No,Free Shipping,Yes,Yes,23,Credit Card,Bi-Weekly,25,9,1,Shirt
+281,67,S,Magenta,Summer,3.4,No,Free Shipping,Yes,Yes,49,Debit Card,Annually,25,9,1,Belt
+282,75,L,Green,Spring,4.2,No,2-Day Shipping,Yes,Yes,29,Debit Card,Quarterly,70,2,1,Shirt
+282,32,S,Lavender,Spring,4.6,No,Standard,Yes,Yes,14,Debit Card,Bi-Weekly,70,2,1,Belt
+282,43,M,Green,Spring,2.8,No,Free Shipping,Yes,Yes,19,Cash,Monthly,70,2,1,Pants
+282,93,M,Maroon,Spring,2.7,No,Express,Yes,Yes,19,Credit Card,Bi-Weekly,70,2,1,Shirt
+282,24,M,Magenta,Spring,4,No,Standard,Yes,Yes,48,Bank Transfer,Weekly,70,2,1,Sunglasses
+283,31,XL,Teal,Fall,3.1,No,Free Shipping,Yes,Yes,19,Debit Card,Annually,44,6,2,Dress
+283,84,L,Orange,Winter,3.7,No,Express,Yes,Yes,45,Bank Transfer,Every 3 Months,44,6,2,Sweater
+283,74,M,Violet,Winter,4,No,Next Day Air,Yes,Yes,17,Bank Transfer,Quarterly,44,6,2,Pants
+283,62,M,Yellow,Spring,4.6,No,Standard,Yes,Yes,15,Debit Card,Every 3 Months,44,6,2,Shirt
+283,77,S,Orange,Summer,3.8,No,Free Shipping,Yes,Yes,11,Credit Card,Fortnightly,44,6,2,Jewelry
+283,73,L,Gold,Summer,3.5,No,Express,Yes,Yes,1,Cash,Monthly,44,6,2,Backpack
+283,50,M,Indigo,Spring,4.6,No,Free Shipping,Yes,Yes,17,Cash,Monthly,44,6,2,Shirt
+284,40,M,Turquoise,Winter,2.8,No,Standard,Yes,Yes,37,Cash,Weekly,66,8,1,Belt
+284,97,M,Orange,Winter,3.7,No,Standard,Yes,Yes,40,Bank Transfer,Weekly,66,8,1,Sweater
+284,63,M,Indigo,Fall,3.3,No,Express,Yes,Yes,50,PayPal,Every 3 Months,66,8,1,Blouse
+284,65,M,Charcoal,Fall,2.9,No,Standard,Yes,Yes,20,PayPal,Bi-Weekly,66,8,1,Pants
+284,91,M,Lavender,Spring,3.2,No,Standard,Yes,Yes,8,PayPal,Bi-Weekly,66,8,1,Shirt
+284,60,S,Gold,Spring,4.3,No,Store Pickup,Yes,Yes,16,Bank Transfer,Quarterly,66,8,1,Pants
+284,69,M,Lavender,Winter,2.7,No,Next Day Air,Yes,Yes,9,Bank Transfer,Quarterly,66,8,1,Pants
+284,52,S,White,Spring,4.2,No,Store Pickup,Yes,Yes,12,Venmo,Monthly,66,8,1,Belt
+285,49,M,Lavender,Fall,4.8,No,2-Day Shipping,Yes,Yes,26,Credit Card,Weekly,67,2,1,Belt
+285,85,M,Charcoal,Spring,4.8,No,Store Pickup,Yes,Yes,44,Debit Card,Fortnightly,67,2,1,Sneakers
+285,86,L,Silver,Spring,3.4,No,Express,Yes,Yes,19,Credit Card,Bi-Weekly,67,2,1,Sweater
+285,51,S,Yellow,Winter,2.6,No,Standard,Yes,Yes,43,PayPal,Fortnightly,67,2,1,Pants
+285,56,L,Olive,Winter,5,No,Next Day Air,Yes,Yes,5,Bank Transfer,Every 3 Months,67,2,1,Belt
+286,72,M,Peach,Fall,4.4,No,Next Day Air,Yes,Yes,5,Debit Card,Every 3 Months,21,5,1,Belt
+287,27,XL,Yellow,Fall,2.9,No,Standard,Yes,Yes,31,Bank Transfer,Quarterly,44,6,1,Pants
+287,43,XL,Yellow,Summer,3.4,No,2-Day Shipping,Yes,Yes,11,Bank Transfer,Monthly,44,6,1,Sunglasses
+287,56,M,Indigo,Spring,3.4,No,Standard,Yes,Yes,34,Bank Transfer,Monthly,44,6,1,Sneakers
+287,37,S,Violet,Fall,4.9,No,Next Day Air,Yes,Yes,14,Cash,Annually,44,6,1,Sweater
+287,21,M,White,Fall,3.6,No,Standard,Yes,Yes,42,Venmo,Weekly,44,6,1,Dress
+287,91,L,White,Winter,3,No,Free Shipping,Yes,Yes,15,Venmo,Bi-Weekly,44,6,1,Pants
+287,95,M,Cyan,Summer,3.9,No,2-Day Shipping,Yes,Yes,47,Bank Transfer,Monthly,44,6,1,Sweater
+288,54,XL,Purple,Spring,3.2,No,Standard,Yes,Yes,23,Credit Card,Fortnightly,31,2,1,Belt
+288,36,XL,Black,Spring,3.2,No,Next Day Air,Yes,Yes,23,Cash,Bi-Weekly,31,2,1,Shirt
+288,71,M,Orange,Fall,4.3,No,Next Day Air,Yes,Yes,1,Cash,Every 3 Months,31,2,1,Sunglasses
+288,31,L,Maroon,Summer,2.8,No,2-Day Shipping,Yes,Yes,28,Bank Transfer,Quarterly,31,2,1,Belt
+288,89,XL,Orange,Spring,4.5,No,Next Day Air,Yes,Yes,37,Credit Card,Bi-Weekly,31,2,1,Dress
+288,83,M,Teal,Winter,4.1,No,Next Day Air,Yes,Yes,4,Cash,Every 3 Months,31,2,1,Pants
+288,42,M,Gray,Spring,3.6,No,2-Day Shipping,Yes,Yes,21,Bank Transfer,Quarterly,31,2,1,Backpack
+289,91,M,Blue,Summer,3,No,2-Day Shipping,Yes,Yes,50,PayPal,Bi-Weekly,27,6,1,Shirt
+289,61,M,Cyan,Spring,4,No,Free Shipping,Yes,Yes,34,Bank Transfer,Annually,27,6,1,Pants
+289,66,S,Red,Summer,3.5,No,Next Day Air,Yes,Yes,20,Cash,Quarterly,27,6,1,Backpack
+289,22,XL,Pink,Spring,2.5,No,Store Pickup,Yes,Yes,25,Venmo,Every 3 Months,27,6,1,Pants
+289,68,S,Cyan,Winter,4.3,No,Store Pickup,Yes,Yes,26,Bank Transfer,Fortnightly,27,6,1,Pants
+289,43,L,Black,Fall,2.8,No,Express,Yes,Yes,4,Bank Transfer,Annually,27,6,1,Shirt
+289,32,M,Beige,Fall,3.7,No,Next Day Air,Yes,Yes,39,Debit Card,Monthly,27,6,1,Dress
+289,46,M,Gray,Fall,4.3,No,Express,Yes,Yes,29,Cash,Weekly,27,6,1,Belt
+289,90,L,Red,Summer,4,No,Express,Yes,Yes,47,PayPal,Quarterly,27,6,1,Blouse
+289,75,L,Yellow,Fall,4.7,No,Express,Yes,Yes,5,Cash,Every 3 Months,27,6,1,Dress
+289,69,M,Magenta,Winter,4.5,No,Store Pickup,Yes,Yes,18,Bank Transfer,Fortnightly,27,6,1,Pants
+289,40,M,Magenta,Fall,3.1,No,Free Shipping,Yes,Yes,10,Credit Card,Fortnightly,27,6,1,Belt
+289,63,S,Black,Fall,3.8,No,Express,Yes,Yes,25,Cash,Quarterly,27,6,1,Belt
+291,36,L,Orange,Summer,4.9,No,Express,Yes,Yes,2,Cash,Weekly,70,8,1,Shirt
+291,75,M,Green,Winter,3.2,No,Standard,Yes,Yes,48,Venmo,Fortnightly,70,8,1,Shirt
+292,67,L,Peach,Summer,2.9,No,2-Day Shipping,Yes,Yes,41,Bank Transfer,Every 3 Months,46,8,2,Pants
+292,64,M,Charcoal,Spring,2.8,No,Store Pickup,Yes,Yes,42,Credit Card,Monthly,46,8,2,Pants
+293,61,M,Gray,Fall,4,No,2-Day Shipping,Yes,Yes,44,PayPal,Bi-Weekly,55,9,2,Blouse
+293,40,L,Turquoise,Winter,2.6,No,Store Pickup,Yes,Yes,6,Cash,Quarterly,55,9,2,Blouse
+293,97,M,Red,Fall,2.7,No,Free Shipping,Yes,Yes,5,Bank Transfer,Quarterly,55,9,2,Pants
+293,31,L,Brown,Spring,4.1,No,2-Day Shipping,Yes,Yes,8,Credit Card,Annually,55,9,2,Sneakers
+294,65,L,Pink,Spring,5,No,Free Shipping,Yes,Yes,24,PayPal,Annually,22,5,1,Belt
+294,54,L,Olive,Spring,3,No,Next Day Air,Yes,Yes,42,Venmo,Monthly,22,5,1,Sunglasses
+294,49,XL,Lavender,Fall,3.6,No,Free Shipping,Yes,Yes,24,Venmo,Weekly,22,5,1,Pants
+294,64,L,Purple,Fall,2.8,No,2-Day Shipping,Yes,Yes,38,Venmo,Bi-Weekly,22,5,1,Sweater
+294,35,S,Beige,Winter,4.6,No,Standard,Yes,Yes,41,Cash,Fortnightly,22,5,1,Sneakers
+295,86,L,Green,Winter,2.9,No,Standard,Yes,Yes,48,Venmo,Quarterly,40,4,2,Shirt
+295,55,L,Brown,Winter,4.8,No,Express,Yes,Yes,16,Bank Transfer,Quarterly,40,4,2,Pants
+295,58,M,Beige,Spring,3.3,No,Express,Yes,Yes,4,Venmo,Monthly,40,4,2,Pants
+295,96,M,Beige,Fall,4.6,No,Standard,Yes,Yes,8,Bank Transfer,Weekly,40,4,2,Sneakers
+295,64,M,Indigo,Fall,2.6,No,Store Pickup,Yes,Yes,1,Bank Transfer,Bi-Weekly,40,4,2,Jewelry
+296,56,M,Silver,Fall,4,No,Next Day Air,Yes,Yes,4,Debit Card,Quarterly,33,7,1,Pants
+296,85,M,Gold,Winter,3.8,No,Standard,Yes,Yes,20,Credit Card,Monthly,33,7,1,Blouse
+296,23,M,Lavender,Spring,3.9,No,Express,Yes,Yes,40,Cash,Quarterly,33,7,1,Dress
+296,72,L,Orange,Fall,2.6,No,Store Pickup,Yes,Yes,8,Debit Card,Fortnightly,33,7,1,Pants
+296,38,M,Maroon,Summer,4.3,No,Standard,Yes,Yes,42,Debit Card,Weekly,33,7,1,Dress
+298,29,S,White,Winter,3.6,No,Express,Yes,Yes,38,Credit Card,Annually,37,4,2,Blouse
+298,46,M,Yellow,Spring,4.2,No,Express,Yes,Yes,34,Venmo,Every 3 Months,37,4,2,Blouse
+298,58,L,Yellow,Spring,3.9,No,Express,Yes,Yes,14,PayPal,Fortnightly,37,4,2,Blouse
+298,43,L,Magenta,Fall,4.7,No,Next Day Air,Yes,Yes,39,Cash,Weekly,37,4,2,Belt
+298,32,L,Turquoise,Spring,2.8,No,Next Day Air,Yes,Yes,40,PayPal,Bi-Weekly,37,4,2,Pants
+298,30,XL,Lavender,Winter,3,No,Next Day Air,Yes,Yes,49,Debit Card,Monthly,37,4,2,Pants
+300,67,S,Magenta,Summer,4.7,No,Store Pickup,Yes,Yes,33,PayPal,Annually,56,8,2,Sunglasses
+300,45,M,Cyan,Summer,2.5,No,Free Shipping,Yes,Yes,25,Credit Card,Weekly,56,8,2,Dress
+301,81,M,Olive,Winter,3.1,No,Store Pickup,Yes,Yes,48,Venmo,Annually,55,4,1,Dress
+301,23,M,Red,Fall,3.6,No,Next Day Air,Yes,Yes,22,Credit Card,Every 3 Months,55,4,1,Backpack
+301,59,M,Blue,Fall,3.5,No,2-Day Shipping,Yes,Yes,1,PayPal,Weekly,55,4,1,Belt
+301,21,L,White,Summer,3.1,No,Express,Yes,Yes,47,PayPal,Monthly,55,4,1,Sunglasses
+301,20,M,Peach,Spring,3.6,No,Store Pickup,Yes,Yes,20,Credit Card,Bi-Weekly,55,4,1,Backpack
+301,28,M,Charcoal,Winter,3.5,No,Next Day Air,Yes,Yes,10,Debit Card,Weekly,55,4,1,Jewelry
+301,100,M,Peach,Winter,2.7,No,Store Pickup,Yes,Yes,39,Credit Card,Monthly,55,4,1,Shirt
+301,46,L,Turquoise,Spring,3.6,No,Express,Yes,Yes,15,Debit Card,Monthly,55,4,1,Shirt
+301,61,XL,Charcoal,Spring,4.5,No,Express,Yes,Yes,11,Credit Card,Annually,55,4,1,Pants
+301,58,M,Yellow,Winter,4.1,No,Free Shipping,Yes,Yes,38,Venmo,Weekly,55,4,1,Blouse
+301,50,M,Blue,Spring,4.2,No,Standard,Yes,Yes,41,Cash,Fortnightly,55,4,1,Backpack
+301,93,M,Purple,Summer,4,No,Store Pickup,Yes,Yes,18,Debit Card,Annually,55,4,1,Dress
+302,24,L,Green,Summer,2.8,No,Store Pickup,Yes,Yes,13,Venmo,Quarterly,32,8,1,Shirt
+302,100,M,Charcoal,Summer,2.6,No,2-Day Shipping,Yes,Yes,43,Venmo,Annually,32,8,1,Shirt
+302,79,S,Indigo,Fall,2.7,No,Store Pickup,Yes,Yes,12,Bank Transfer,Quarterly,32,8,1,Blouse
+302,51,M,Black,Summer,4.5,No,Store Pickup,Yes,Yes,3,Credit Card,Bi-Weekly,32,8,1,Shirt
+302,90,M,Blue,Winter,3.7,No,Free Shipping,Yes,Yes,12,Credit Card,Every 3 Months,32,8,1,Belt
+302,56,L,Silver,Summer,3.4,No,Free Shipping,Yes,Yes,46,Cash,Quarterly,32,8,1,Belt
+302,25,S,Brown,Spring,4.6,No,Standard,Yes,Yes,21,Debit Card,Fortnightly,32,8,1,Shirt
+303,75,M,Violet,Summer,4.1,No,2-Day Shipping,Yes,Yes,23,Venmo,Every 3 Months,35,5,1,Shirt
+303,75,M,Orange,Summer,2.6,No,Free Shipping,Yes,Yes,4,Debit Card,Quarterly,35,5,1,Pants
+303,53,XL,Gray,Summer,4.6,No,Store Pickup,Yes,Yes,45,PayPal,Every 3 Months,35,5,1,Jeans
+303,100,S,Gold,Spring,3,No,Standard,Yes,Yes,24,Bank Transfer,Fortnightly,35,5,1,Dress
+304,27,L,Charcoal,Fall,3.4,No,Free Shipping,Yes,Yes,3,PayPal,Bi-Weekly,33,3,1,Dress
+304,60,S,Black,Fall,3.5,No,Free Shipping,Yes,Yes,12,Venmo,Every 3 Months,33,3,1,Belt
+304,23,S,Indigo,Fall,3.5,No,Standard,Yes,Yes,34,Bank Transfer,Every 3 Months,33,3,1,Pants
+304,40,S,White,Winter,3.7,No,Next Day Air,Yes,Yes,39,Credit Card,Annually,33,3,1,Belt
+304,38,M,Yellow,Summer,4.8,No,Free Shipping,Yes,Yes,35,PayPal,Every 3 Months,33,3,1,Pants
+304,90,S,Orange,Summer,4.9,No,Store Pickup,Yes,Yes,8,Credit Card,Annually,33,3,1,Backpack
+304,97,S,Green,Summer,4.9,No,Express,Yes,Yes,42,PayPal,Quarterly,33,3,1,Blouse
+305,38,L,Gold,Fall,4.7,No,Standard,Yes,Yes,6,Credit Card,Every 3 Months,65,8,2,Shirt
+305,30,S,Orange,Summer,4.9,No,Free Shipping,Yes,Yes,3,Credit Card,Fortnightly,65,8,2,Belt
+305,88,M,Cyan,Fall,2.9,No,Express,Yes,Yes,29,Venmo,Quarterly,65,8,2,Pants
+305,33,L,Black,Winter,4.4,No,Express,Yes,Yes,32,Debit Card,Quarterly,65,8,2,Dress
+305,60,L,Yellow,Winter,3.2,No,Next Day Air,Yes,Yes,45,Debit Card,Weekly,65,8,2,Pants
+305,64,L,Maroon,Summer,4.6,No,Free Shipping,Yes,Yes,21,Debit Card,Bi-Weekly,65,8,2,Sweater
+305,95,XL,Black,Fall,4,No,Standard,Yes,Yes,41,Cash,Weekly,65,8,2,Pants
+305,83,M,Gray,Winter,3.7,No,Free Shipping,Yes,Yes,23,PayPal,Fortnightly,65,8,2,Sneakers
+305,97,XL,Orange,Winter,4.2,No,Free Shipping,Yes,Yes,14,Cash,Annually,65,8,2,Belt
+305,38,M,Cyan,Spring,2.9,No,Standard,Yes,Yes,24,Debit Card,Monthly,65,8,2,Belt
+305,48,M,Magenta,Summer,4.8,No,Next Day Air,Yes,Yes,25,Cash,Fortnightly,65,8,2,Belt
+305,76,M,Pink,Spring,4.4,No,Standard,Yes,Yes,13,Venmo,Monthly,65,8,2,Belt
+306,25,S,Turquoise,Summer,3.4,No,Free Shipping,Yes,Yes,3,Venmo,Every 3 Months,40,7,2,Pants
+306,92,S,Violet,Spring,2.8,No,2-Day Shipping,Yes,Yes,42,Credit Card,Annually,40,7,2,Pants
+307,47,L,Teal,Fall,4.2,No,Next Day Air,Yes,Yes,2,Cash,Monthly,21,8,1,Belt
+307,36,L,Pink,Fall,3.8,No,Express,Yes,Yes,26,Cash,Quarterly,21,8,1,Sweater
+307,51,M,Gold,Fall,3.1,No,2-Day Shipping,Yes,Yes,24,Credit Card,Annually,21,8,1,Belt
+307,35,XL,Red,Summer,3.2,No,Express,Yes,Yes,6,Credit Card,Quarterly,21,8,1,Jeans
+308,57,S,Beige,Summer,3,No,Next Day Air,Yes,Yes,25,PayPal,Monthly,34,1,2,Pants
+308,95,M,Black,Summer,3.6,No,Free Shipping,Yes,Yes,11,Credit Card,Every 3 Months,34,1,2,Belt
+308,41,L,Lavender,Winter,2.5,No,Store Pickup,Yes,Yes,20,Cash,Every 3 Months,34,1,2,Shirt
+309,44,S,Teal,Winter,3.4,No,Free Shipping,Yes,Yes,25,Cash,Quarterly,49,6,1,Dress
+309,34,M,Maroon,Fall,2.5,No,Next Day Air,Yes,Yes,35,PayPal,Quarterly,49,6,1,Pants
+309,25,L,Blue,Spring,4.7,No,2-Day Shipping,Yes,Yes,11,Bank Transfer,Quarterly,49,6,1,Pants
+309,93,S,Teal,Winter,3.2,No,2-Day Shipping,Yes,Yes,41,Bank Transfer,Fortnightly,49,6,1,Belt
+309,50,L,Maroon,Winter,2.9,No,Free Shipping,Yes,Yes,17,Credit Card,Annually,49,6,1,Sneakers
+309,79,L,Silver,Fall,4.9,No,Express,Yes,Yes,1,PayPal,Every 3 Months,49,6,1,Pants
+310,100,S,Olive,Spring,2.7,No,Store Pickup,Yes,Yes,30,PayPal,Every 3 Months,53,1,2,Belt
+310,57,S,Gray,Spring,4.7,No,Express,Yes,Yes,47,Venmo,Fortnightly,53,1,2,Shirt
+311,28,M,Peach,Spring,2.9,No,2-Day Shipping,Yes,Yes,34,Venmo,Weekly,28,5,1,Sweater
+311,35,L,Yellow,Winter,4.8,No,Express,Yes,Yes,18,Venmo,Fortnightly,28,5,1,Shirt
+311,85,L,Violet,Fall,4.6,No,Standard,Yes,Yes,33,Venmo,Bi-Weekly,28,5,1,Belt
+311,95,S,Red,Summer,5,No,2-Day Shipping,Yes,Yes,42,Venmo,Quarterly,28,5,1,Sunglasses
+311,90,S,Charcoal,Summer,4.8,No,2-Day Shipping,Yes,Yes,2,Venmo,Quarterly,28,5,1,Sneakers
+312,49,M,Beige,Summer,4.9,No,Store Pickup,Yes,Yes,1,Bank Transfer,Monthly,40,7,1,Jewelry
+312,92,M,Peach,Winter,4.6,No,2-Day Shipping,Yes,Yes,23,Bank Transfer,Quarterly,40,7,1,Belt
+312,72,XL,Violet,Winter,3.9,No,Store Pickup,Yes,Yes,42,Cash,Bi-Weekly,40,7,1,Blouse
+312,71,M,Green,Summer,4.5,No,Store Pickup,Yes,Yes,3,PayPal,Annually,40,7,1,Shirt
+312,27,XL,Olive,Winter,4.7,No,Store Pickup,Yes,Yes,16,Debit Card,Fortnightly,40,7,1,Jewelry
+312,39,S,Silver,Fall,3.9,No,Express,Yes,Yes,46,Cash,Fortnightly,40,7,1,Blouse
+313,98,M,Purple,Winter,4.4,No,Standard,Yes,Yes,31,PayPal,Every 3 Months,32,5,2,Jewelry
+313,27,M,Silver,Spring,3.9,No,Next Day Air,Yes,Yes,15,Cash,Every 3 Months,32,5,2,Belt
+313,71,S,Gray,Spring,2.8,No,2-Day Shipping,Yes,Yes,48,Venmo,Every 3 Months,32,5,2,Jewelry
+313,24,L,Turquoise,Spring,3.5,No,Store Pickup,Yes,Yes,11,Cash,Weekly,32,5,2,Dress
+314,63,M,Violet,Fall,4.3,No,Express,Yes,Yes,20,Credit Card,Every 3 Months,57,8,1,Shirt
+314,72,S,Pink,Fall,3.9,No,Next Day Air,Yes,Yes,6,Credit Card,Monthly,57,8,1,Sweater
+314,61,M,Teal,Spring,4,No,Express,Yes,Yes,24,Cash,Monthly,57,8,1,Blouse
+314,56,M,Magenta,Fall,4.1,No,Next Day Air,Yes,Yes,18,Credit Card,Monthly,57,8,1,Dress
+315,32,XL,Silver,Summer,4.3,No,Standard,Yes,Yes,1,PayPal,Every 3 Months,65,7,1,Belt
+316,23,M,Blue,Summer,4.2,No,Free Shipping,Yes,Yes,13,Venmo,Bi-Weekly,38,5,1,Blouse
+316,100,L,Black,Spring,4,No,Standard,Yes,Yes,2,Bank Transfer,Weekly,38,5,1,Belt
+317,74,M,Gold,Fall,3.6,No,Express,Yes,Yes,26,Cash,Quarterly,33,2,1,Jewelry
+318,33,S,Gray,Spring,3.3,No,Standard,Yes,Yes,31,PayPal,Quarterly,60,7,1,Shirt
+318,67,S,Magenta,Spring,4.1,No,2-Day Shipping,Yes,Yes,43,Bank Transfer,Weekly,60,7,1,Blouse
+318,61,S,Yellow,Summer,4.7,No,Next Day Air,Yes,Yes,12,Debit Card,Bi-Weekly,60,7,1,Jewelry
+318,46,M,Teal,Summer,4.4,No,Store Pickup,Yes,Yes,22,Venmo,Every 3 Months,60,7,1,Shirt
+318,56,L,Red,Spring,3.4,No,Standard,Yes,Yes,3,Cash,Fortnightly,60,7,1,Blouse
+318,73,S,Yellow,Spring,5,No,Free Shipping,Yes,Yes,23,Venmo,Every 3 Months,60,7,1,Sneakers
+318,44,L,Black,Summer,4.6,No,Store Pickup,Yes,Yes,26,PayPal,Annually,60,7,1,Shirt
+318,44,L,Pink,Winter,4,No,Standard,Yes,Yes,37,Credit Card,Weekly,60,7,1,Dress
+318,26,XL,Magenta,Summer,4.1,No,Next Day Air,Yes,Yes,42,Venmo,Quarterly,60,7,1,Jewelry
+318,52,L,Olive,Spring,4.9,No,Express,Yes,Yes,15,Venmo,Bi-Weekly,60,7,1,Sneakers
+318,54,S,Black,Summer,2.7,No,Free Shipping,Yes,Yes,10,Bank Transfer,Quarterly,60,7,1,Shirt
+318,38,M,Maroon,Summer,4.5,No,Free Shipping,Yes,Yes,3,Venmo,Quarterly,60,7,1,Pants
+319,44,S,Gold,Fall,2.7,No,Standard,Yes,Yes,44,Credit Card,Quarterly,68,9,2,Belt
+319,76,M,Gray,Spring,3,No,Next Day Air,Yes,Yes,23,Bank Transfer,Fortnightly,68,9,2,Sweater
+320,23,M,Brown,Winter,4.5,No,Next Day Air,Yes,Yes,6,PayPal,Weekly,56,9,2,Jewelry
+320,98,M,Purple,Winter,5,No,Standard,Yes,Yes,9,Venmo,Bi-Weekly,56,9,2,Sweater
+320,33,S,Magenta,Spring,3.8,No,2-Day Shipping,Yes,Yes,16,Debit Card,Every 3 Months,56,9,2,Pants
+320,32,M,Teal,Summer,3.1,No,Standard,Yes,Yes,46,Venmo,Fortnightly,56,9,2,Sweater
+320,85,S,Olive,Fall,3.4,No,Free Shipping,Yes,Yes,24,Credit Card,Every 3 Months,56,9,2,Belt
+320,69,L,Maroon,Summer,4.8,No,Next Day Air,Yes,Yes,22,Debit Card,Monthly,56,9,2,Jeans
+320,55,XL,Silver,Spring,2.7,No,Standard,Yes,Yes,13,Debit Card,Every 3 Months,56,9,2,Jeans
+321,66,M,Black,Summer,3.2,No,Store Pickup,Yes,Yes,20,Cash,Fortnightly,22,8,2,Pants
+321,30,M,Maroon,Fall,3.9,No,2-Day Shipping,Yes,Yes,46,Cash,Quarterly,22,8,2,Pants
+321,80,M,Teal,Winter,4.2,No,Next Day Air,Yes,Yes,10,Bank Transfer,Monthly,22,8,2,Pants
+322,20,M,Teal,Summer,3,No,Express,Yes,Yes,39,Cash,Monthly,22,2,1,Belt
+323,30,L,Beige,Fall,3,No,2-Day Shipping,Yes,Yes,44,PayPal,Quarterly,21,6,1,Shirt
+323,86,S,Maroon,Winter,3.7,No,2-Day Shipping,Yes,Yes,7,Venmo,Annually,21,6,1,Dress
+323,84,L,Beige,Spring,4.4,No,Store Pickup,Yes,Yes,3,Cash,Every 3 Months,21,6,1,Blouse
+323,54,XL,White,Summer,4.6,No,Free Shipping,Yes,Yes,44,Debit Card,Annually,21,6,1,Dress
+324,30,XL,Gray,Fall,3,No,Free Shipping,Yes,Yes,31,Venmo,Annually,36,4,2,Blouse
+324,91,M,Violet,Winter,3.6,No,Express,Yes,Yes,48,Credit Card,Weekly,36,4,2,Dress
+324,23,L,Silver,Winter,3.9,No,Standard,Yes,Yes,18,PayPal,Bi-Weekly,36,4,2,Sneakers
+324,35,M,Red,Spring,4.1,No,Free Shipping,Yes,Yes,27,Cash,Monthly,36,4,2,Shirt
+324,90,L,Brown,Winter,3.9,No,2-Day Shipping,Yes,Yes,1,Venmo,Weekly,36,4,2,Shirt
+324,93,S,Turquoise,Fall,3.9,No,2-Day Shipping,Yes,Yes,34,Cash,Weekly,36,4,2,Jeans
+325,68,L,Indigo,Winter,4.5,No,Express,Yes,Yes,5,Bank Transfer,Bi-Weekly,53,4,1,Jeans
+326,41,M,Violet,Spring,3.4,No,Standard,Yes,Yes,12,Cash,Quarterly,38,5,2,Blouse
+326,73,M,Yellow,Winter,4.1,No,Next Day Air,Yes,Yes,14,Venmo,Fortnightly,38,5,2,Belt
+327,73,L,Cyan,Fall,4.9,No,Next Day Air,Yes,Yes,40,PayPal,Weekly,60,1,2,Sunglasses
+327,66,M,Brown,Summer,4.4,No,2-Day Shipping,Yes,Yes,39,Cash,Quarterly,60,1,2,Dress
+327,59,M,White,Summer,2.7,No,2-Day Shipping,Yes,Yes,50,Bank Transfer,Weekly,60,1,2,Backpack
+327,72,L,Yellow,Spring,4.8,No,Free Shipping,Yes,Yes,5,Debit Card,Monthly,60,1,2,Shirt
+327,88,M,White,Summer,3.3,No,2-Day Shipping,Yes,Yes,35,Debit Card,Annually,60,1,2,Shirt
+328,76,L,Pink,Summer,4.4,No,Free Shipping,Yes,Yes,6,Cash,Bi-Weekly,36,8,1,Shirt
+328,31,M,Indigo,Winter,4.6,No,2-Day Shipping,Yes,Yes,22,Cash,Fortnightly,36,8,1,Belt
+328,22,L,White,Summer,3.1,No,Next Day Air,Yes,Yes,27,PayPal,Monthly,36,8,1,Pants
+329,75,L,Red,Fall,4.5,No,2-Day Shipping,Yes,Yes,33,Debit Card,Fortnightly,63,9,1,Dress
+329,75,S,Red,Spring,4,No,Store Pickup,Yes,Yes,47,Venmo,Bi-Weekly,63,9,1,Sweater
+329,63,M,Lavender,Winter,3.1,No,Free Shipping,Yes,Yes,48,Credit Card,Bi-Weekly,63,9,1,Backpack
+330,21,M,Teal,Spring,3.9,No,Next Day Air,Yes,Yes,22,Bank Transfer,Quarterly,39,2,1,Belt
+330,83,S,Violet,Spring,4.5,No,Next Day Air,Yes,Yes,8,PayPal,Bi-Weekly,39,2,1,Backpack
+330,46,S,Silver,Winter,4.4,No,Next Day Air,Yes,Yes,5,PayPal,Every 3 Months,39,2,1,Pants
+330,59,M,Gold,Summer,3.6,No,2-Day Shipping,Yes,Yes,16,Bank Transfer,Quarterly,39,2,1,Shirt
+331,66,M,Green,Summer,3.4,No,Free Shipping,Yes,Yes,26,Venmo,Fortnightly,53,2,1,Blouse
+331,74,S,Turquoise,Fall,4,No,2-Day Shipping,Yes,Yes,8,Venmo,Monthly,53,2,1,Belt
+332,82,M,Indigo,Summer,2.6,No,Store Pickup,Yes,Yes,17,Cash,Quarterly,31,6,2,Sunglasses
+332,89,L,Black,Spring,3.2,No,Next Day Air,Yes,Yes,50,Venmo,Annually,31,6,2,Shirt
+332,65,L,Charcoal,Fall,3.2,No,Standard,Yes,Yes,22,Venmo,Bi-Weekly,31,6,2,Dress
+333,55,M,Turquoise,Spring,5,No,2-Day Shipping,Yes,Yes,19,Cash,Every 3 Months,40,9,2,Belt
+333,95,M,Red,Winter,2.9,No,Next Day Air,Yes,Yes,14,Bank Transfer,Monthly,40,9,2,Shirt
+333,77,S,Indigo,Winter,2.9,No,Store Pickup,Yes,Yes,35,Cash,Bi-Weekly,40,9,2,Pants
+334,44,M,Maroon,Winter,3.5,No,Next Day Air,Yes,Yes,43,PayPal,Weekly,34,7,1,Blouse
+334,89,M,Indigo,Fall,4,No,Standard,Yes,Yes,24,Venmo,Annually,34,7,1,Jeans
+334,24,M,Maroon,Spring,3.9,No,Standard,Yes,Yes,17,Debit Card,Bi-Weekly,34,7,1,Jewelry
+334,43,M,Black,Winter,4.9,No,Store Pickup,Yes,Yes,49,Bank Transfer,Annually,34,7,1,Belt
+334,51,XL,Purple,Summer,3.8,No,Express,Yes,Yes,17,Bank Transfer,Annually,34,7,1,Sneakers
+334,46,L,Teal,Summer,3.5,No,Standard,Yes,Yes,40,Cash,Quarterly,34,7,1,Dress
+334,32,M,Silver,Summer,3.7,No,Store Pickup,Yes,Yes,43,Bank Transfer,Weekly,34,7,1,Dress
+334,55,M,Black,Spring,2.9,No,2-Day Shipping,Yes,Yes,19,Debit Card,Every 3 Months,34,7,1,Sneakers
+334,26,S,Black,Summer,2.8,No,Free Shipping,Yes,Yes,40,Bank Transfer,Quarterly,34,7,1,Sunglasses
+334,29,M,Olive,Summer,3.7,No,2-Day Shipping,Yes,Yes,13,Credit Card,Monthly,34,7,1,Pants
+334,49,L,Purple,Spring,3,No,Express,Yes,Yes,20,Credit Card,Monthly,34,7,1,Blouse
+335,45,M,Indigo,Spring,4.8,No,Free Shipping,Yes,Yes,21,Debit Card,Quarterly,70,9,1,Blouse
+335,48,S,Lavender,Winter,2.7,No,Standard,Yes,Yes,18,Cash,Bi-Weekly,70,9,1,Shirt
+335,47,S,Cyan,Winter,4.5,No,Free Shipping,Yes,Yes,44,Cash,Quarterly,70,9,1,Shirt
+335,57,M,Gold,Fall,2.7,No,Standard,Yes,Yes,26,Credit Card,Quarterly,70,9,1,Pants
+335,34,L,Magenta,Fall,3.5,No,Next Day Air,Yes,Yes,34,PayPal,Quarterly,70,9,1,Backpack
+336,75,XL,Teal,Fall,3.5,No,Express,Yes,Yes,24,Credit Card,Every 3 Months,59,9,1,Sunglasses
+336,94,L,Beige,Fall,4.5,No,Store Pickup,Yes,Yes,23,PayPal,Fortnightly,59,9,1,Pants
+336,84,M,Teal,Winter,3.8,No,Free Shipping,Yes,Yes,3,Debit Card,Weekly,59,9,1,Dress
+336,38,M,Indigo,Summer,3.8,No,Standard,Yes,Yes,2,Bank Transfer,Quarterly,59,9,1,Pants
+336,75,M,Purple,Winter,3.2,No,Next Day Air,Yes,Yes,23,Venmo,Bi-Weekly,59,9,1,Pants
+336,44,M,Teal,Fall,4.3,No,Next Day Air,Yes,Yes,8,Cash,Weekly,59,9,1,Pants
+336,33,XL,Turquoise,Summer,4.5,No,Next Day Air,Yes,Yes,30,Debit Card,Every 3 Months,59,9,1,Backpack
+336,93,L,Peach,Fall,4.2,No,Free Shipping,Yes,Yes,48,PayPal,Annually,59,9,1,Sunglasses
+336,99,S,Green,Winter,3,No,Free Shipping,Yes,Yes,21,Cash,Bi-Weekly,59,9,1,Sneakers
+337,33,M,Turquoise,Spring,4.1,No,Standard,Yes,Yes,9,Cash,Monthly,47,3,2,Backpack
+337,76,L,Yellow,Spring,4.6,No,Store Pickup,Yes,Yes,8,Debit Card,Monthly,47,3,2,Sneakers
+337,63,M,Orange,Summer,2.9,No,Standard,Yes,Yes,29,Debit Card,Weekly,47,3,2,Shirt
+338,41,L,Brown,Winter,4.8,No,Next Day Air,Yes,Yes,3,Bank Transfer,Every 3 Months,53,1,2,Pants
+338,88,L,Silver,Winter,4.5,No,Next Day Air,Yes,Yes,11,Bank Transfer,Fortnightly,53,1,2,Jewelry
+338,92,L,White,Summer,3.4,No,2-Day Shipping,Yes,Yes,16,Debit Card,Monthly,53,1,2,Shirt
+338,31,L,Indigo,Summer,4.3,No,2-Day Shipping,Yes,Yes,25,Debit Card,Weekly,53,1,2,Sweater
+339,25,S,Magenta,Spring,4.2,No,Free Shipping,Yes,Yes,32,PayPal,Bi-Weekly,66,2,2,Shirt
+340,28,M,Turquoise,Spring,3.6,No,Next Day Air,Yes,Yes,28,Cash,Fortnightly,37,8,1,Shirt
+340,75,M,White,Spring,3.7,No,2-Day Shipping,Yes,Yes,36,PayPal,Monthly,37,8,1,Dress
+340,34,S,Olive,Spring,4,No,Standard,Yes,Yes,7,Venmo,Fortnightly,37,8,1,Belt
+340,97,S,Maroon,Winter,4.9,No,2-Day Shipping,Yes,Yes,2,PayPal,Quarterly,37,8,1,Pants
+340,80,M,Violet,Summer,3.1,No,Free Shipping,Yes,Yes,6,Bank Transfer,Monthly,37,8,1,Pants
+340,71,L,Cyan,Summer,3.7,No,Standard,Yes,Yes,30,Cash,Annually,37,8,1,Sneakers
+340,77,L,Teal,Fall,4.2,No,Free Shipping,Yes,Yes,46,Cash,Quarterly,37,8,1,Jewelry
+341,41,L,Red,Spring,2.5,No,Next Day Air,Yes,Yes,39,Cash,Monthly,67,6,1,Belt
+341,92,XL,Yellow,Summer,4.3,No,Next Day Air,Yes,Yes,8,Venmo,Annually,67,6,1,Pants
+341,95,S,Silver,Spring,3.1,No,Store Pickup,Yes,Yes,46,Credit Card,Quarterly,67,6,1,Blouse
+342,25,M,Charcoal,Fall,3,No,Next Day Air,Yes,Yes,40,Debit Card,Fortnightly,53,1,2,Sweater
+342,77,M,Purple,Fall,4,No,Express,Yes,Yes,21,Bank Transfer,Weekly,53,1,2,Belt
+342,99,M,Beige,Summer,3.5,No,Free Shipping,Yes,Yes,33,Credit Card,Fortnightly,53,1,2,Shirt
+342,24,L,Cyan,Winter,3.2,No,Next Day Air,Yes,Yes,3,Venmo,Monthly,53,1,2,Belt
+342,72,M,Silver,Summer,2.7,No,Store Pickup,Yes,Yes,48,Cash,Weekly,53,1,2,Sneakers
+342,80,S,Pink,Winter,3,No,Free Shipping,Yes,Yes,8,PayPal,Annually,53,1,2,Jeans
+342,100,L,Gold,Winter,2.9,No,Next Day Air,Yes,Yes,24,PayPal,Annually,53,1,2,Shirt
+343,83,M,Cyan,Summer,3.3,No,Free Shipping,Yes,Yes,10,Bank Transfer,Every 3 Months,41,3,1,Shirt
+343,95,M,Black,Spring,4.9,No,2-Day Shipping,Yes,Yes,25,Bank Transfer,Monthly,41,3,1,Dress
+343,41,XL,Charcoal,Summer,3.7,No,Store Pickup,Yes,Yes,3,Cash,Fortnightly,41,3,1,Pants
+344,35,S,Magenta,Spring,3.5,No,Standard,Yes,Yes,45,Debit Card,Fortnightly,50,6,2,Backpack
+344,30,S,Pink,Fall,4.7,No,Store Pickup,Yes,Yes,15,Debit Card,Monthly,50,6,2,Jewelry
+344,21,XL,Maroon,Winter,2.6,No,Store Pickup,Yes,Yes,34,Bank Transfer,Quarterly,50,6,2,Dress
+344,85,M,Teal,Fall,4.1,No,Express,Yes,Yes,21,Venmo,Bi-Weekly,50,6,2,Jewelry
+344,54,M,Orange,Winter,2.8,No,2-Day Shipping,Yes,Yes,22,Debit Card,Bi-Weekly,50,6,2,Shirt
+344,26,S,Yellow,Spring,4.7,No,Next Day Air,Yes,Yes,24,PayPal,Weekly,50,6,2,Belt
+344,59,XL,Red,Spring,2.9,No,Store Pickup,Yes,Yes,33,Credit Card,Monthly,50,6,2,Shirt
+344,48,S,Charcoal,Winter,2.8,No,Free Shipping,Yes,Yes,13,Venmo,Fortnightly,50,6,2,Sunglasses
+344,98,L,Black,Summer,4.3,No,Next Day Air,Yes,Yes,17,Debit Card,Bi-Weekly,50,6,2,Shirt
+345,92,M,White,Summer,4.8,No,2-Day Shipping,Yes,Yes,25,Credit Card,Every 3 Months,43,3,1,Sweater
+345,46,M,Lavender,Winter,3.4,No,Next Day Air,Yes,Yes,15,Credit Card,Bi-Weekly,43,3,1,Belt
+345,21,S,White,Spring,4.3,No,Standard,Yes,Yes,4,PayPal,Fortnightly,43,3,1,Sweater
+345,72,S,Gray,Fall,2.7,No,Free Shipping,Yes,Yes,43,Debit Card,Quarterly,43,3,1,Shirt
+345,58,XL,Cyan,Fall,4.6,No,Next Day Air,Yes,Yes,12,Bank Transfer,Bi-Weekly,43,3,1,Belt
+346,93,S,Brown,Fall,4.1,No,Standard,Yes,Yes,3,Venmo,Monthly,25,8,2,Shirt
+346,31,L,Purple,Spring,3.4,No,2-Day Shipping,Yes,Yes,1,PayPal,Annually,25,8,2,Shirt
+346,26,L,Yellow,Winter,4.5,No,Next Day Air,Yes,Yes,6,Debit Card,Monthly,25,8,2,Pants
+346,68,M,Indigo,Summer,4.4,No,Standard,Yes,Yes,26,Venmo,Monthly,25,8,2,Shirt
+346,31,S,Black,Summer,4,No,Next Day Air,Yes,Yes,6,Credit Card,Fortnightly,25,8,2,Jewelry
+346,41,S,Gray,Summer,3.4,No,Free Shipping,Yes,Yes,22,Cash,Bi-Weekly,25,8,2,Sweater
+346,62,M,Indigo,Fall,3.2,No,Standard,Yes,Yes,45,Cash,Bi-Weekly,25,8,2,Jewelry
+346,41,M,Green,Spring,3.4,No,Standard,Yes,Yes,50,Cash,Quarterly,25,8,2,Dress
+347,64,M,Peach,Winter,4.3,No,Standard,Yes,Yes,50,Credit Card,Fortnightly,65,2,2,Blouse
+347,72,L,Purple,Summer,5,No,Standard,Yes,Yes,39,Debit Card,Quarterly,65,2,2,Belt
+348,78,L,Beige,Winter,3.5,No,Store Pickup,Yes,Yes,50,Venmo,Bi-Weekly,55,9,1,Pants
+348,47,M,Charcoal,Winter,3.1,No,2-Day Shipping,Yes,Yes,27,PayPal,Every 3 Months,55,9,1,Dress
+348,46,L,Gray,Summer,3.9,No,2-Day Shipping,Yes,Yes,38,Debit Card,Fortnightly,55,9,1,Pants
+348,43,S,Brown,Winter,4,No,Store Pickup,Yes,Yes,37,Bank Transfer,Every 3 Months,55,9,1,Shirt
+348,58,M,Cyan,Summer,3.5,No,Next Day Air,Yes,Yes,50,Debit Card,Annually,55,9,1,Backpack
+348,32,M,White,Winter,3.6,No,Free Shipping,Yes,Yes,40,PayPal,Every 3 Months,55,9,1,Sweater
+348,45,L,Beige,Winter,3,No,Next Day Air,Yes,Yes,3,PayPal,Bi-Weekly,55,9,1,Shirt
+348,35,L,Orange,Summer,2.6,No,Next Day Air,Yes,Yes,45,Credit Card,Bi-Weekly,55,9,1,Sneakers
+348,21,M,Olive,Winter,2.9,No,Next Day Air,Yes,Yes,8,Credit Card,Annually,55,9,1,Sunglasses
+348,64,S,Teal,Winter,3.1,No,Next Day Air,Yes,Yes,7,Cash,Monthly,55,9,1,Dress
+348,88,S,Silver,Spring,3.3,No,Next Day Air,Yes,Yes,13,Venmo,Quarterly,55,9,1,Blouse
+348,48,M,Gold,Summer,2.9,No,Store Pickup,Yes,Yes,29,Venmo,Every 3 Months,55,9,1,Shirt
+348,36,L,Violet,Summer,3.9,No,2-Day Shipping,Yes,Yes,7,Bank Transfer,Fortnightly,55,9,1,Sweater
+348,28,S,White,Summer,4.7,No,2-Day Shipping,Yes,Yes,50,Debit Card,Every 3 Months,55,9,1,Blouse
+349,80,M,Peach,Spring,4.4,No,2-Day Shipping,Yes,Yes,33,Debit Card,Bi-Weekly,24,3,2,Shirt
+349,23,S,Orange,Summer,3.6,No,Store Pickup,Yes,Yes,30,Cash,Every 3 Months,24,3,2,Belt
+349,24,L,Violet,Summer,3.2,No,Standard,Yes,Yes,40,Cash,Annually,24,3,2,Sunglasses
+349,22,L,Green,Fall,4,No,Free Shipping,Yes,Yes,49,Cash,Fortnightly,24,3,2,Belt
+349,21,M,Peach,Spring,3.5,No,Next Day Air,Yes,Yes,32,Venmo,Fortnightly,24,3,2,Dress
+349,51,M,Black,Spring,4.6,No,Free Shipping,Yes,Yes,18,Venmo,Weekly,24,3,2,Pants
+349,65,L,Blue,Summer,3.3,No,Free Shipping,Yes,Yes,50,PayPal,Annually,24,3,2,Blouse
+349,51,S,Magenta,Spring,4,No,2-Day Shipping,Yes,Yes,13,PayPal,Weekly,24,3,2,Pants
+349,32,L,Violet,Summer,3.4,No,Free Shipping,Yes,Yes,1,Bank Transfer,Every 3 Months,24,3,2,Pants
+349,70,M,Beige,Spring,4.2,No,Store Pickup,Yes,Yes,16,PayPal,Fortnightly,24,3,2,Belt
+350,77,L,Pink,Summer,3.9,No,2-Day Shipping,Yes,Yes,6,PayPal,Monthly,45,7,1,Pants
+350,90,S,Beige,Summer,3.9,No,Next Day Air,Yes,Yes,21,Debit Card,Monthly,45,7,1,Belt
+350,36,L,Green,Summer,2.8,No,Standard,Yes,Yes,36,Venmo,Every 3 Months,45,7,1,Pants
+350,77,S,Silver,Summer,3.7,No,Standard,Yes,Yes,20,Bank Transfer,Every 3 Months,45,7,1,Pants
+350,78,M,Purple,Summer,4.9,No,Store Pickup,Yes,Yes,8,Debit Card,Quarterly,45,7,1,Belt
+351,69,M,Gray,Summer,2.6,No,Express,Yes,Yes,22,Credit Card,Monthly,56,1,1,Pants
+351,63,M,White,Summer,4.9,No,Free Shipping,Yes,Yes,3,Credit Card,Quarterly,56,1,1,Sweater
+351,36,M,Silver,Winter,3.4,No,Next Day Air,Yes,Yes,46,Credit Card,Fortnightly,56,1,1,Pants
+352,80,M,Blue,Winter,3.9,No,Standard,Yes,Yes,42,Debit Card,Monthly,48,6,1,Belt
+353,35,M,Orange,Summer,4,No,Next Day Air,Yes,Yes,1,Bank Transfer,Fortnightly,48,2,1,Sweater
+353,93,L,Silver,Winter,3,No,2-Day Shipping,Yes,Yes,29,Debit Card,Bi-Weekly,48,2,1,Belt
+353,25,L,Gray,Spring,2.6,No,Store Pickup,Yes,Yes,14,Credit Card,Quarterly,48,2,1,Belt
+353,81,L,Gold,Spring,3.2,No,Next Day Air,Yes,Yes,4,PayPal,Monthly,48,2,1,Sweater
+353,42,L,Brown,Spring,2.6,No,2-Day Shipping,Yes,Yes,41,PayPal,Every 3 Months,48,2,1,Blouse
+353,36,L,Turquoise,Spring,3.2,No,Store Pickup,Yes,Yes,4,Debit Card,Bi-Weekly,48,2,1,Shirt
+353,66,S,Pink,Spring,4.1,No,Store Pickup,Yes,Yes,47,Cash,Weekly,48,2,1,Jewelry
+353,37,M,Black,Fall,3.9,No,Next Day Air,Yes,Yes,44,Venmo,Annually,48,2,1,Blouse
+354,45,L,Yellow,Winter,4.1,No,Standard,Yes,Yes,37,Venmo,Monthly,65,3,2,Sweater
+356,86,S,Beige,Summer,2.7,No,2-Day Shipping,Yes,Yes,21,Debit Card,Quarterly,65,4,2,Blouse
+356,24,M,Olive,Winter,4.6,No,Free Shipping,Yes,Yes,46,Debit Card,Fortnightly,65,4,2,Sunglasses
+356,22,XL,Gold,Summer,3.5,No,Standard,Yes,Yes,1,Cash,Bi-Weekly,65,4,2,Shirt
+356,53,M,Purple,Spring,5,No,Next Day Air,Yes,Yes,35,PayPal,Weekly,65,4,2,Pants
+356,41,L,Pink,Fall,3.4,No,Next Day Air,Yes,Yes,49,Venmo,Monthly,65,4,2,Pants
+357,64,M,Blue,Summer,3.1,No,Store Pickup,Yes,Yes,47,PayPal,Annually,32,5,2,Shirt
+357,40,L,Brown,Winter,3.4,No,2-Day Shipping,Yes,Yes,24,Bank Transfer,Every 3 Months,32,5,2,Pants
+357,33,L,Charcoal,Summer,4,No,Standard,Yes,Yes,28,Debit Card,Fortnightly,32,5,2,Blouse
+357,59,L,Maroon,Winter,2.7,No,Store Pickup,Yes,Yes,22,Bank Transfer,Quarterly,32,5,2,Sweater
+359,73,L,Cyan,Fall,3.6,No,Free Shipping,Yes,Yes,20,Cash,Weekly,46,5,2,Pants
+359,22,M,Olive,Winter,4,No,Free Shipping,Yes,Yes,25,Bank Transfer,Weekly,46,5,2,Pants
+359,73,L,Gold,Fall,3.8,No,Free Shipping,Yes,Yes,15,Venmo,Quarterly,46,5,2,Belt
+359,62,M,Violet,Fall,3.4,No,Next Day Air,Yes,Yes,49,Venmo,Bi-Weekly,46,5,2,Blouse
+359,56,M,Peach,Winter,3.2,No,Free Shipping,Yes,Yes,10,Debit Card,Fortnightly,46,5,2,Belt
+360,90,M,Beige,Spring,4.7,No,Next Day Air,Yes,Yes,21,Credit Card,Annually,60,2,1,Pants
+360,44,M,Cyan,Winter,3.1,No,Next Day Air,Yes,Yes,34,Bank Transfer,Weekly,60,2,1,Sunglasses
+360,35,L,Silver,Summer,3.3,No,Next Day Air,No,No,41,Debit Card,Weekly,60,2,1,Jeans
+360,71,S,Magenta,Summer,4.8,No,2-Day Shipping,No,No,30,Venmo,Fortnightly,60,2,1,Pants
+360,52,S,Black,Fall,4.5,No,Next Day Air,No,No,24,Debit Card,Bi-Weekly,60,2,1,Dress
+361,37,M,Olive,Summer,3.4,No,Store Pickup,No,No,6,Credit Card,Annually,43,2,2,Shirt
+361,95,L,Green,Winter,3.7,No,2-Day Shipping,No,No,14,Credit Card,Bi-Weekly,43,2,2,Sneakers
+361,97,M,Yellow,Fall,4.9,No,2-Day Shipping,No,No,37,Credit Card,Bi-Weekly,43,2,2,Shirt
+361,57,S,Lavender,Spring,3.5,No,Next Day Air,No,No,37,Venmo,Quarterly,43,2,2,Belt
+362,93,M,Indigo,Spring,4.6,No,Standard,No,No,28,PayPal,Weekly,63,1,2,Shirt
+362,48,M,Pink,Winter,4.6,No,Standard,No,No,43,PayPal,Bi-Weekly,63,1,2,Blouse
+362,75,L,Red,Fall,4.2,No,Store Pickup,No,No,25,Cash,Annually,63,1,2,Blouse
+362,70,S,Magenta,Winter,3.7,No,Free Shipping,No,No,4,PayPal,Annually,63,1,2,Shirt
+363,26,S,Peach,Winter,3,No,Next Day Air,No,No,13,Venmo,Fortnightly,68,1,1,Pants
+363,73,L,Turquoise,Winter,4.6,No,Store Pickup,No,No,32,Bank Transfer,Monthly,68,1,1,Shirt
+363,30,M,Black,Summer,3.2,No,Free Shipping,No,No,1,Cash,Annually,68,1,1,Belt
+363,61,L,Blue,Summer,3.5,No,Next Day Air,No,No,4,Cash,Annually,68,1,1,Shirt
+363,75,M,Beige,Winter,2.6,No,Standard,No,No,33,Cash,Bi-Weekly,68,1,1,Pants
+363,88,XL,Olive,Fall,4.9,No,Standard,No,No,45,Bank Transfer,Fortnightly,68,1,1,Pants
+363,67,M,Turquoise,Summer,2.7,No,Express,No,No,20,Debit Card,Fortnightly,68,1,1,Shirt
+363,95,S,Yellow,Fall,4.7,No,2-Day Shipping,No,No,1,PayPal,Fortnightly,68,1,1,Dress
+363,69,S,Turquoise,Spring,4,No,Free Shipping,No,No,7,Credit Card,Bi-Weekly,68,1,1,Sunglasses
+363,87,L,Lavender,Fall,3.5,No,Next Day Air,No,No,48,Credit Card,Every 3 Months,68,1,1,Shirt
+364,41,XL,Turquoise,Winter,4.8,No,Standard,No,No,46,Bank Transfer,Quarterly,60,3,2,Belt
+364,67,L,Teal,Spring,4,No,Free Shipping,No,No,34,Debit Card,Annually,60,3,2,Sweater
+364,70,L,Black,Fall,4.1,No,Express,No,No,36,Bank Transfer,Monthly,60,3,2,Pants
+364,41,XL,Blue,Winter,3.8,No,Next Day Air,No,No,44,Debit Card,Every 3 Months,60,3,2,Pants
+364,83,XL,Yellow,Summer,5,No,Express,No,No,48,Bank Transfer,Weekly,60,3,2,Jeans
+364,22,M,Black,Spring,4,No,Next Day Air,No,No,12,Bank Transfer,Annually,60,3,2,Backpack
+364,20,M,Lavender,Summer,3.9,No,Store Pickup,No,No,19,Cash,Every 3 Months,60,3,2,Sneakers
+364,29,L,Cyan,Summer,3.4,No,2-Day Shipping,No,No,49,Venmo,Bi-Weekly,60,3,2,Jewelry
+364,87,M,Brown,Spring,3,No,Standard,No,No,25,Venmo,Fortnightly,60,3,2,Sunglasses
+364,81,L,Maroon,Fall,4.9,No,2-Day Shipping,No,No,25,Cash,Bi-Weekly,60,3,2,Shirt
+364,58,L,Cyan,Spring,3.2,No,Express,No,No,1,Credit Card,Quarterly,60,3,2,Belt
+364,83,M,Pink,Winter,3.8,No,Standard,No,No,19,Bank Transfer,Annually,60,3,2,Shirt
+364,59,XL,Orange,Fall,3.8,No,Store Pickup,No,No,7,Credit Card,Quarterly,60,3,2,Pants
+364,93,M,Lavender,Spring,4.7,No,Express,No,No,19,Credit Card,Monthly,60,3,2,Sweater
+364,87,S,Beige,Fall,3.8,No,2-Day Shipping,No,No,9,Cash,Fortnightly,60,3,2,Sweater
+364,22,M,Pink,Winter,4.6,No,Free Shipping,No,No,37,PayPal,Quarterly,60,3,2,Pants
+364,71,S,Charcoal,Summer,4.4,No,Standard,No,No,15,Cash,Monthly,60,3,2,Jeans
+364,69,XL,Gray,Spring,3.4,No,2-Day Shipping,No,No,30,PayPal,Bi-Weekly,60,3,2,Dress
+365,47,M,Cyan,Winter,4.7,No,Standard,No,No,30,Cash,Every 3 Months,67,5,1,Blouse
+365,50,L,Orange,Summer,2.9,No,Express,No,No,16,Debit Card,Bi-Weekly,67,5,1,Pants
+365,96,L,Pink,Winter,3.4,No,2-Day Shipping,No,No,14,PayPal,Every 3 Months,67,5,1,Sweater
+365,39,M,White,Winter,3.2,No,Free Shipping,No,No,8,Venmo,Quarterly,67,5,1,Sweater
+365,84,S,Beige,Winter,2.8,No,Express,No,No,40,Debit Card,Bi-Weekly,67,5,1,Shirt
+365,28,S,Magenta,Spring,4.3,No,Free Shipping,No,No,24,Credit Card,Monthly,67,5,1,Jewelry
+365,51,L,Violet,Summer,3.3,No,Standard,No,No,14,Cash,Fortnightly,67,5,1,Sweater
+366,20,XL,Gold,Spring,3.3,No,Standard,No,No,39,PayPal,Annually,65,3,1,Pants
+366,72,S,Teal,Winter,3.3,No,Free Shipping,No,No,21,PayPal,Weekly,65,3,1,Shirt
+366,33,M,Indigo,Spring,3,No,Next Day Air,No,No,32,Venmo,Quarterly,65,3,1,Sunglasses
+366,28,S,Olive,Summer,2.8,No,Express,No,No,45,Debit Card,Weekly,65,3,1,Belt
+366,53,S,Violet,Spring,4,No,Express,No,No,19,PayPal,Monthly,65,3,1,Blouse
+367,48,L,Black,Fall,4.3,No,Express,No,No,1,Debit Card,Every 3 Months,21,3,1,Jeans
+367,21,M,Brown,Winter,3.8,No,Store Pickup,No,No,12,Venmo,Fortnightly,21,3,1,Shirt
+367,22,S,Silver,Fall,4.2,No,Free Shipping,No,No,26,Credit Card,Weekly,21,3,1,Shirt
+367,87,M,Gray,Fall,3.1,No,Next Day Air,No,No,12,Cash,Monthly,21,3,1,Backpack
+367,50,S,Charcoal,Winter,2.6,No,Free Shipping,No,No,36,Cash,Every 3 Months,21,3,1,Belt
+367,85,L,Black,Summer,3.4,No,Express,No,No,22,Credit Card,Annually,21,3,1,Blouse
+368,98,L,Brown,Spring,3.1,No,Next Day Air,No,No,16,PayPal,Quarterly,47,5,1,Jeans
+368,34,M,Purple,Winter,3.6,No,Express,No,No,31,Venmo,Annually,47,5,1,Dress
+368,61,M,Purple,Summer,2.6,No,2-Day Shipping,No,No,43,Cash,Quarterly,47,5,1,Shirt
+369,98,L,Gray,Summer,4.2,No,Store Pickup,No,No,50,Venmo,Bi-Weekly,50,5,1,Jewelry
+370,61,M,Green,Spring,2.9,No,2-Day Shipping,No,No,37,Credit Card,Weekly,29,1,2,Pants
+370,98,L,Silver,Winter,4.2,No,Express,No,No,23,Cash,Weekly,29,1,2,Jewelry
+371,21,L,Charcoal,Fall,3.3,No,Next Day Air,No,No,10,Bank Transfer,Every 3 Months,51,5,1,Pants
+371,51,XL,Teal,Winter,3.6,No,Next Day Air,No,No,20,Bank Transfer,Monthly,51,5,1,Pants
+371,80,XL,White,Spring,4.3,No,Express,No,No,18,Venmo,Every 3 Months,51,5,1,Belt
+371,72,XL,Brown,Winter,3.3,No,Standard,No,No,3,Bank Transfer,Weekly,51,5,1,Shirt
+372,63,L,Teal,Winter,3,No,Standard,No,No,23,PayPal,Weekly,57,6,2,Sunglasses
+374,27,L,Red,Winter,3.6,No,Store Pickup,No,No,27,Cash,Weekly,61,8,1,Shirt
+374,44,L,Brown,Summer,3.1,No,Store Pickup,No,No,44,Bank Transfer,Fortnightly,61,8,1,Pants
+374,23,M,Yellow,Winter,2.9,No,Express,No,No,41,Venmo,Quarterly,61,8,1,Belt
+374,93,L,Teal,Winter,3.9,No,2-Day Shipping,No,No,41,Bank Transfer,Annually,61,8,1,Shirt
+374,70,L,Pink,Fall,3.2,No,2-Day Shipping,No,No,36,Debit Card,Every 3 Months,61,8,1,Pants
+374,85,M,White,Fall,3.1,No,Express,No,No,38,Venmo,Every 3 Months,61,8,1,Sunglasses
+374,40,M,Silver,Winter,3.2,No,2-Day Shipping,No,No,34,Cash,Annually,61,8,1,Sweater
+374,29,L,Blue,Winter,3.3,No,Store Pickup,No,No,14,Venmo,Quarterly,61,8,1,Belt
+374,27,L,Black,Fall,4.8,No,Next Day Air,No,No,23,Credit Card,Fortnightly,61,8,1,Shirt
+374,93,S,Beige,Fall,3.8,No,2-Day Shipping,No,No,18,Credit Card,Fortnightly,61,8,1,Dress
+375,20,XL,Charcoal,Spring,4.6,No,Next Day Air,No,No,45,Cash,Monthly,53,8,1,Belt
+375,55,S,Cyan,Fall,2.8,No,Free Shipping,No,No,14,Bank Transfer,Weekly,53,8,1,Jewelry
+375,94,L,Yellow,Fall,3.6,No,Standard,No,No,48,Debit Card,Annually,53,8,1,Dress
+375,56,M,Silver,Winter,4.3,No,Free Shipping,No,No,17,Venmo,Bi-Weekly,53,8,1,Dress
+375,58,L,Green,Spring,4,No,Next Day Air,No,No,1,PayPal,Weekly,53,8,1,Sweater
+376,44,XL,Peach,Spring,3.5,No,Standard,No,No,39,PayPal,Weekly,53,1,1,Shirt
+376,95,S,Green,Fall,4.9,No,2-Day Shipping,No,No,24,Cash,Weekly,53,1,1,Pants
+376,42,M,Brown,Summer,3.1,No,Express,No,No,41,Bank Transfer,Fortnightly,53,1,1,Belt
+376,93,M,Lavender,Winter,3.9,No,Store Pickup,No,No,28,PayPal,Annually,53,1,1,Jewelry
+376,56,M,Charcoal,Summer,3,No,Store Pickup,No,No,34,Venmo,Quarterly,53,1,1,Dress
+376,88,M,Orange,Spring,4.1,No,2-Day Shipping,No,No,41,Venmo,Quarterly,53,1,1,Pants
+376,54,S,Cyan,Winter,4.3,No,2-Day Shipping,No,No,27,Cash,Bi-Weekly,53,1,1,Sweater
+376,89,L,Lavender,Fall,3.8,No,2-Day Shipping,No,No,46,Debit Card,Fortnightly,53,1,1,Jewelry
+377,45,M,Indigo,Summer,3.9,No,2-Day Shipping,No,No,2,PayPal,Every 3 Months,34,3,2,Belt
+377,75,L,Brown,Winter,4.3,No,Free Shipping,No,No,45,Cash,Monthly,34,3,2,Shirt
+377,22,M,Pink,Fall,4.3,No,Express,No,No,34,Bank Transfer,Weekly,34,3,2,Backpack
+377,82,XL,Turquoise,Fall,4.7,No,Store Pickup,No,No,9,Credit Card,Annually,34,3,2,Shirt
+377,34,M,Gold,Summer,3.1,No,2-Day Shipping,No,No,1,Bank Transfer,Annually,34,3,2,Shirt
+377,92,M,Blue,Summer,2.7,No,Free Shipping,No,No,17,PayPal,Annually,34,3,2,Belt
+377,78,M,Lavender,Spring,3.7,No,Express,No,No,6,PayPal,Weekly,34,3,2,Sweater
+377,47,M,Violet,Spring,3.3,No,2-Day Shipping,No,No,12,Cash,Bi-Weekly,34,3,2,Pants
+378,64,L,Cyan,Summer,3.4,No,Free Shipping,No,No,10,Venmo,Every 3 Months,65,8,2,Pants
+378,44,L,Purple,Winter,4.7,No,Free Shipping,No,No,4,Cash,Fortnightly,65,8,2,Sneakers
+378,94,M,Red,Winter,4.9,No,Store Pickup,No,No,8,Debit Card,Bi-Weekly,65,8,2,Belt
+378,62,M,Charcoal,Winter,4.3,No,Free Shipping,No,No,41,Venmo,Weekly,65,8,2,Pants
+378,81,S,Gray,Summer,4.2,No,Next Day Air,No,No,49,Credit Card,Weekly,65,8,2,Jewelry
+378,33,M,Pink,Fall,3.7,No,Express,No,No,49,Bank Transfer,Quarterly,65,8,2,Sweater
+379,88,M,Lavender,Fall,2.7,No,Next Day Air,No,No,40,Bank Transfer,Fortnightly,40,1,2,Pants
+379,49,L,Lavender,Winter,3.3,No,Free Shipping,No,No,30,Credit Card,Monthly,40,1,2,Pants
+379,31,L,Yellow,Summer,4.8,No,Standard,No,No,4,Debit Card,Quarterly,40,1,2,Backpack
+379,29,S,Peach,Fall,4.1,No,Next Day Air,No,No,22,Venmo,Monthly,40,1,2,Blouse
+379,34,M,Brown,Spring,4.6,No,2-Day Shipping,No,No,22,Venmo,Monthly,40,1,2,Pants
+380,38,L,Gold,Fall,4.9,No,2-Day Shipping,No,No,10,Bank Transfer,Quarterly,59,1,1,Sweater
+380,41,L,Pink,Summer,3.1,No,Store Pickup,No,No,23,Cash,Bi-Weekly,59,1,1,Blouse
+380,34,L,Peach,Spring,3,No,2-Day Shipping,No,No,43,Debit Card,Quarterly,59,1,1,Blouse
+380,26,S,Violet,Summer,3.7,No,Store Pickup,No,No,31,PayPal,Bi-Weekly,59,1,1,Blouse
+380,98,S,Purple,Winter,4,No,Store Pickup,No,No,38,Cash,Annually,59,1,1,Jeans
+380,59,M,Peach,Fall,3,No,Express,No,No,22,Debit Card,Every 3 Months,59,1,1,Sneakers
+381,92,S,White,Fall,3.8,No,Store Pickup,No,No,45,Cash,Every 3 Months,56,5,1,Dress
+381,40,L,Indigo,Spring,3.7,No,Express,No,No,21,Debit Card,Fortnightly,56,5,1,Backpack
+381,20,S,Violet,Fall,4,No,2-Day Shipping,No,No,9,Debit Card,Fortnightly,56,5,1,Jeans
+381,35,S,Brown,Spring,3.1,No,Store Pickup,No,No,34,Venmo,Weekly,56,5,1,Shirt
+381,35,L,Maroon,Spring,3.9,No,2-Day Shipping,No,No,26,Venmo,Weekly,56,5,1,Belt
+381,82,L,Magenta,Winter,3.7,No,Express,No,No,1,Cash,Weekly,56,5,1,Dress
+381,48,M,Charcoal,Fall,3.9,No,Express,No,No,47,Venmo,Weekly,56,5,1,Pants
+381,58,XL,Indigo,Winter,2.7,No,Express,No,No,30,Credit Card,Weekly,56,5,1,Belt
+382,57,M,Turquoise,Spring,3.9,No,Express,No,No,48,Debit Card,Fortnightly,47,7,2,Sweater
+382,96,L,Turquoise,Winter,2.6,No,Store Pickup,No,No,31,Venmo,Bi-Weekly,47,7,2,Shirt
+382,97,S,Gray,Summer,3.5,No,Free Shipping,No,No,33,Venmo,Fortnightly,47,7,2,Sneakers
+382,42,L,Peach,Winter,4.4,No,Next Day Air,No,No,39,Credit Card,Weekly,47,7,2,Sweater
+382,62,L,Gold,Spring,4.9,No,Store Pickup,No,No,46,Debit Card,Weekly,47,7,2,Sweater
+383,67,M,Green,Fall,3.9,No,Standard,No,No,24,Venmo,Annually,39,4,2,Pants
+383,46,L,Gold,Summer,3.5,No,Standard,No,No,37,Venmo,Fortnightly,39,4,2,Sneakers
+383,71,M,Lavender,Spring,4.3,No,Next Day Air,No,No,7,Debit Card,Monthly,39,4,2,Pants
+383,99,S,Blue,Fall,3.4,No,Free Shipping,No,No,6,Debit Card,Fortnightly,39,4,2,Backpack
+384,28,M,Magenta,Fall,2.7,No,Standard,No,No,16,Cash,Bi-Weekly,48,7,2,Jeans
+385,77,L,Blue,Summer,3.6,No,Standard,No,No,33,Bank Transfer,Annually,44,6,1,Belt
+385,63,S,Blue,Summer,4.9,No,Express,No,No,18,PayPal,Bi-Weekly,44,6,1,Belt
+385,62,M,Olive,Spring,3.5,No,Free Shipping,No,No,24,PayPal,Weekly,44,6,1,Shirt
+385,92,M,White,Summer,3.8,No,Free Shipping,No,No,24,Cash,Quarterly,44,6,1,Jeans
+385,72,L,White,Winter,4.5,No,2-Day Shipping,No,No,48,Credit Card,Every 3 Months,44,6,1,Shirt
+385,79,M,Purple,Summer,4,No,Express,No,No,4,Cash,Weekly,44,6,1,Dress
+386,27,M,White,Summer,4.7,No,Free Shipping,No,No,20,Cash,Weekly,50,9,2,Sweater
+386,39,M,White,Fall,3.8,No,Express,No,No,47,Debit Card,Every 3 Months,50,9,2,Sunglasses
+386,86,S,Peach,Spring,4.5,No,Next Day Air,No,No,50,Cash,Quarterly,50,9,2,Shirt
+386,94,XL,Gold,Fall,5,No,Express,No,No,31,PayPal,Monthly,50,9,2,Shirt
+386,53,M,Teal,Spring,2.8,No,Express,No,No,29,PayPal,Quarterly,50,9,2,Shirt
+386,85,S,Cyan,Summer,4.4,No,Standard,No,No,4,Cash,Annually,50,9,2,Shirt
+386,50,L,Pink,Fall,4.7,No,Free Shipping,No,No,40,Bank Transfer,Bi-Weekly,50,9,2,Shirt
+386,47,XL,Magenta,Winter,3.8,No,Express,No,No,31,Cash,Monthly,50,9,2,Pants
+386,75,M,Pink,Winter,4.9,No,Next Day Air,No,No,41,Credit Card,Weekly,50,9,2,Belt
+386,60,M,Turquoise,Winter,4.2,No,Express,No,No,44,Debit Card,Annually,50,9,2,Sweater
+387,36,S,Pink,Spring,4.9,No,2-Day Shipping,No,No,31,Bank Transfer,Weekly,36,9,2,Sweater
+387,80,L,Gray,Spring,3.9,No,Express,No,No,45,Cash,Every 3 Months,36,9,2,Belt
+387,96,M,White,Spring,4.9,No,2-Day Shipping,No,No,50,Credit Card,Quarterly,36,9,2,Dress
+387,80,M,Blue,Winter,4.8,No,Express,No,No,7,Venmo,Annually,36,9,2,Sunglasses
+387,71,M,Cyan,Summer,3.3,No,Free Shipping,No,No,5,Bank Transfer,Every 3 Months,36,9,2,Blouse
+387,29,M,Blue,Fall,4.6,No,Free Shipping,No,No,48,Cash,Monthly,36,9,2,Jewelry
+387,53,M,Yellow,Spring,4.5,No,2-Day Shipping,No,No,19,PayPal,Fortnightly,36,9,2,Jewelry
+387,35,M,Charcoal,Summer,4.1,No,2-Day Shipping,No,No,39,Venmo,Fortnightly,36,9,2,Shirt
+387,75,M,Lavender,Fall,3.2,No,2-Day Shipping,No,No,45,Credit Card,Quarterly,36,9,2,Pants
+387,52,M,Teal,Fall,4.2,No,2-Day Shipping,No,No,35,Credit Card,Monthly,36,9,2,Pants
+388,77,M,Beige,Winter,4.8,No,Free Shipping,No,No,8,Venmo,Monthly,24,2,2,Dress
+388,24,L,Blue,Fall,4.1,No,Next Day Air,No,No,11,Credit Card,Quarterly,24,2,2,Blouse
+388,78,XL,Purple,Winter,3.7,No,Store Pickup,No,No,32,Cash,Annually,24,2,2,Shirt
+388,98,M,Gold,Winter,2.6,No,Store Pickup,No,No,46,Bank Transfer,Every 3 Months,24,2,2,Belt
+389,57,L,Blue,Winter,3,No,Standard,No,No,7,PayPal,Every 3 Months,30,2,1,Shirt
+389,78,M,Black,Summer,4.4,No,Express,No,No,1,Debit Card,Annually,30,2,1,Pants
+389,76,M,Charcoal,Fall,4.7,No,Next Day Air,No,No,32,Credit Card,Monthly,30,2,1,Pants
+390,26,M,Purple,Spring,2.7,No,2-Day Shipping,No,No,31,Credit Card,Annually,31,6,2,Shirt
+390,78,M,Orange,Winter,2.8,No,2-Day Shipping,No,No,39,Bank Transfer,Quarterly,31,6,2,Belt
+390,53,M,Yellow,Summer,2.9,No,Standard,No,No,9,Venmo,Quarterly,31,6,2,Pants
+391,100,XL,Cyan,Summer,4.4,No,Free Shipping,No,No,49,Credit Card,Weekly,24,5,1,Belt
+391,73,XL,Yellow,Winter,2.7,No,Express,No,No,34,Cash,Every 3 Months,24,5,1,Jeans
+391,40,M,Maroon,Winter,4.5,No,Store Pickup,No,No,35,Bank Transfer,Monthly,24,5,1,Shirt
+391,76,S,Black,Winter,2.8,No,Store Pickup,No,No,50,Debit Card,Weekly,24,5,1,Blouse
+391,80,S,Lavender,Fall,3.1,No,Free Shipping,No,No,4,Bank Transfer,Fortnightly,24,5,1,Shirt
+391,80,XL,Violet,Winter,3.8,No,Store Pickup,No,No,32,Cash,Weekly,24,5,1,Sweater
+391,67,XL,Olive,Spring,2.9,No,Express,No,No,11,PayPal,Fortnightly,24,5,1,Blouse
+392,61,M,Teal,Spring,3.8,No,Express,No,No,49,Credit Card,Annually,27,2,1,Sweater
+392,76,XL,Teal,Spring,4.7,No,Standard,No,No,9,Cash,Annually,27,2,1,Shirt
+392,55,XL,Beige,Summer,3.2,No,Free Shipping,No,No,30,PayPal,Bi-Weekly,27,2,1,Jewelry
+392,85,L,Maroon,Summer,4,No,Next Day Air,No,No,33,Cash,Monthly,27,2,1,Sweater
+392,69,S,Peach,Spring,4.9,No,2-Day Shipping,No,No,8,Debit Card,Annually,27,2,1,Pants
+392,26,L,Beige,Summer,3.7,No,Store Pickup,No,No,29,Debit Card,Fortnightly,27,2,1,Belt
+392,64,M,Silver,Summer,4.8,No,Next Day Air,No,No,4,Credit Card,Monthly,27,2,1,Sweater
+393,60,S,Peach,Fall,3.6,No,Standard,No,No,19,Debit Card,Monthly,35,2,2,Sneakers
+393,36,M,Turquoise,Winter,4.6,No,Express,No,No,10,PayPal,Fortnightly,35,2,2,Blouse
+393,21,L,Orange,Spring,4.3,No,2-Day Shipping,No,No,39,Debit Card,Monthly,35,2,2,Belt
+393,72,S,Cyan,Fall,3.2,No,2-Day Shipping,No,No,21,Venmo,Quarterly,35,2,2,Backpack
+393,62,S,Silver,Summer,3.8,No,Store Pickup,No,No,12,Bank Transfer,Monthly,35,2,2,Pants
+393,44,XL,Gold,Winter,4.2,No,Standard,No,No,9,Credit Card,Fortnightly,35,2,2,Sweater
+394,52,M,Brown,Fall,3.4,No,2-Day Shipping,No,No,20,Venmo,Quarterly,45,8,2,Shirt
+394,58,M,Silver,Spring,4.7,No,Next Day Air,No,No,44,Cash,Fortnightly,45,8,2,Blouse
+395,77,S,Beige,Spring,3.9,No,2-Day Shipping,No,No,16,Debit Card,Every 3 Months,38,3,1,Blouse
+395,99,L,Violet,Spring,4.3,No,Store Pickup,No,No,27,Debit Card,Fortnightly,38,3,1,Blouse
+395,96,XL,Violet,Fall,2.7,No,Standard,No,No,14,Cash,Every 3 Months,38,3,1,Jeans
+395,64,M,Lavender,Summer,4.6,No,Standard,No,No,24,Credit Card,Monthly,38,3,1,Sweater
+395,44,XL,Red,Fall,2.9,No,Express,No,No,49,Bank Transfer,Weekly,38,3,1,Sweater
+395,33,L,Purple,Fall,3.6,No,Free Shipping,No,No,14,Cash,Weekly,38,3,1,Pants
+396,71,M,Brown,Winter,3.9,No,Next Day Air,No,No,6,Credit Card,Quarterly,24,5,2,Belt
+396,36,M,Gray,Fall,2.6,No,Standard,No,No,20,Venmo,Quarterly,24,5,2,Shirt
+397,62,L,Pink,Fall,3.6,No,Express,No,No,3,Credit Card,Annually,27,5,1,Blouse
+397,29,L,Magenta,Summer,3.4,No,Store Pickup,No,No,5,Credit Card,Monthly,27,5,1,Shirt
+397,33,L,Charcoal,Spring,3.5,No,Express,No,No,46,Cash,Bi-Weekly,27,5,1,Sweater
+397,33,L,Yellow,Fall,3.1,No,2-Day Shipping,No,No,8,Debit Card,Monthly,27,5,1,Blouse
+397,41,M,Red,Winter,4.3,No,Standard,No,No,13,Cash,Bi-Weekly,27,5,1,Blouse
+397,54,L,Blue,Winter,5,No,Store Pickup,No,No,25,Bank Transfer,Quarterly,27,5,1,Pants
+397,58,M,Cyan,Spring,4.9,No,Store Pickup,No,No,39,Debit Card,Fortnightly,27,5,1,Backpack
+397,30,S,Pink,Summer,4.3,No,Next Day Air,No,No,15,Bank Transfer,Bi-Weekly,27,5,1,Shirt
+398,53,S,Maroon,Winter,4.4,No,Standard,No,No,35,Cash,Monthly,50,2,1,Jewelry
+398,91,L,Beige,Spring,4.4,No,Next Day Air,No,No,46,Cash,Bi-Weekly,50,2,1,Blouse
+399,44,XL,Gold,Fall,3.5,No,Express,No,No,3,PayPal,Monthly,61,6,1,Pants
+399,89,XL,Turquoise,Winter,3.4,No,Free Shipping,No,No,48,Credit Card,Weekly,61,6,1,Pants
+399,57,L,Peach,Spring,2.5,No,Next Day Air,No,No,27,Bank Transfer,Weekly,61,6,1,Shirt
+399,57,M,Lavender,Spring,3.4,No,Store Pickup,No,No,5,Credit Card,Weekly,61,6,1,Sunglasses
+399,74,M,Gray,Summer,2.6,No,Next Day Air,No,No,48,Debit Card,Quarterly,61,6,1,Jewelry
+399,30,M,Blue,Fall,4.6,No,2-Day Shipping,No,No,12,Venmo,Weekly,61,6,1,Pants
+399,20,L,Red,Summer,3.7,No,Express,No,No,10,PayPal,Fortnightly,61,6,1,Dress
+399,90,M,Purple,Fall,2.5,No,Free Shipping,No,No,48,Debit Card,Bi-Weekly,61,6,1,Pants
+400,61,L,Indigo,Fall,4.5,No,Express,No,No,3,Debit Card,Monthly,30,4,2,Jeans
+400,51,M,Gold,Fall,2.9,No,Standard,No,No,19,Venmo,Monthly,30,4,2,Belt
+400,97,L,Teal,Winter,2.9,No,Free Shipping,No,No,11,Debit Card,Fortnightly,30,4,2,Sunglasses
+400,97,L,Magenta,Fall,3.5,No,Next Day Air,No,No,25,Venmo,Monthly,30,4,2,Pants
+400,40,L,Maroon,Winter,4.2,No,Store Pickup,No,No,42,PayPal,Weekly,30,4,2,Shirt
+400,85,S,Blue,Summer,3.3,No,Free Shipping,No,No,34,Cash,Quarterly,30,4,2,Jewelry
+401,76,S,Beige,Winter,3.9,No,Store Pickup,No,No,50,Cash,Quarterly,0,0,0,Shirt
+401,22,S,Olive,Spring,5,No,Store Pickup,No,No,21,Venmo,Monthly,0,0,0,Belt
+401,63,M,Gold,Summer,3.3,No,Standard,No,No,37,Bank Transfer,Weekly,0,0,0,Pants
+401,71,S,Silver,Spring,4.2,No,Free Shipping,No,No,46,Cash,Monthly,0,0,0,Sweater
+401,35,M,Teal,Summer,4.9,No,2-Day Shipping,No,No,14,Bank Transfer,Fortnightly,0,0,0,Belt
+401,30,M,Green,Spring,4.6,No,2-Day Shipping,No,No,24,PayPal,Fortnightly,0,0,0,Backpack
+401,74,L,Orange,Fall,4.8,No,Store Pickup,No,No,36,Credit Card,Every 3 Months,0,0,0,Shirt
+401,71,XL,Charcoal,Winter,2.7,No,Next Day Air,No,No,19,Debit Card,Bi-Weekly,0,0,0,Pants
+401,84,S,Black,Spring,4.3,No,Store Pickup,No,No,12,Credit Card,Monthly,0,0,0,Sweater
+401,38,S,Yellow,Fall,3.8,No,Express,No,No,13,Debit Card,Quarterly,0,0,0,Belt
+402,81,M,Gray,Spring,4.9,No,Express,No,No,32,Debit Card,Bi-Weekly,0,0,0,Jewelry
+402,56,S,Charcoal,Winter,3.4,No,2-Day Shipping,No,No,5,Credit Card,Bi-Weekly,0,0,0,Sweater
+403,48,M,Peach,Winter,3.6,No,Express,No,No,29,Cash,Annually,0,0,0,Shirt
+403,97,L,Green,Fall,3.4,No,Standard,No,No,40,Credit Card,Fortnightly,0,0,0,Shirt
+403,74,M,Magenta,Fall,4.7,No,2-Day Shipping,No,No,44,Cash,Weekly,0,0,0,Backpack
+403,50,S,Beige,Winter,3,No,Next Day Air,No,No,3,Debit Card,Bi-Weekly,0,0,0,Pants
+404,71,L,Black,Winter,3.4,No,Free Shipping,No,No,35,PayPal,Bi-Weekly,0,0,0,Shirt
+404,33,S,Purple,Summer,4.6,No,Standard,No,No,33,Debit Card,Monthly,0,0,0,Shirt
+404,56,M,Olive,Summer,3.1,No,Express,No,No,20,PayPal,Bi-Weekly,0,0,0,Backpack
+404,84,M,Purple,Spring,2.8,No,Standard,No,No,40,Cash,Every 3 Months,0,0,0,Blouse
+405,36,M,Green,Fall,3.5,No,Store Pickup,No,No,13,Venmo,Annually,0,0,0,Shirt
+405,63,S,Peach,Summer,4.6,No,Standard,No,No,9,PayPal,Monthly,0,0,0,Blouse
+405,36,XL,Blue,Summer,4.3,No,Standard,No,No,7,Cash,Annually,0,0,0,Belt
+405,63,M,Gray,Fall,4.8,No,Free Shipping,No,No,42,PayPal,Quarterly,0,0,0,Pants
+405,32,L,Black,Winter,2.9,No,Express,No,No,44,Credit Card,Fortnightly,0,0,0,Sneakers
+405,93,M,Silver,Spring,3,No,Express,No,No,6,PayPal,Annually,0,0,0,Backpack
+406,29,M,Pink,Summer,2.9,No,Standard,No,No,8,Cash,Every 3 Months,0,0,0,Pants
+406,92,S,Lavender,Summer,3.7,No,Standard,No,No,10,PayPal,Weekly,0,0,0,Sunglasses
+406,33,L,Brown,Fall,4.7,No,Standard,No,No,46,Venmo,Quarterly,0,0,0,Jeans
+406,52,L,Turquoise,Spring,3.5,No,Store Pickup,No,No,26,Cash,Weekly,0,0,0,Pants
+406,42,S,Olive,Spring,2.7,No,Store Pickup,No,No,6,Debit Card,Every 3 Months,0,0,0,Jewelry
+406,36,M,White,Spring,5,No,Free Shipping,No,No,47,Credit Card,Every 3 Months,0,0,0,Pants
+406,67,L,Violet,Summer,4.1,No,Next Day Air,No,No,28,Venmo,Annually,0,0,0,Belt
+406,43,L,Gold,Winter,2.7,No,Free Shipping,No,No,23,Bank Transfer,Annually,0,0,0,Pants
+406,68,XL,Violet,Spring,4.8,No,Free Shipping,No,No,45,Cash,Fortnightly,0,0,0,Blouse
+407,60,S,Teal,Summer,4.3,No,2-Day Shipping,No,No,44,PayPal,Every 3 Months,0,0,0,Jewelry
+407,53,M,Olive,Summer,4.5,No,2-Day Shipping,No,No,11,Bank Transfer,Monthly,0,0,0,Shirt
+407,23,L,Blue,Spring,3.8,No,Standard,No,No,39,Debit Card,Bi-Weekly,0,0,0,Jeans
+407,57,L,Magenta,Winter,3.7,No,Store Pickup,No,No,20,PayPal,Every 3 Months,0,0,0,Blouse
+407,89,L,Gray,Fall,3.9,No,2-Day Shipping,No,No,48,PayPal,Fortnightly,0,0,0,Dress
+407,99,XL,Peach,Winter,3.3,No,Standard,No,No,46,Credit Card,Quarterly,0,0,0,Shirt
+407,28,M,Cyan,Fall,3.4,No,Express,No,No,22,PayPal,Monthly,0,0,0,Pants
+407,53,L,Violet,Summer,3.8,No,Next Day Air,No,No,45,Cash,Annually,0,0,0,Shirt
+408,45,M,Gold,Winter,2.7,No,Free Shipping,No,No,49,Cash,Every 3 Months,0,0,0,Pants
+408,38,M,Gold,Winter,2.9,No,2-Day Shipping,No,No,9,Credit Card,Every 3 Months,0,0,0,Pants
+408,49,M,White,Summer,4.5,No,Standard,No,No,41,Credit Card,Quarterly,0,0,0,Pants
+408,32,M,Gray,Summer,2.6,No,Store Pickup,No,No,2,PayPal,Monthly,0,0,0,Shirt
+408,37,L,Brown,Winter,3.1,No,Next Day Air,No,No,39,PayPal,Bi-Weekly,0,0,0,Sweater
+408,80,L,Gray,Winter,4.7,No,Store Pickup,No,No,12,PayPal,Quarterly,0,0,0,Dress
+409,78,L,Blue,Summer,4.6,No,Free Shipping,No,No,26,PayPal,Every 3 Months,0,0,0,Backpack
+409,53,L,Gold,Summer,2.7,No,Next Day Air,No,No,32,Bank Transfer,Bi-Weekly,0,0,0,Blouse
+411,82,L,Yellow,Summer,4.6,No,2-Day Shipping,No,No,50,Cash,Bi-Weekly,0,0,0,Shirt
+411,33,XL,Green,Spring,4.8,No,Standard,No,No,3,PayPal,Fortnightly,0,0,0,Shirt
+411,77,M,Pink,Winter,4.2,No,Free Shipping,No,No,3,Venmo,Quarterly,0,0,0,Blouse
+412,56,M,Pink,Winter,4.9,No,Express,No,No,37,Cash,Monthly,0,0,0,Pants
+412,37,M,Pink,Winter,4.9,No,Express,No,No,20,Credit Card,Fortnightly,0,0,0,Shirt
+413,54,M,Cyan,Spring,4.5,No,Store Pickup,No,No,26,Cash,Bi-Weekly,0,0,0,Blouse
+413,67,M,Gray,Winter,2.7,No,Store Pickup,No,No,47,Cash,Quarterly,0,0,0,Shirt
+413,90,M,White,Fall,3.1,No,Store Pickup,No,No,7,Credit Card,Every 3 Months,0,0,0,Shirt
+414,72,L,Red,Summer,3.3,No,2-Day Shipping,No,No,40,Credit Card,Annually,0,0,0,Jeans
+414,59,L,Black,Summer,2.6,No,Free Shipping,No,No,45,Debit Card,Quarterly,0,0,0,Belt
+414,45,M,Silver,Fall,4.4,No,Standard,No,No,20,PayPal,Fortnightly,0,0,0,Dress
+415,30,L,Pink,Spring,3.9,No,Standard,No,No,11,Credit Card,Weekly,0,0,0,Shirt
+416,51,S,Cyan,Summer,4.6,No,Express,No,No,50,Debit Card,Monthly,0,0,0,Pants
+416,90,M,White,Fall,4.9,No,Express,No,No,25,Debit Card,Quarterly,0,0,0,Sweater
+416,95,XL,Purple,Winter,3.7,No,Express,No,No,5,Credit Card,Fortnightly,0,0,0,Pants
+416,81,L,Yellow,Fall,3.7,No,Standard,No,No,4,Venmo,Annually,0,0,0,Dress
+417,70,S,Blue,Spring,4.2,No,Standard,No,No,25,Credit Card,Weekly,0,0,0,Shirt
+417,32,S,Cyan,Winter,3.5,No,Next Day Air,No,No,11,Bank Transfer,Fortnightly,0,0,0,Dress
+417,94,M,Indigo,Spring,2.9,No,Next Day Air,No,No,4,Credit Card,Bi-Weekly,0,0,0,Belt
+417,29,XL,Indigo,Spring,3.4,No,Next Day Air,No,No,1,Venmo,Monthly,0,0,0,Dress
+417,31,M,Silver,Summer,3.3,No,Express,No,No,48,PayPal,Every 3 Months,0,0,0,Backpack
+418,20,XL,Red,Fall,4.5,No,Standard,No,No,9,Venmo,Every 3 Months,0,0,0,Shirt
+418,44,M,Peach,Winter,4.6,No,2-Day Shipping,No,No,2,PayPal,Fortnightly,0,0,0,Blouse
+418,77,L,Turquoise,Fall,2.9,No,Express,No,No,4,Cash,Quarterly,0,0,0,Pants
+419,51,M,Pink,Spring,3.2,No,Next Day Air,No,No,43,PayPal,Fortnightly,0,0,0,Pants
+419,49,M,Teal,Summer,2.6,No,Free Shipping,No,No,32,Bank Transfer,Annually,0,0,0,Belt
+419,78,L,Magenta,Spring,3.8,No,Store Pickup,No,No,1,Cash,Quarterly,0,0,0,Sunglasses
+419,98,L,Blue,Spring,2.8,No,Store Pickup,No,No,38,Debit Card,Fortnightly,0,0,0,Jeans
+419,94,M,Green,Winter,4.4,No,Store Pickup,No,No,25,PayPal,Fortnightly,0,0,0,Belt
+420,91,L,Violet,Summer,4.7,No,Express,No,No,42,PayPal,Quarterly,0,0,0,Shirt
+420,77,M,Turquoise,Summer,2.7,No,2-Day Shipping,No,No,32,PayPal,Monthly,0,0,0,Sunglasses
+420,97,M,Pink,Summer,2.6,No,Next Day Air,No,No,21,Debit Card,Quarterly,0,0,0,Pants
+420,58,M,Black,Summer,3.4,No,2-Day Shipping,No,No,26,PayPal,Fortnightly,0,0,0,Shirt
+421,97,M,Gold,Spring,3.9,No,2-Day Shipping,No,No,6,Credit Card,Fortnightly,0,0,0,Blouse
+421,48,L,Green,Summer,3.4,No,2-Day Shipping,No,No,14,Venmo,Quarterly,0,0,0,Belt
+421,23,XL,White,Summer,3.4,No,Express,No,No,4,Cash,Quarterly,0,0,0,Belt
+422,79,M,Gold,Winter,3.9,No,Free Shipping,No,No,26,Bank Transfer,Weekly,0,0,0,Pants
+422,42,S,Charcoal,Spring,4,No,Express,No,No,39,PayPal,Bi-Weekly,0,0,0,Jewelry
+422,95,L,White,Spring,3.4,No,2-Day Shipping,No,No,15,PayPal,Annually,0,0,0,Backpack
+423,29,M,Brown,Summer,3.7,No,Next Day Air,No,No,1,Venmo,Every 3 Months,0,0,0,Sneakers
+424,98,L,Gold,Winter,4.9,No,2-Day Shipping,No,No,28,Venmo,Monthly,0,0,0,Pants
+424,96,S,Purple,Spring,5,No,Express,No,No,17,Cash,Weekly,0,0,0,Blouse
+424,66,M,Brown,Fall,2.9,No,Next Day Air,No,No,24,Credit Card,Weekly,0,0,0,Sunglasses
+424,80,S,Teal,Spring,3,No,Standard,No,No,29,Debit Card,Quarterly,0,0,0,Belt
+424,27,L,Indigo,Summer,3.3,No,Next Day Air,No,No,18,Cash,Every 3 Months,0,0,0,Sneakers
+425,25,M,Purple,Fall,4.7,No,Express,No,No,10,Debit Card,Bi-Weekly,0,0,0,Backpack
+425,45,M,Orange,Fall,3.4,No,2-Day Shipping,No,No,19,Cash,Quarterly,0,0,0,Pants
+425,89,L,Indigo,Winter,4.6,No,2-Day Shipping,No,No,26,Debit Card,Monthly,0,0,0,Shirt
+425,27,M,Lavender,Winter,3.6,No,2-Day Shipping,No,No,25,Cash,Bi-Weekly,0,0,0,Belt
+425,90,S,Purple,Winter,2.6,No,Free Shipping,No,No,2,Debit Card,Fortnightly,0,0,0,Sunglasses
+425,65,M,Red,Summer,2.7,No,Express,No,No,19,PayPal,Every 3 Months,0,0,0,Shirt
+425,72,S,Blue,Spring,3.1,No,Express,No,No,32,Cash,Quarterly,0,0,0,Sneakers
+426,70,L,Blue,Fall,3.2,No,2-Day Shipping,No,No,13,Cash,Bi-Weekly,0,0,0,Shirt
+426,82,M,Cyan,Winter,3.4,No,Store Pickup,No,No,30,PayPal,Fortnightly,0,0,0,Belt
+426,97,S,Pink,Fall,4.4,No,Express,No,No,2,Credit Card,Annually,0,0,0,Pants
+426,25,M,Silver,Summer,3.2,No,2-Day Shipping,No,No,8,PayPal,Quarterly,0,0,0,Shirt
+426,48,M,Gray,Spring,2.5,No,Free Shipping,No,No,27,PayPal,Every 3 Months,0,0,0,Shirt
