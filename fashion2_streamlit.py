@@ -25,9 +25,9 @@ import streamlit as st
 # Run the Streamlit app using streamlit run <filename>.py from the command line.
 
 # Read CSV files
-cluster_df = pd.read_csv('cluster_result.csv')
-recommendation_df = pd.read_csv('recommendation_result.csv')
-items_df = pd.read_csv('frq_items_result.csv')
+cluster_df = pd.read_csv('cluster.csv')
+recommendation_df = pd.read_csv('recommendation.csv')
+items_df = pd.read_csv('frq_items.csv')
 
 cluster_df = cluster_df.drop(columns=['Unnamed: 0'], inplace=False)
 recommendation_df = recommendation_df.drop(columns=['Unnamed: 0'], inplace=False)
