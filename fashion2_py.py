@@ -6,6 +6,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 
 df0 = pd.read_csv('frq_items.csv')
+
 df1 = df0.drop(columns=['Unnamed: 0', 'support'], inplace=False)
 
 df1['Item'] = df1['itemsets'].astype(str).str.extract(r"\{(.+?)\}")
@@ -37,16 +38,16 @@ for index, row in df1.iterrows():
 
 combo_list = cleaned_items
 
-df1 = pd.read_csv('df1.csv')
-color_counts = df1.groupby('Color').size()
-season_counts = df1.groupby('Season').size()
-shipping_counts = df1.groupby('Shipping Type').size()
-discount_counts = df1.groupby('Discount Applied').size()
-payment_counts = df1.groupby('Payment Method').size()
-age_counts = df1.groupby('Age').size()
-sum_purchase = df1.groupby('Purchased')['Purchase Amount (USD)'].sum()
-sum_location = df1.groupby('Location')['Purchase Amount (USD)'].sum()
-sum_age = df1.groupby('Age')['Purchase Amount (USD)'].sum()
+df11 = pd.read_csv('df1.csv')
+color_counts = df11.groupby('Color').size()
+season_counts = df11.groupby('Season').size()
+shipping_counts = df11.groupby('Shipping Type').size()
+discount_counts = df11.groupby('Discount Applied').size()
+payment_counts = df11.groupby('Payment Method').size()
+age_counts = df11.groupby('Age').size()
+sum_purchase = df11.groupby('Purchased')['Purchase Amount (USD)'].sum()
+sum_location = df11.groupby('Location')['Purchase Amount (USD)'].sum()
+sum_age = df11.groupby('Age')['Purchase Amount (USD)'].sum()
 
 
 
@@ -229,6 +230,9 @@ def update_output(selected_item):
         if selected_item in pair:
             recommendations.append(pair[1] if pair[0] == selected_item else pair[0])
     return ', '.join(recommendations) if recommendations else ''
+
+
+
 
 # Run the app
 if __name__ == '__main__':
